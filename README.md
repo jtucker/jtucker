@@ -20,5 +20,12 @@ My current interests include:
 - Agile software methodologies
 - Behaviour Driven Development
 
+Feel free to reach out via at any of the places below:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jtucker?style=flat-square&color=blue)](https://twitter.com/jtucker)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue)](https://linkedin.com/in/jatucke)
+
+
 
 

@@ -1,4 +1,4 @@
-# Hey there, I'm Jason
+# Hey there, I'm Jason 👋
 
 Currently, I work at [Microsoft](https://microsoft.com) as a Sr. Consultant. I spend my days between helping customers work through digital transformations, developing solutions to aid their businesses and sharing dank memes with co-workers. 
 

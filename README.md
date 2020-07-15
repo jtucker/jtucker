@@ -11,7 +11,7 @@ I've been working in this industry since 1998 and have had various roles includi
 I've been lucky enough to work on projects of all types:
 
 - Simple web sites
-- Airline passenger queueing predictive
+- Airline passenger queueing predictive analytics
 - Splitting monoliths into microservices
 
 My current interests include:

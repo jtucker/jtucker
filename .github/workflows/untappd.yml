@@ -1,0 +1,24 @@
+name: Untappd README Update
+
+on: 
+  schedule: 
+    - cron: '0 */1 * * *'
+
+jobs:
+  get_activities: 
+    runs_on: ubuntu-latest
+    name: Get the latest activity feed
+    steps: 
+      - uses: action/checkout@v2
+      - name: Fetch API Data
+        uses: JamesIves/fetch-api-data-action@releases/v1
+        with: 
+          ENDPOINT: https://api.untappd.com/v4/user/checkins/jtucker?CLIENT_ID={{secrets.UNTAPPD_CLIENT_ID}}&client_secret={{secrets.UNTAPPD_CLIENT_SECRET}}
+          CONFIGURATION: { method: 'GET', headers: {'Content-Type': 'application/json'} }
+          SAVE_LOCATION: 'untapped/activity.json'
+      - name: Update README with untappd
+        uses: EddieJaoudeCommunity/gh-actions-html-table-generator@v0.1.1
+        with:
+          github-token: {{ secrets.GITHUB_TOKEN }}
+          json-file-path: 'untappd/activity.json'
+

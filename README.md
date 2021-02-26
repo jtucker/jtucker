@@ -26,6 +26,7 @@ Feel free to reach out via any of the places below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue)](https://linkedin.com/in/jatucke)
 
-
+<!--START_SECTION:data-section-->
+<!--END_SECTION:data-section-->
 
 

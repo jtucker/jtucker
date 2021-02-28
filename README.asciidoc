@@ -1,0 +1,32 @@
+# Hey there, I'm Jason 👋
+
+Currently, I work at [Microsoft](https://microsoft.com) as a Sr. Consultant. I spend my days between helping customers work through digital transformations, developing solutions to aid their businesses and sharing dank memes with co-workers. 
+
+I've been working in this industry since 1998 and have had various roles including: 
+- System Administration
+- Developer (thick client & web)
+- Consultant
+- Scrum Master
+
+I've been lucky enough to work on projects of all types:
+
+- Simple web sites
+- Airline passenger queueing predictive analytics
+- Splitting monoliths into microservices
+
+My current interests include:
+
+- Functional programming, especially with F#
+- Agile software methodologies
+- Behaviour Driven Development
+
+Feel free to reach out via any of the places below:
+
+image:https://img.shields.io/twitter/follow/jtucker?style=flat-square&color=blue["Twitter",link="https://twitter.com/jtucker]
+
+image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link="https://linkedin.com/in/jatucke]
+
+|====
+| image:https://untappd.akamaized.net/photos/2021_02_20/e6988df410dbf6afd5b7af0bf738e052_200x200.jpg["For the Company - Bluejacket picture"] | Drinking a *For the Company* by *Bluejacket*. It is a *Lager - Helles* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2021_02_20/87093b13818afcc653e7afeb88a1b779_200x200.jpg["Marg Mix - Cushwa Brewing Company picture"] | Drinking a *Marg Mix* by *Cushwa Brewing Company*. It is a *Sour - Gose* style of beer. | I rated it a *3.75*
+| image:https://untappd.akamaized.net/photos/2021_02_15/fb1108d8508fe5aaa7a50bdef194d5ba_200x200.jpg["Bright Edges - Other Half Brewing Co. picture"] | Drinking a *Bright Edges* by *Other Half Brewing Co.*. It is a *IPA - American* style of beer. | I rated it a *4*

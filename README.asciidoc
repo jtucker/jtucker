@@ -26,4 +26,9 @@ image:https://img.shields.io/twitter/follow/jtucker?style=flat-square&color=blue
 
 image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link="https://linkedin.com/in/jatucke]
 
+### My Latest Untappd checkins
+
+|====
+// untappd beer
 include::untappd.asciidoc[]
+// untappd end

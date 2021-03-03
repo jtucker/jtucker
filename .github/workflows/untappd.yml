@@ -3,7 +3,6 @@ name: Untappd README Update
 on: 
   schedule: 
     - cron: '0 */1 * * *'
-  workflow_dispatch:
   
 jobs:
   get_activities: 

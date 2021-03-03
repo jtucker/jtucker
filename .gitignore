@@ -1,1 +1,7 @@
 *.env
+.secrets
+.fake
+.ionide
+untappd/
+.actrc
+act/

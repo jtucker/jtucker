@@ -9,10 +9,21 @@ jobs:
   get_activities: 
     name: Get the latest activity feed
     runs-on: ubuntu-latest
+    env:
+      DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: 1
+      DOTNET_NOLOGO: true
+      DOTNET_CLI_TELEMETRY_OPTOUT: true
     steps: 
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
 
+      - name: Setup dotnet 5
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '5.0.x'
+      
       - name: Install jq
         run: |
           curl -Lo jq https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64
@@ -25,15 +36,13 @@ jobs:
           curl -o untappd/activity.json "https://api.untappd.com/v4/user/checkins/jtucker?client_id=${{ secrets.UNTAPPD_CLIENT_ID }}&client_secret=${{ secrets.UNTAPPD_CLIENT_SECRET }}&limit=3"
           jq '.response.checkins.items | map({ name: .beer.beer_name, style: .beer.beer_style, label: .beer.beer_label, photo: .media.items | .[0] | .photo.photo_img_sm,  brewery: .brewery.brewery_name, rating: .rating_score })' untappd/activity.json > untappd/beers.json
 
-      - name: Update README with untappd
-        uses: EddieJaoudeCommunity/gh-actions-html-table-generator@v0.1.1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          object-field-names: '["name", "style", "label", "photo", "brewery", "rating"]'
-          columns: 1
-          html-cell: '<td align="center">
-            <img src="{{ photo }}" alt="{{ name }} - {{ brewery }} picture" />
-            Drinking a <strong>{{ name }}</strong> by <strong>{{ brewery }}</strong>. It is a <strong>{{ style }}</strong> style of beer. I rated it a <strong>{{ rating }}</strong>
-          </td>'
-          json-file-path: 'untappd/beers.json'
+      - name: Update readme with checkins
+        run: |
+          dotnet fsi update-readme.fsx
 
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Updated README with latest untappd activity $(date +'%Y-%m-%d')
+          commit_user_name: My Untappd Update Bot
+          commit_user_email: my-untappd-activity@noreply.email.com
+          skip_dirty_check: false

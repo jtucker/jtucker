@@ -42,7 +42,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Updated README with latest untappd activity $(date +'%Y-%m-%d')
+          commit_message: Updated README with latest untappd activity
           commit_user_name: My Untappd Update Bot
           commit_user_email: my-untappd-activity@noreply.email.com
           skip_dirty_check: false

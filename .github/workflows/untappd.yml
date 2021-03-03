@@ -13,6 +13,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Setup dotnet 5
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '5.0.x'
+
       - name: Install jq
         run: |
           curl -Lo jq https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64
@@ -25,15 +30,17 @@ jobs:
           curl -o untappd/activity.json "https://api.untappd.com/v4/user/checkins/jtucker?client_id=${{ secrets.UNTAPPD_CLIENT_ID }}&client_secret=${{ secrets.UNTAPPD_CLIENT_SECRET }}&limit=3"
           jq '.response.checkins.items | map({ name: .beer.beer_name, style: .beer.beer_style, label: .beer.beer_label, photo: .media.items | .[0] | .photo.photo_img_sm,  brewery: .brewery.brewery_name, rating: .rating_score })' untappd/activity.json > untappd/beers.json
 
-      - name: Update README with untappd
-        uses: EddieJaoudeCommunity/gh-actions-html-table-generator@v0.1.1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          object-field-names: '["name", "style", "label", "photo", "brewery", "rating"]'
-          columns: 1
-          html-cell: '<td align="center">
-            <img src="{{ photo }}" alt="{{ name }} - {{ brewery }} picture" />
-            Drinking a <strong>{{ name }}</strong> by <strong>{{ brewery }}</strong>. It is a <strong>{{ style }}</strong> style of beer. I rated it a <strong>{{ rating }}</strong>
-          </td>'
-          json-file-path: 'untappd/beers.json'
-
+      - name: Update readme with checkins
+        run: |
+          echo 'updating README.asciidoc... '
+          dotnet fsi update-readme.fsx
+          echo 'finished updating README.asciidoc'
+      
+      - name: Commit if updated
+        run: |
+          git diff
+          git config --global user.email "readmeupdater@noreply.github.com"
+          git config --global user.name  "readme-updater"
+          git add -A
+          git commit -m "Updated README with new checkins on date::$(date +'%Y-%m-%d')" || exit 0
+          git push

@@ -1,4 +1,5 @@
 *.env
+.secrets
 .fake
 .ionide
 untappd/

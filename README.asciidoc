@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_03_06/56e9443bad7f2111f471ae28b77b761d_200x200.jpg[Pure Tropics - Parish Brewing Co.] | Drinking a *Pure Tropics* by *Parish Brewing Co.*. It is a *IPA - American* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2021_03_03/b05d815f18945cabc490035b10b42cee_200x200.jpg[Pale From the Crypt - Liquid Gravity Brewing Company] | Drinking a *Pale From the Crypt* by *Liquid Gravity Brewing Company*. It is a *Pale Ale - American* style of beer. | I rated it a *4*
 | image:https://untappd.akamaized.net/photos/2021_02_20/e6988df410dbf6afd5b7af0bf738e052_200x200.jpg[For the Company - Bluejacket] | Drinking a *For the Company* by *Bluejacket*. It is a *Lager - Helles* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2021_02_20/87093b13818afcc653e7afeb88a1b779_200x200.jpg[Marg Mix - Cushwa Brewing Company] | Drinking a *Marg Mix* by *Cushwa Brewing Company*. It is a *Sour - Gose* style of beer. | I rated it a *3.75*
 // untappd end

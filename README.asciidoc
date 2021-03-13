@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_03_13/c76ac9e762c303ef581c6132373fee5b_200x200.jpg[Limbo - Anchorage Brewing Company] | Drinking a *Limbo* by *Anchorage Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.75*
+| image:https://untappd.akamaized.net/photos/2021_03_13/bde4dfde483f4e399320f96a310b1b28_200x200.jpg[Worries Vanish - Sun Lab Brewing] | Drinking a *Worries Vanish* by *Sun Lab Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2021_03_13/c9f713cd5791f5bccdba10c7df0cf7ac_200x200.jpg[Yeti Confetti - KCBC - Kings County Brewers Collective] | Drinking a *Yeti Confetti* by *KCBC - Kings County Brewers Collective*. It is a *Sour - Fruited* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2021_03_07/3df41120d959f7517701f54da302dc26_200x200.jpg[DDH Juicy Bits - WeldWerks Brewing Co.] | Drinking a *DDH Juicy Bits* by *WeldWerks Brewing Co.*. It is a *IPA - New England* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2021_03_07/ad95cc96c35d07bd0827f1fed922121c_200x200.jpg[DDH Blissful Ignorance - Lupulin Brewing Company ] | Drinking a *DDH Blissful Ignorance* by *Lupulin Brewing Company *. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
 // untappd end

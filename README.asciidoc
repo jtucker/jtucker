@@ -31,6 +31,6 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 |====
 // untappd beer
 | image:https://untappd.akamaized.net/photos/2021_03_27/8f26d04a3dbc8bac8da345a560f8da0b_200x200.jpg[Luminous Spheres - Astro Lab Brewing ] | Drinking a *Luminous Spheres* by *Astro Lab Brewing *. It is a *Pilsner - Imperial / Double* style of beer. | I rated it a *3.75*
-| image:https://untappd.akamaized.net/photos/2021_03_26/b0ac7ba01bf075cd7b6b521e0c644c4a_200x200.jpg[This Is Your Brain On Hops : Citra & Galaxy - KCBC - Kings County Brewers Collective] | Drinking a *This Is Your Brain On Hops : Citra & Galaxy* by *KCBC - Kings County Brewers Collective*. It is a *IPA - American* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2021_03_26/b0ac7ba01bf075cd7b6b521e0c644c4a_200x200.jpg[This Is Your Brain On Hops : Citra & Galaxy - KCBC - Kings County Brewers Collective] | Drinking a *This Is Your Brain On Hops : Citra & Galaxy* by *KCBC - Kings County Brewers Collective*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
 | image:https://untappd.akamaized.net/photos/2021_03_20/890831991329c6f947d89335e5769257_200x200.jpg[Noise Floor - Modist Brewing Co.] | Drinking a *Noise Floor* by *Modist Brewing Co.*. It is a *IPA - New England* style of beer. | I rated it a *4.25*
 // untappd end

@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:Some(https://untappd.akamaized.net/photos/2021_04_10/4a7200c93bda908a6f5f0d40f25ed36f_200x200.jpg)[Wait, What? - Aslin Beer Company] | Drinking a *Wait, What?* by *Aslin Beer Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
-| image:Some(https://untappd.akamaized.net/photos/2021_04_07/478524901d08d2af68dadf861cef7fa6_200x200.jpg)[Jelly Not Jam (Blueberry, Mango, Lemon) - Burley Oak Brewing Company] | Drinking a *Jelly Not Jam (Blueberry, Mango, Lemon)* by *Burley Oak Brewing Company*. It is a *Sour - Fruited* style of beer. | I rated it a *4*
-| image:[Chasing Trees: Strain 12 - DankHouse Brewing Company] | Drinking a *Chasing Trees: Strain 12* by *DankHouse Brewing Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4.25*
+| image:https://untappd.akamaized.net/photos/2021_04_10/a24547402f3d320bf4a531f9ab3213e2_200x200.jpg[Crosse - True Respite Brewing Company] | Drinking a *Crosse* by *True Respite Brewing Company*. It is a *IPA - New England* style of beer. | I rated it a *3.75*
+| image:https://untappd.akamaized.net/photos/2021_04_10/4a7200c93bda908a6f5f0d40f25ed36f_200x200.jpg[Wait, What? - Aslin Beer Company] | Drinking a *Wait, What?* by *Aslin Beer Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2021_04_07/478524901d08d2af68dadf861cef7fa6_200x200.jpg[Jelly Not Jam (Blueberry, Mango, Lemon) - Burley Oak Brewing Company] | Drinking a *Jelly Not Jam (Blueberry, Mango, Lemon)* by *Burley Oak Brewing Company*. It is a *Sour - Fruited* style of beer. | I rated it a *4*
 // untappd end

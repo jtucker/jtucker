@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_04_14/3d59f57216a037f28bad3222da2a06e3_200x200.jpg[Citra Drink - Levante Brewing Company] | Drinking a *Citra Drink* by *Levante Brewing Company*. It is a *Pale Ale - New England* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2021_04_11/7bd1bb6062d1ffdd8764cf7d773e762f_200x200.jpg[Hans the Revelator - Revelation Craft Brewing Company] | Drinking a *Hans the Revelator* by *Revelation Craft Brewing Company*. It is a *Bock - Doppelbock* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2021_04_11/11e14069d5bac611826ffe196cb5ae42_200x200.jpg[Burst IPA - Revelation Craft Brewing Company] | Drinking a *Burst IPA* by *Revelation Craft Brewing Company*. It is a *IPA - New England* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2021_04_11/d9e9739f1885d02aac9c1a5abac88635_200x200.jpg[Paddy Boh Pilsner - Revelation Craft Brewing Company] | Drinking a *Paddy Boh Pilsner* by *Revelation Craft Brewing Company*. It is a *Pilsner - Czech* style of beer. | I rated it a *3.5*
 // untappd end

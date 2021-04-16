@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:Some(https://untappd.akamaized.net/photos/2021_04_16/889f78f2db4fb81d49dd8468caa4e8ce_200x200.jpg)[Futuristic Future - Dewey Beer Company] | Drinking a *Futuristic Future* by *Dewey Beer Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
 | image:Some(https://untappd.akamaized.net/photos/2021_04_14/636a2d8664116e7cde30eb1a60175b14_200x200.jpg)[Escapades Double Blackberry Strawberry Currant - Thompson Island Brewing Company] | Drinking a *Escapades Double Blackberry Strawberry Currant* by *Thompson Island Brewing Company*. It is a *Sour - Fruited* style of beer. | I rated it a *3.5*
 | image:[No Bad Days - Thompson Island Brewing Company] | Drinking a *No Bad Days* by *Thompson Island Brewing Company*. It is a *Lager - American* style of beer. | I rated it a *2.75*
-| image:Some(https://untappd.akamaized.net/photos/2021_04_14/89c46d29ff5707ad63d85204fe0cb0bd_200x200.jpg)[They Call Me Hey - Dewey Beer Company] | Drinking a *They Call Me Hey* by *Dewey Beer Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.75*
 // untappd end

@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_04_26/8fa4c36059dbe546e8638c67e738d92a_200x200.jpg[Secret Machine - Strawberry Blueberry Gelato - Dewey Beer Company] | Drinking a *Secret Machine - Strawberry Blueberry Gelato* by *Dewey Beer Company*. It is a *Sour - Fruited* style of beer. | I rated it a *4.25*
+| image:https://untappd.akamaized.net/photos/2021_04_26/a3567c69315b18a5802823c741c81640_200x200.jpg[Smoothie Sour (w/ Açaí, Strawberries, Blackberries, Banana & Granola) - Collective Arts Brewing] | Drinking a *Smoothie Sour (w/ Açaí, Strawberries, Blackberries, Banana & Granola)* by *Collective Arts Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *4*
 | image:https://untappd.akamaized.net/photos/2021_04_24/d81363ded31b542c223706cdd395fe06_200x200.jpg[Metäl! DDH IIPA - SingleCut Beersmiths] | Drinking a *Metäl! DDH IIPA* by *SingleCut Beersmiths*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2021_04_24/4e8bb10988197f58e2db6ad6f82ea37c_200x200.jpg[Strictly Illegal - Lupulin Brewing Company ] | Drinking a *Strictly Illegal* by *Lupulin Brewing Company *. It is a *IPA - Triple* style of beer. | I rated it a *3.75*
-| image:https://untappd.akamaized.net/photos/2021_04_21/63a8b4c49b59439fb403cc3520c97049_200x200.jpg[Street Nacho - Tripping Animals Brewing Co.] | Drinking a *Street Nacho* by *Tripping Animals Brewing Co.*. It is a *IPA - Imperial / Double New England* style of beer. | I rated it a *4*
 // untappd end

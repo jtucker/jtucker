@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_04_27/b3f48d356bdee355d30f87fa45800511_200x200.jpg[Amarillo Skies - 3 Stars Brewing Company] | Drinking a *Amarillo Skies* by *3 Stars Brewing Company*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *4*
 | image:https://untappd.akamaized.net/photos/2021_04_26/8fa4c36059dbe546e8638c67e738d92a_200x200.jpg[Secret Machine - Strawberry Blueberry Gelato - Dewey Beer Company] | Drinking a *Secret Machine - Strawberry Blueberry Gelato* by *Dewey Beer Company*. It is a *Sour - Fruited* style of beer. | I rated it a *4.25*
 | image:https://untappd.akamaized.net/photos/2021_04_26/a3567c69315b18a5802823c741c81640_200x200.jpg[Smoothie Sour (w/ Açaí, Strawberries, Blackberries, Banana & Granola) - Collective Arts Brewing] | Drinking a *Smoothie Sour (w/ Açaí, Strawberries, Blackberries, Banana & Granola)* by *Collective Arts Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2021_04_24/d81363ded31b542c223706cdd395fe06_200x200.jpg[Metäl! DDH IIPA - SingleCut Beersmiths] | Drinking a *Metäl! DDH IIPA* by *SingleCut Beersmiths*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
 // untappd end

@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2021_05_21/148df4712d742a87744c0dc025eb8ba7_200x200.jpg[Sour Rosé - Crooked Stave Artisan Beer Project] | Drinking a *Sour Rosé* by *Crooked Stave Artisan Beer Project*. It is a *American Wild Ale* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2021_05_15/1977038099f83076dfe33b2de99962d4_200x200.jpg[Canbic Vol 3 - Beachwood Blendery] | Drinking a *Canbic Vol 3* by *Beachwood Blendery*. It is a *Sour - Fruited* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2021_05_15/5e0b19a9487191b83626050e6fa48536_200x200.jpg[Sour Pipe Project - Blueberry Pancake - Vitamin Sea Brewing] | Drinking a *Sour Pipe Project - Blueberry Pancake* by *Vitamin Sea Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *3.25*
+| image:https://untappd.akamaized.net/photos/2021_05_23/17b35e4a494127b391849700567e85eb_200x200.jpg[Phantom Rouge - 3 Stars Brewing Company] | Drinking a *Phantom Rouge* by *3 Stars Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2021_05_23/ac2c17859a53bae7887b7f136e8da2a4_200x200.jpg[Tropical Galaxy - Almanac Beer Company] | Drinking a *Tropical Galaxy* by *Almanac Beer Company*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3.75*
+| image:https://untappd.akamaized.net/photos/2021_05_23/cd66ecefeb47b90a4847c30270e836ea_200x200.jpg[Apizza! - Aslin Beer Company] | Drinking a *Apizza!* by *Aslin Beer Company*. It is a *Sour - Fruited* style of beer. | I rated it a *3.25*
 // untappd end

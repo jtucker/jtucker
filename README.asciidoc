@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_05_23/612124d260e80674aa2330d78c98eda1_200x200.jpg[Best Friends - Mikkeller Brewing San Diego] | Drinking a *Best Friends* by *Mikkeller Brewing San Diego*. It is a *Sour - Fruited Berliner Weisse* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2021_05_23/17b35e4a494127b391849700567e85eb_200x200.jpg[Phantom Rouge - 3 Stars Brewing Company] | Drinking a *Phantom Rouge* by *3 Stars Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *4*
 | image:https://untappd.akamaized.net/photos/2021_05_23/ac2c17859a53bae7887b7f136e8da2a4_200x200.jpg[Tropical Galaxy - Almanac Beer Company] | Drinking a *Tropical Galaxy* by *Almanac Beer Company*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3.75*
-| image:https://untappd.akamaized.net/photos/2021_05_23/cd66ecefeb47b90a4847c30270e836ea_200x200.jpg[Apizza! - Aslin Beer Company] | Drinking a *Apizza!* by *Aslin Beer Company*. It is a *Sour - Fruited* style of beer. | I rated it a *3.25*
 // untappd end

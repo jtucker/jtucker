@@ -3,7 +3,8 @@ name: Untappd README Update
 on: 
   schedule: 
     - cron: '0 */3 * * *'
-  
+  workflow_dispatch:
+
 jobs:
   get_activities: 
     name: Get the latest activity feed

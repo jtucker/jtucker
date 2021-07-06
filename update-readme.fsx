@@ -14,9 +14,12 @@ type Untappd = JsonProvider<"untappd/beers.json", ResolutionFolder = __SOURCE_DI
 let checkins = 
     Untappd.GetSamples()
 
+let defaultPhoto img =
+    img |> Option.defaultWith (fun () -> "")
+
 let formatCheckins =
     checkins
-    |> Array.map (fun checkin -> sprintf $"| image:{checkin.Photo |> Option.defaultWith (fun () -> string.Empty)}[{checkin.Name} - {checkin.Brewery}] | Drinking a *{checkin.Name}* by *{checkin.Brewery}*. It is a *{checkin.Style}* style of beer. | I rated it a *{checkin.Rating}*")
+    |> Array.map (fun checkin -> sprintf $"| image:{checkin.Photo |> defaultPhoto}[{checkin.Name} - {checkin.Brewery}] | Drinking a *{checkin.Name}* by *{checkin.Brewery}*. It is a *{checkin.Style}* style of beer. | I rated it a *{checkin.Rating}*")
     |> Array.reduce (fun i acc -> $"{i}{System.Environment.NewLine}{acc}")
 
 let readme = File.ReadAllText(readmeLocation)

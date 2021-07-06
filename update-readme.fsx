@@ -16,7 +16,7 @@ let checkins =
 
 let formatCheckins =
     checkins
-    |> Array.map (fun checkin -> sprintf $"| image:{checkin.Photo}[{checkin.Name} - {checkin.Brewery}] | Drinking a *{checkin.Name}* by *{checkin.Brewery}*. It is a *{checkin.Style}* style of beer. | I rated it a *{checkin.Rating}*")
+    |> Array.map (fun checkin -> sprintf $"| image:{checkin.Photo |> Option.defaultWith (fun () -> '')}[{checkin.Name} - {checkin.Brewery}] | Drinking a *{checkin.Name}* by *{checkin.Brewery}*. It is a *{checkin.Style}* style of beer. | I rated it a *{checkin.Rating}*")
     |> Array.reduce (fun i acc -> $"{i}{System.Environment.NewLine}{acc}")
 
 let readme = File.ReadAllText(readmeLocation)

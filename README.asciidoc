@@ -31,6 +31,6 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 |====
 // untappd beer
 | image:[Nu Haze - Southern Tier Brewing Company] | Drinking a *Nu Haze* by *Southern Tier Brewing Company*. It is a *IPA - New England* style of beer. | I rated it a *3.25*
-| image:Some(https://untappd.akamaized.net/photos/2021_07_05/ad40c8ccb747283e01c991f36d92dd6f_200x200.jpg)[Labatt Blue Light Seltzer Black Cherry Lime - Labatt Brewing Company] | Drinking a *Labatt Blue Light Seltzer Black Cherry Lime* by *Labatt Brewing Company*. It is a *Hard Seltzer* style of beer. | I rated it a *2*
-| image:Some(https://untappd.akamaized.net/photos/2021_07_05/23524bf617cdba65c66b6ea9ea037831_200x200.jpg)[... (Dot Dot Dot) - ONCO Fermentations] | Drinking a *... (Dot Dot Dot)* by *ONCO Fermentations*. It is a *Pale Ale - New England* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2021_07_05/ad40c8ccb747283e01c991f36d92dd6f_200x200.jpg[Labatt Blue Light Seltzer Black Cherry Lime - Labatt Brewing Company] | Drinking a *Labatt Blue Light Seltzer Black Cherry Lime* by *Labatt Brewing Company*. It is a *Hard Seltzer* style of beer. | I rated it a *2*
+| image:https://untappd.akamaized.net/photos/2021_07_05/23524bf617cdba65c66b6ea9ea037831_200x200.jpg[... (Dot Dot Dot) - ONCO Fermentations] | Drinking a *... (Dot Dot Dot)* by *ONCO Fermentations*. It is a *Pale Ale - New England* style of beer. | I rated it a *4*
 // untappd end

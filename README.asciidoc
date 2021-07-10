@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_07_10/907a9f53b5a81da0ee62f7788813639a_200x200.jpg[Bianca Cherry Maple Pancake Lassi Gose - Omnipollo] | Drinking a *Bianca Cherry Maple Pancake Lassi Gose* by *Omnipollo*. It is a *Sour - Fruited Gose* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2021_07_09/37f41cdc88a20646ab408eb617ee2336_200x200.jpg[Drop the Base - Three Notch'd Brewing] | Drinking a *Drop the Base* by *Three Notch'd Brewing*. It is a *Stout - Imperial / Double* style of beer. | I rated it a *3.75*
 | image:[Nu Haze - Southern Tier Brewing Company] | Drinking a *Nu Haze* by *Southern Tier Brewing Company*. It is a *IPA - New England* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2021_07_05/ad40c8ccb747283e01c991f36d92dd6f_200x200.jpg[Labatt Blue Light Seltzer Black Cherry Lime - Labatt Brewing Company] | Drinking a *Labatt Blue Light Seltzer Black Cherry Lime* by *Labatt Brewing Company*. It is a *Hard Seltzer* style of beer. | I rated it a *2*
 // untappd end

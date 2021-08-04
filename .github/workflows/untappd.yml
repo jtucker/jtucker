@@ -16,6 +16,7 @@ jobs:
     steps: 
       - name: Checkout
         uses: actions/checkout@v2
+        if: ${{ !env.ACT }}
         with:
           ref: ${{ github.head_ref }}
 
@@ -32,7 +33,7 @@ jobs:
 
       - name: Get the latest untappd
         run: |
-          mkdir untappd
+          mkdir -p untappd
           curl -o untappd/activity.json "https://api.untappd.com/v4/user/checkins/jtucker?client_id=${{ secrets.UNTAPPD_CLIENT_ID }}&client_secret=${{ secrets.UNTAPPD_CLIENT_SECRET }}&limit=3"
           jq '.response.checkins.items | map({ name: .beer.beer_name, style: .beer.beer_style, label: .beer.beer_label, photo: .media.items | .[0] | .photo.photo_img_sm,  brewery: .brewery.brewery_name, rating: .rating_score })' untappd/activity.json > untappd/beers.json
 

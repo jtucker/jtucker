@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Beer Name",
+        "style": "Beer Style",
+        "label": "Label",
+        "photo": "Sometimes a photo",
+        "brewery": "Brewery name",
+        "rating": 0
+    },
+    {
+        "name": "Beer Name",
+        "style": "Beer Style",
+        "label": "Label",
+        "brewery": "Brewery name",
+        "rating": 1.5
+    }
+]

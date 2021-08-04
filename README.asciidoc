@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2021_07_11/e157d8374565a74fc599544332c470f9_200x200.jpg[Pales In Comparison (Double Dry Hopped) - Edmund's Oast Brewing Company] | Drinking a *Pales In Comparison (Double Dry Hopped)* by *Edmund's Oast Brewing Company*. It is a *Pale Ale - American* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2021_07_11/c7e512cc3afec7012a5ffb6a42382113_200x200.jpg[Craft Happiness Project: SNIP IPA - Foothills Brewing] | Drinking a *Craft Happiness Project: SNIP IPA* by *Foothills Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.25*
-| image:[Zaddy Juice - Oozlefinch Beers & Blending] | Drinking a *Zaddy Juice* by *Oozlefinch Beers & Blending*. It is a *Sour - Fruited* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2021_08_02/d7f521558e7f11d97dc6bdd647a48514_200x200.jpg[Sunken Isles - Harland Brewing Company] | Drinking a *Sunken Isles* by *Harland Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2021_08_02/04b704a2fb20de13c5f85323aa617ebf_200x200.jpg[35 Miles NE - Claremont Craft Ales] | Drinking a *35 Miles NE* by *Claremont Craft Ales*. It is a *IPA - New England* style of beer. | I rated it a *3.5*
+| image:https://untappd.akamaized.net/photos/2021_07_31/b72b8e4f0ee4d72be0f39858387d7a40_200x200.jpg[Over-the-Line Lager - Second Chance Beer Company] | Drinking a *Over-the-Line Lager* by *Second Chance Beer Company*. It is a *Lager - Pale* style of beer. | I rated it a *2.75*
 // untappd end

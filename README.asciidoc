@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:[Cellar Series: Summer At the Fjords - 3 Stars Brewing Company] | Drinking a *Cellar Series: Summer At the Fjords* by *3 Stars Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2021_08_07/b4f2e5c9191c69b72ad94f4925142f71_200x200.jpg[Ominous Motions - Ruse Brewing] | Drinking a *Ominous Motions* by *Ruse Brewing*. It is a *IPA - New England* style of beer. | I rated it a *3.75*
 | image:https://untappd.akamaized.net/photos/2021_08_07/4a689abbd52da6837e1260a1083c3653_200x200.jpg[Rain - Pure Project Brewing] | Drinking a *Rain* by *Pure Project Brewing*. It is a *Pilsner - German* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2021_08_05/4bb65fec97cabb729861e9971fb41ebb_200x200.jpg[Fieldrise - Wheatland Spring Farm + Brewery] | Drinking a *Fieldrise* by *Wheatland Spring Farm + Brewery*. It is a *IPA - New England* style of beer. | I rated it a *4.5*
 // untappd end

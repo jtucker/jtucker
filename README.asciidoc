@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_08_12/45919e4af9e9651aa4f98d49f8f13229_200x200.jpg[Delirium Tremens - Delirium - Huyghe Brewery] | Drinking a *Delirium Tremens* by *Delirium - Huyghe Brewery*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *5*
 | image:https://untappd.akamaized.net/photos/2021_08_07/f2173524afd43487b360519cf13c6f98_200x200.jpg[Cellar Series: Munich Dunkel - 3 Stars Brewing Company] | Drinking a *Cellar Series: Munich Dunkel* by *3 Stars Brewing Company*. It is a *Lager - Munich Dunkel* style of beer. | I rated it a *3.75*
 | image:[Cellar Series: Oaktoberfest - 3 Stars Brewing Company] | Drinking a *Cellar Series: Oaktoberfest* by *3 Stars Brewing Company*. It is a *Märzen* style of beer. | I rated it a *4*
-| image:[Cellar Series: Summer At the Fjords - 3 Stars Brewing Company] | Drinking a *Cellar Series: Summer At the Fjords* by *3 Stars Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3.5*
 // untappd end

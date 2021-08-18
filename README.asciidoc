@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:[Coastal Sunshine (v14): Mangosteen, Peach, Strawberry - Humble Forager Brewery] | Drinking a *Coastal Sunshine (v14): Mangosteen, Peach, Strawberry* by *Humble Forager Brewery*. It is a *Sour - Fruited* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2021_08_16/099de9549ad09aaaf116fc5dbf970a61_200x200.jpg[Kingsbury - Rocklands Farm] | Drinking a *Kingsbury* by *Rocklands Farm*. It is a *Cider - Dry* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2021_08_15/0e2171b15e8f6d239f8c27bde7d93933_200x200.jpg[The Pizza Bois Are Back In Town - Mason Ale Works] | Drinking a *The Pizza Bois Are Back In Town* by *Mason Ale Works*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2021_08_14/718ab457c68d47aa118b716f4d2af87d_200x200.jpg[Birds of Paradise - Graft Cider] | Drinking a *Birds of Paradise* by *Graft Cider*. It is a *Cider - Dry* style of beer. | I rated it a *3*
 // untappd end

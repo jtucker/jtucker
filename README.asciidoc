@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_08_28/cc9e5794ca60fea64a91927e48367f82_200x200.jpg[Hoppy Lager - Volfas Engelman] | Drinking a *Hoppy Lager* by *Volfas Engelman*. It is a *Lager - IPL (India Pale Lager)* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2021_08_22/b4fd9646b9b2537edc1713fecaf3f739_200x200.jpg[NEIPA - Volfas Engelman] | Drinking a *NEIPA* by *Volfas Engelman*. It is a *IPA - New England* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2021_08_21/8fa3622d9c119add53bb8c4b212afbe2_200x200.jpg[Cloud Thief - Väsen Brewing Company] | Drinking a *Cloud Thief* by *Väsen Brewing Company*. It is a *IPA - New England* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2021_08_21/4e72ff8c0bcb29a8e5579449a49f8bac_200x200.jpg[Drippy - Sycamore Brewing] | Drinking a *Drippy* by *Sycamore Brewing*. It is a *IPA - New England* style of beer. | I rated it a *3.25*
 // untappd end

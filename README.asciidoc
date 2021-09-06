@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_09_06/2fc277b6929910f5b09764097a739d70_200x200.jpg[Hügelkultur (2021) - Brookeville Beer Farm] | Drinking a *Hügelkultur (2021)* by *Brookeville Beer Farm*. It is a *Festbier* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2021_09_05/fbc598e88b06f2b250dc7f65ed749132_200x200.jpg[Excelsior! - Full Tilt Brewing] | Drinking a *Excelsior!* by *Full Tilt Brewing*. It is a *IPA - Imperial / Double New England* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2021_09_05/b1b5e4ef70a4dde4a88d5b6616eab6bf_200x200.jpg[Dan's Jams: Life's A Peach...Ring - Full Tilt Brewing] | Drinking a *Dan's Jams: Life's A Peach...Ring* by *Full Tilt Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *0*
-| image:https://untappd.akamaized.net/photos/2021_09_05/778fb3520701ed1cdb90d2eeb667f06c_200x200.jpg[Hops of Darkness - Full Tilt Brewing] | Drinking a *Hops of Darkness* by *Full Tilt Brewing*. It is a *IPA - Black / Cascadian Dark Ale* style of beer. | I rated it a *3.75*
 // untappd end

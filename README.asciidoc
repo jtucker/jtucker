@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_09_16/81c7e5926f602a53b74c74a766ab5292_200x200.jpg[Freshly Baked 2  - Arrow Lodge Brewing] | Drinking a *Freshly Baked 2 * by *Arrow Lodge Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *3*
 | image:[Corny Uncle - Brookeville Beer Farm] | Drinking a *Corny Uncle* by *Brookeville Beer Farm*. It is a *Lager - Pale* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2021_09_11/b64877a5632a16ee7c225206300ea027_200x200.jpg[BBF Sour #2 (Pineapple, Lime, And Strawberry - Brookeville Beer Farm] | Drinking a *BBF Sour #2 (Pineapple, Lime, And Strawberry* by *Brookeville Beer Farm*. It is a *Sour - Fruited* style of beer. | I rated it a *3.75*
-| image:[Oktoberfest Märzen - Hacker-Pschorr] | Drinking a *Oktoberfest Märzen* by *Hacker-Pschorr*. It is a *Märzen* style of beer. | I rated it a *3*
 // untappd end

@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_09_24/a5a4714d422060e7d67a6163c4ab6ec5_200x200.jpg[Double Riwaka Socks & Sandals - Humble Sea Brewing Company] | Drinking a *Double Riwaka Socks & Sandals* by *Humble Sea Brewing Company*. It is a *IPA - Imperial / Double New England* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2021_09_18/f04357fe03f9f7ed23a1cc6499f63676_200x200.jpg[SLUSHY XL SLURPreme - 450 North Brewing Company] | Drinking a *SLUSHY XL SLURPreme* by *450 North Brewing Company*. It is a *Sour - Fruited* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2021_09_18/df3c4f37b0eb69a0f643799f73b790f6_200x200.jpg[Lite Byte - 8 bit Brewing Company] | Drinking a *Lite Byte* by *8 bit Brewing Company*. It is a *IPA - Imperial / Double New England* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2021_09_16/81c7e5926f602a53b74c74a766ab5292_200x200.jpg[Freshly Baked 2  - Arrow Lodge Brewing] | Drinking a *Freshly Baked 2 * by *Arrow Lodge Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *3*
 // untappd end

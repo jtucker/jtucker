@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:[New England Hazy IPA - Lost Barrel Brewing] | Drinking a *New England Hazy IPA* by *Lost Barrel Brewing*. It is a *IPA - New England* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2021_10_02/18abd1dd3f750a12756f81c0500b4894_200x200.jpg[Pumpkin Ale - Lost Barrel Brewing] | Drinking a *Pumpkin Ale* by *Lost Barrel Brewing*. It is a *Pumpkin / Yam Beer* style of beer. | I rated it a *2.5*
 | image:https://untappd.akamaized.net/photos/2021_10_02/ae1b95995fae88751d8a78b3e08c492e_200x200.jpg[Oktoberfest Bier - Lost Barrel Brewing] | Drinking a *Oktoberfest Bier* by *Lost Barrel Brewing*. It is a *Festbier* style of beer. | I rated it a *2.75*
-| image:[Crosstown Cats - Astro Lab Brewing ] | Drinking a *Crosstown Cats* by *Astro Lab Brewing *. It is a *IPA - New England* style of beer. | I rated it a *3.25*
-| image:[Solidarity Beer 2021 - Right Proper Brewing Company] | Drinking a *Solidarity Beer 2021* by *Right Proper Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.75*
 // untappd end

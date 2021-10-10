@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_10_10/758a9e0a778f4eb47be10fd804d8561c_200x200.jpg[Mind Elevation - First State Brewing Company] | Drinking a *Mind Elevation* by *First State Brewing Company*. It is a *IPA - New England* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2021_10_08/43d2f0ec12bc9a51a5d847c3400e8c11_200x200.jpg[Mango Wheat - Blue Moon Brewing Company] | Drinking a *Mango Wheat* by *Blue Moon Brewing Company*. It is a *Wheat Beer - Witbier* style of beer. | I rated it a *2.5*
 | image:https://untappd.akamaized.net/photos/2021_10_08/ece115a57bff2c9c1af0815d919d6e56_200x200.jpg[Feather From the Ashes - Burial Beer Co.] | Drinking a *Feather From the Ashes* by *Burial Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2021_10_04/cd9444d6936a5f50cc2b753e7a2f9f96_200x200.jpg[Hopfest - Silver Branch Brewing Company] | Drinking a *Hopfest* by *Silver Branch Brewing Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.5*
 // untappd end

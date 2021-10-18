@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2021_10_11/3359ff6e45ea39dc2c7906da3682d725_200x200.jpg[Strawberry Pretzel Salad - Dewey Beer Company] | Drinking a *Strawberry Pretzel Salad* by *Dewey Beer Company*. It is a *Sour - Fruited Gose* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2021_10_10/ac22a9b06c3116da9316c8453d570b58_200x200.jpg[Iron Sharpens Iron IPA - Revelation Craft Brewing Company] | Drinking a *Iron Sharpens Iron IPA* by *Revelation Craft Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2021_10_10/10e26142daab80b0487dacd8683ccb29_200x200.jpg[Grandpa Fitzgerald Irish Stout W/Pumpkin - Revelation Craft Brewing Company] | Drinking a *Grandpa Fitzgerald Irish Stout W/Pumpkin* by *Revelation Craft Brewing Company*. It is a *Stout - Other* style of beer. | I rated it a *3*
+| image:[Reunion - Wheatland Spring Farm + Brewery] | Drinking a *Reunion* by *Wheatland Spring Farm + Brewery*. It is a *Smoked Beer* style of beer. | I rated it a *3.75*
+| image:https://untappd.akamaized.net/photos/2021_10_18/badbaedd0d38d6d0e85d1cd5c4dd48e9_200x200.jpg[Pocket Car - Tall Tales Brewing Company] | Drinking a *Pocket Car* by *Tall Tales Brewing Company*. It is a *IPA - New England* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2021_10_18/73680cfc6546dbdd631892ef4dc767a0_200x200.jpg[Sigh, Another Hazy - Oliver Brewing Co.] | Drinking a *Sigh, Another Hazy* by *Oliver Brewing Co.*. It is a *IPA - Imperial / Double New England* style of beer. | I rated it a *3.25*
 // untappd end

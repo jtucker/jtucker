@@ -16,7 +16,7 @@ let checkins fromDirectory=
     Untappd.Load(Path.Join(fromDirectory, "untappd/beers.json"))
 
 let defaultPhoto img =
-    img |> Option.defaultWith (fun () -> "")
+    img |> Option.defaultWith (fun () -> "https://via.placeholder.com/200?text=Missing+Beer+Image")
 
 let formatCheckins =
     checkins currentDirectory

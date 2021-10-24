@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Orchard Blend Bubbles - Doc Waters Cidery] | Drinking a *Orchard Blend Bubbles* by *Doc Waters Cidery*. It is a *Cider - Dry* style of beer. | I rated it a *2.75*
 | image:https://untappd.akamaized.net/photos/2021_10_23/3cbb80f66879f279c0d7148747965c8c_200x200.jpg[The Paranormal Electricity of Trans-Pacific Airwaves - Burial Beer Co.] | Drinking a *The Paranormal Electricity of Trans-Pacific Airwaves* by *Burial Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2021_10_19/11538f69d0908885d264041470eda6e1_200x200.jpg[Cellar Series: Munich Dunkel - 3 Stars Brewing Company] | Drinking a *Cellar Series: Munich Dunkel* by *3 Stars Brewing Company*. It is a *Lager - Munich Dunkel* style of beer. | I rated it a *3.75*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Reunion - Wheatland Spring Farm + Brewery] | Drinking a *Reunion* by *Wheatland Spring Farm + Brewery*. It is a *Smoked Beer* style of beer. | I rated it a *3.75*
 // untappd end

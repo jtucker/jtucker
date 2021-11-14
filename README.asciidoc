@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_11_14/4c6cae431edbfd842ebf09dc8fda252a_200x200.jpg[Italian Pilz - Ology Brewing Co] | Drinking a *Italian Pilz* by *Ology Brewing Co*. It is a *Pilsner - Other* style of beer. | I rated it a *3.75*
 | image:https://untappd.akamaized.net/photos/2021_11_13/cc5f41f4b69146e9dc3cc4f90c86ddcc_200x200.jpg[Equal Marriage - City-State Brewing] | Drinking a *Equal Marriage* by *City-State Brewing*. It is a *Wheat Beer - Dunkelweizen* style of beer. | I rated it a *3.75*
 | image:https://untappd.akamaized.net/photos/2021_11_13/214c7594d0d53a7dee01225fd28aa36f_200x200.jpg[Vespucci Volume 4 - Silver Branch Brewing Company] | Drinking a *Vespucci Volume 4* by *Silver Branch Brewing Company*. It is a *Pilsner - German* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2021_11_13/ff03d97523adb2e0d1243967dbaf0df8_200x200.jpg[Layer Cake - Commonwealth Brewing Company] | Drinking a *Layer Cake* by *Commonwealth Brewing Company*. It is a *IPA - Sour* style of beer. | I rated it a *3.75*
 // untappd end

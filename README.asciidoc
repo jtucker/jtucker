@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_12_04/91df0db77a3f4fa925dca5c0e72a9d8f_200x200.jpg[Luppolo - Oxbow Brewing Company] | Drinking a *Luppolo* by *Oxbow Brewing Company*. It is a *Pilsner - Italian* style of beer. | I rated it a *3.25*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Perception Is Still Spoonfed - Vitamin Sea Brewing] | Drinking a *Perception Is Still Spoonfed* by *Vitamin Sea Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *2.75*
 | image:https://untappd.akamaized.net/photos/2021_12_02/b436a060f513dc7740b7a932e8822893_200x200.jpg[Build or Destroy - Bluejacket] | Drinking a *Build or Destroy* by *Bluejacket*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2021_11_28/336985169a8cc754146df2acb1a50e15_200x200.jpg[The Krampus Shuffle - Red Bear Brewing Company] | Drinking a *The Krampus Shuffle* by *Red Bear Brewing Company*. It is a *Belgian Strong Dark Ale* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Bourbon County Brand Classic Cola Stout (2021) - Goose Island Beer Co.] | Drinking a *Bourbon County Brand Classic Cola Stout (2021)* by *Goose Island Beer Co.*. It is a *Stout - Imperial / Double* style of beer. | I rated it a *2.75*
 // untappd end

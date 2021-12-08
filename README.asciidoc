@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2021_12_04/91df0db77a3f4fa925dca5c0e72a9d8f_200x200.jpg[Luppolo - Oxbow Brewing Company] | Drinking a *Luppolo* by *Oxbow Brewing Company*. It is a *Pilsner - Italian* style of beer. | I rated it a *3.25*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Perception Is Still Spoonfed - Vitamin Sea Brewing] | Drinking a *Perception Is Still Spoonfed* by *Vitamin Sea Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *2.75*
-| image:https://untappd.akamaized.net/photos/2021_12_02/b436a060f513dc7740b7a932e8822893_200x200.jpg[Build or Destroy - Bluejacket] | Drinking a *Build or Destroy* by *Bluejacket*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
+| image:https://untappd.akamaized.net/photos/2021_12_08/a924d0efb85c878c72c5d969932b68e0_200x200.jpg[Later Flowers - Wheatland Spring Farm + Brewery] | Drinking a *Later Flowers* by *Wheatland Spring Farm + Brewery*. It is a *Lager - Dark* style of beer. | I rated it a *3.75*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Saison Dupont - Brasserie Dupont] | Drinking a *Saison Dupont* by *Brasserie Dupont*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3.5*
+| image:https://untappd.akamaized.net/photos/2021_12_08/f133c29247b6ceee0d0bde320ef3d56e_200x200.jpg[The Very Thirsty Double Dry Hopped Caterpillar - Magnify Brewing Company] | Drinking a *The Very Thirsty Double Dry Hopped Caterpillar* by *Magnify Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *4*
 // untappd end

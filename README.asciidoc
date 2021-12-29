@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_12_29/68273b8bcb5d8d6f399f73390c1b198b_200x200.jpg[Triple Berry Pie Piggy (Pie Series) - Tripping Animals Brewing Co.] | Drinking a *Triple Berry Pie Piggy (Pie Series)* by *Tripping Animals Brewing Co.*. It is a *Sour - Smoothie / Pastry* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2021_12_24/1d0f2737083901badf02029ccc678471_200x200.jpg[BBF Sour #2 (Pineapple, Lime, And Strawberry - Brookeville Beer Farm] | Drinking a *BBF Sour #2 (Pineapple, Lime, And Strawberry* by *Brookeville Beer Farm*. It is a *Sour - Fruited* style of beer. | I rated it a *3.75*
 | image:https://untappd.akamaized.net/photos/2021_12_08/a924d0efb85c878c72c5d969932b68e0_200x200.jpg[Later Flowers - Wheatland Spring Farm + Brewery] | Drinking a *Later Flowers* by *Wheatland Spring Farm + Brewery*. It is a *Lager - Dark* style of beer. | I rated it a *3.75*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Saison Dupont - Brasserie Dupont] | Drinking a *Saison Dupont* by *Brasserie Dupont*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3.5*
 // untappd end

@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2021_12_31/c85ae2aaa6c9b342fca080da9cc31a41_200x200.jpg[Hazy Ale - Black Hog Brewing Co.] | Drinking a *Hazy Ale* by *Black Hog Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.75*
+| image:https://untappd.akamaized.net/photos/2021_12_31/6d92ea99d50d19debfd2021120d3946a_200x200.jpg[Self Portrait - Bluejacket] | Drinking a *Self Portrait* by *Bluejacket*. It is a *Pilsner - German* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2021_12_30/de2475222d5f92d88964d9f19471ca14_200x200.jpg[Obsidian Castle - Silver Branch Brewing Company] | Drinking a *Obsidian Castle* by *Silver Branch Brewing Company*. It is a *Lager - Dark* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Lost In the Fog - Silver Branch Brewing Company] | Drinking a *Lost In the Fog* by *Silver Branch Brewing Company*. It is a *California Common* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2021_12_30/6704e9cfefe7ed0bc253923b1961ba77_200x200.jpg[Giant Flaming Zombie Polar Bear - Atlas Brew Works] | Drinking a *Giant Flaming Zombie Polar Bear* by *Atlas Brew Works*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.75*
 // untappd end

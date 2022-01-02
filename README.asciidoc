@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_01_01/10ec5db7cd0a12d5d7e97039b7476538_200x200.jpg[Grateful Nation IPA - Revelation Craft Brewing Company] | Drinking a *Grateful Nation IPA* by *Revelation Craft Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2022_01_01/32847f4e9af3ab0aaec065a25a1a1f2a_200x200.jpg[NZ Pilsner - Revelation Craft Brewing Company] | Drinking a *NZ Pilsner* by *Revelation Craft Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2022_01_01/97ee6634e8e25d4a0862774e9c6a3e99_200x200.jpg[Mischief - The Bruery] | Drinking a *Mischief* by *The Bruery*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2021_12_31/c85ae2aaa6c9b342fca080da9cc31a41_200x200.jpg[Hazy Ale - Black Hog Brewing Co.] | Drinking a *Hazy Ale* by *Black Hog Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.75*
-| image:https://untappd.akamaized.net/photos/2021_12_31/6d92ea99d50d19debfd2021120d3946a_200x200.jpg[Self Portrait - Bluejacket] | Drinking a *Self Portrait* by *Bluejacket*. It is a *Pilsner - German* style of beer. | I rated it a *3.25*
 // untappd end

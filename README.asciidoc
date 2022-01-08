@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_01_08/e4a0adf0e5925b0f4a7220d5e9415df6_200x200.jpg[Sunshine & Hand Grenades - Burnish Beer Co.] | Drinking a *Sunshine & Hand Grenades* by *Burnish Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2022_01_02/93cc8a05935cc192ad88c7a971ac4f38_200x200.jpg[Homemade Is Best - Stickman Brews] | Drinking a *Homemade Is Best* by *Stickman Brews*. It is a *IPA - American* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2022_01_02/3ee19629adad9ab0b4ba5becf889e5db_200x200.jpg[Afterglow - Foundation Brewing Company] | Drinking a *Afterglow* by *Foundation Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *0*
-| image:https://untappd.akamaized.net/photos/2022_01_01/10ec5db7cd0a12d5d7e97039b7476538_200x200.jpg[Grateful Nation IPA - Revelation Craft Brewing Company] | Drinking a *Grateful Nation IPA* by *Revelation Craft Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4*
 // untappd end

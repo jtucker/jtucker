@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2022_01_09/74b5acb0e81602db9a6014d4b2dcdcbd_200x200.jpg[FMK - Burnish Beer Co.] | Drinking a *FMK* by *Burnish Beer Co.*. It is a *IPA - Triple* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2022_01_08/e4a0adf0e5925b0f4a7220d5e9415df6_200x200.jpg[Sunshine & Hand Grenades - Burnish Beer Co.] | Drinking a *Sunshine & Hand Grenades* by *Burnish Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_01_02/93cc8a05935cc192ad88c7a971ac4f38_200x200.jpg[Homemade Is Best - Stickman Brews] | Drinking a *Homemade Is Best* by *Stickman Brews*. It is a *IPA - American* style of beer. | I rated it a *3.25*
+| image:https://untappd.akamaized.net/photos/2022_01_14/8c215d85afeb93b7ee910e5267922127_200x200.jpg[Crooked Wind IPA - Backslope Brewing] | Drinking a *Crooked Wind IPA* by *Backslope Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.25*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Dr. Randolph's All-Day Porter - Backslope Brewing] | Drinking a *Dr. Randolph's All-Day Porter* by *Backslope Brewing*. It is a *Porter - American* style of beer. | I rated it a *3*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[The Foreman - Backslope Brewing] | Drinking a *The Foreman* by *Backslope Brewing*. It is a *Stout - American* style of beer. | I rated it a *3.25*
 // untappd end

@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_01_29/82d49a2a20c6b8aac5eddc4e9554c00f_200x200.jpg[Raising Helles - Three Notch'd Brewing] | Drinking a *Raising Helles* by *Three Notch'd Brewing*. It is a *Lager - Helles* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2022_01_29/b3c9382bb6ca43aa5db6e4602ed7611d_200x200.jpg[Infrared Starfish - Aslin Beer Company] | Drinking a *Infrared Starfish* by *Aslin Beer Company*. It is a *IPA - American* style of beer. | I rated it a *2.75*
 | image:https://untappd.akamaized.net/photos/2022_01_14/8c215d85afeb93b7ee910e5267922127_200x200.jpg[Crooked Wind IPA - Backslope Brewing] | Drinking a *Crooked Wind IPA* by *Backslope Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.25*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Dr. Randolph's All-Day Porter - Backslope Brewing] | Drinking a *Dr. Randolph's All-Day Porter* by *Backslope Brewing*. It is a *Porter - American* style of beer. | I rated it a *3*
 // untappd end

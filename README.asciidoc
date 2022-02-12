@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_02_11/3b2dc47a6fbf97459ffeca981e0d39b8_200x200.jpg[Otoacoustic Emissions (Ghost 1053) - Adroit Theory] | Drinking a *Otoacoustic Emissions (Ghost 1053)* by *Adroit Theory*. It is a *IPA - American* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2022_02_11/ae02a1bd99a0a4997d09c21ccc6f3561_200x200.jpg[Hopslam (2022) - Bell's Brewery] | Drinking a *Hopslam (2022)* by *Bell's Brewery*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.5*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[The Nameless - Foam Brewers] | Drinking a *The Nameless* by *Foam Brewers*. It is a *IPA - American* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2022_02_05/d5f61305c07ac07598b3812bc1520dff_200x200.jpg[Found Artifacts - Wheatland Spring Farm + Brewery] | Drinking a *Found Artifacts* by *Wheatland Spring Farm + Brewery*. It is a *Pilsner - German* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2022_01_30/76688e2700a33154ef87fce6d787a00e_200x200.jpg[Funkerdome Society Release #2 (2021) - 3 Stars Brewing Company] | Drinking a *Funkerdome Society Release #2 (2021)* by *3 Stars Brewing Company*. It is a *Sour - Other* style of beer. | I rated it a *3.25*
 // untappd end

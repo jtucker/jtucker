@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://api.untappd.com/v4/image/checkinphoto/1128997770?size=sm[Fieldrise - Wheatland Spring Farm + Brewery] | Drinking a *Fieldrise* by *Wheatland Spring Farm + Brewery*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4.5*
-| image:https://api.untappd.com/v4/image/checkinphoto/1128997174?size=sm[Hip Hop Foray - Newtopia Cyder] | Drinking a *Hip Hop Foray* by *Newtopia Cyder*. It is a *Cider - Other Fruit* style of beer. | I rated it a *2.75*
+| image:https://untappd.akamaized.net/photos/2022_02_13/327af32cad948aef2f0642b7cf5f12d0_200x200.jpg[Fieldrise - Wheatland Spring Farm + Brewery] | Drinking a *Fieldrise* by *Wheatland Spring Farm + Brewery*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4.5*
+| image:https://untappd.akamaized.net/photos/2022_02_13/fe40842a071de476d2c77b98c4c334da_200x200.jpg[Hip Hop Foray - Newtopia Cyder] | Drinking a *Hip Hop Foray* by *Newtopia Cyder*. It is a *Cider - Other Fruit* style of beer. | I rated it a *2.75*
 | image:https://untappd.akamaized.net/photos/2022_02_13/086362afb60f37a10e16f208ffb68f4f_200x200.jpg[Harborview 2035 - Charm City Meadworks] | Drinking a *Harborview 2035* by *Charm City Meadworks*. It is a *Mead - Cyser* style of beer. | I rated it a *3*
 // untappd end

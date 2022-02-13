@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2022_02_11/3b2dc47a6fbf97459ffeca981e0d39b8_200x200.jpg[Otoacoustic Emissions (Ghost 1053) - Adroit Theory] | Drinking a *Otoacoustic Emissions (Ghost 1053)* by *Adroit Theory*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_02_11/ae02a1bd99a0a4997d09c21ccc6f3561_200x200.jpg[Hopslam (2022) - Bell's Brewery] | Drinking a *Hopslam (2022)* by *Bell's Brewery*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[The Nameless - Foam Brewers] | Drinking a *The Nameless* by *Foam Brewers*. It is a *IPA - American* style of beer. | I rated it a *4*
+| image:https://api.untappd.com/v4/image/checkinphoto/1128997770?size=sm[Fieldrise - Wheatland Spring Farm + Brewery] | Drinking a *Fieldrise* by *Wheatland Spring Farm + Brewery*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4.5*
+| image:https://api.untappd.com/v4/image/checkinphoto/1128997174?size=sm[Hip Hop Foray - Newtopia Cyder] | Drinking a *Hip Hop Foray* by *Newtopia Cyder*. It is a *Cider - Other Fruit* style of beer. | I rated it a *2.75*
+| image:https://untappd.akamaized.net/photos/2022_02_13/086362afb60f37a10e16f208ffb68f4f_200x200.jpg[Harborview 2035 - Charm City Meadworks] | Drinking a *Harborview 2035* by *Charm City Meadworks*. It is a *Mead - Cyser* style of beer. | I rated it a *3*
 // untappd end

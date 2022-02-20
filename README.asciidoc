@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2022_02_19/3c6cb22442a3af97306874b4b2146099_200x200.jpg[Everything Nice - Brewery Ommegang] | Drinking a *Everything Nice* by *Brewery Ommegang*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *2.75*
-| image:https://untappd.akamaized.net/photos/2022_02_19/e62a86437badfddc7aed820a98bf6428_200x200.jpg[Slow River - The Drowned Lands Brewery] | Drinking a *Slow River* by *The Drowned Lands Brewery*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2022_02_13/327af32cad948aef2f0642b7cf5f12d0_200x200.jpg[Fieldrise - Wheatland Spring Farm + Brewery] | Drinking a *Fieldrise* by *Wheatland Spring Farm + Brewery*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Spiritual Nurse - Pen Druid Brewing] | Drinking a *Spiritual Nurse* by *Pen Druid Brewing*. It is a *Red Ale - American Amber / Red* style of beer. | I rated it a *4.25*
+| image:https://untappd.akamaized.net/photos/2022_02_20/846c1c1837a0ac7cc3e458f92e06ae55_200x200.jpg[Coronation Blonde - Pen Druid Brewing] | Drinking a *Coronation Blonde* by *Pen Druid Brewing*. It is a *Blonde Ale* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2022_02_20/d79bbb949074250e945b47b250e21264_200x200.jpg[Arkansas Black - Pen Druid Brewing] | Drinking a *Arkansas Black* by *Pen Druid Brewing*. It is a *Cider - Dry* style of beer. | I rated it a *4.25*
 // untappd end

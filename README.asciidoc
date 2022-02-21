@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_02_20/b4a9a0803ad288ee36de9b665b2cbf1d_200x200.jpg[Pivo Pils - Firestone Walker Brewing Company] | Drinking a *Pivo Pils* by *Firestone Walker Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Spiritual Nurse - Pen Druid Brewing] | Drinking a *Spiritual Nurse* by *Pen Druid Brewing*. It is a *Red Ale - American Amber / Red* style of beer. | I rated it a *4.25*
 | image:https://untappd.akamaized.net/photos/2022_02_20/846c1c1837a0ac7cc3e458f92e06ae55_200x200.jpg[Coronation Blonde - Pen Druid Brewing] | Drinking a *Coronation Blonde* by *Pen Druid Brewing*. It is a *Blonde Ale* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2022_02_20/d79bbb949074250e945b47b250e21264_200x200.jpg[Arkansas Black - Pen Druid Brewing] | Drinking a *Arkansas Black* by *Pen Druid Brewing*. It is a *Cider - Dry* style of beer. | I rated it a *4.25*
 // untappd end

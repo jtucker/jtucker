@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_02_26/54c99a886b0cbcf6d444103d419b820d_200x200.jpg[Ghost Fleet - Vanish Farmwoods Brewery] | Drinking a *Ghost Fleet* by *Vanish Farmwoods Brewery*. It is a *IPA - American* style of beer. | I rated it a *3.25*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Crazy Pils - Solace Brewing Company] | Drinking a *Crazy Pils* by *Solace Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *2.75*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Back In Da Haze - Melvin Brewing] | Drinking a *Back In Da Haze* by *Melvin Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_02_20/b4a9a0803ad288ee36de9b665b2cbf1d_200x200.jpg[Pivo Pils - Firestone Walker Brewing Company] | Drinking a *Pivo Pils* by *Firestone Walker Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3*
 // untappd end

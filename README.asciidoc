@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2022_03_06/d60916a3f708139a52db4d752ae9ff77_200x200.jpg[Playlist: Talus - 3 Stars Brewing Company] | Drinking a *Playlist: Talus* by *3 Stars Brewing Company*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Cellar Series: English IPA - 3 Stars Brewing Company] | Drinking a *Cellar Series: English IPA* by *3 Stars Brewing Company*. It is a *IPA - English* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_03_05/cfeb301b070297b5f4c5d87ae46685c6_200x200.jpg[Cellar Series: Best Bitter - 3 Stars Brewing Company] | Drinking a *Cellar Series: Best Bitter* by *3 Stars Brewing Company*. It is a *English Bitter* style of beer. | I rated it a *3.75*
+| image:https://untappd.akamaized.net/photos/2022_03_06/309a6f42db8df2debba705fbfa5fd163_200x200.jpg[Wildberry Sour - Lost Barrel Brewing] | Drinking a *Wildberry Sour* by *Lost Barrel Brewing*. It is a *Sour - Other* style of beer. | I rated it a *2.75*
+| image:https://untappd.akamaized.net/photos/2022_03_06/fa07734ed192d5a325c6544ad4567569_200x200.jpg[Harvest IPA - Lost Barrel Brewing] | Drinking a *Harvest IPA* by *Lost Barrel Brewing*. It is a *IPA - American* style of beer. | I rated it a *2.75*
+| image:https://untappd.akamaized.net/photos/2022_03_06/7f66d1dac635ff65e8eed136dd2d9988_200x200.jpg[Amarillo Pale Ale - Lost Barrel Brewing] | Drinking a *Amarillo Pale Ale* by *Lost Barrel Brewing*. It is a *Pale Ale - American* style of beer. | I rated it a *2.75*
 // untappd end

@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_03_06/d60916a3f708139a52db4d752ae9ff77_200x200.jpg[Playlist: Talus - 3 Stars Brewing Company] | Drinking a *Playlist: Talus* by *3 Stars Brewing Company*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Cellar Series: English IPA - 3 Stars Brewing Company] | Drinking a *Cellar Series: English IPA* by *3 Stars Brewing Company*. It is a *IPA - English* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2022_03_05/cfeb301b070297b5f4c5d87ae46685c6_200x200.jpg[Cellar Series: Best Bitter - 3 Stars Brewing Company] | Drinking a *Cellar Series: Best Bitter* by *3 Stars Brewing Company*. It is a *English Bitter* style of beer. | I rated it a *3.75*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Can't You See the Sunshine - 3 Stars Brewing Company] | Drinking a *Can't You See the Sunshine* by *3 Stars Brewing Company*. It is a *Sour - Fruited* style of beer. | I rated it a *3*
 // untappd end

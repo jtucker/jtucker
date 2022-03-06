@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2022_03_04/71715d520eff51b20f08848e2aae43e0_200x200.jpg[Of A Sow - The Drowned Lands Brewery] | Drinking a *Of A Sow* by *The Drowned Lands Brewery*. It is a *Belgian Blonde* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_02_26/688b41e10915322d59469965f9bf448b_200x200.jpg[Lionshead Deluxe Pilsner Beer - The Lion Brewery ] | Drinking a *Lionshead Deluxe Pilsner Beer* by *The Lion Brewery *. It is a *Pilsner - Other* style of beer. | I rated it a *0*
-| image:https://untappd.akamaized.net/photos/2022_02_26/54c99a886b0cbcf6d444103d419b820d_200x200.jpg[Ghost Fleet - Vanish Farmwoods Brewery] | Drinking a *Ghost Fleet* by *Vanish Farmwoods Brewery*. It is a *IPA - American* style of beer. | I rated it a *3.25*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Cellar Series: English IPA - 3 Stars Brewing Company] | Drinking a *Cellar Series: English IPA* by *3 Stars Brewing Company*. It is a *IPA - English* style of beer. | I rated it a *3.5*
+| image:https://untappd.akamaized.net/photos/2022_03_05/cfeb301b070297b5f4c5d87ae46685c6_200x200.jpg[Cellar Series: Best Bitter - 3 Stars Brewing Company] | Drinking a *Cellar Series: Best Bitter* by *3 Stars Brewing Company*. It is a *English Bitter* style of beer. | I rated it a *3.75*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Can't You See the Sunshine - 3 Stars Brewing Company] | Drinking a *Can't You See the Sunshine* by *3 Stars Brewing Company*. It is a *Sour - Fruited* style of beer. | I rated it a *3*
 // untappd end

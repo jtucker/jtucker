@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_03_19/1a6ba9bf20c816317be35ac90f0d7cd2_200x200.jpg[One Million Đồng - CLAG Brewing Company] | Drinking a *One Million Đồng* by *CLAG Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2022_03_06/309a6f42db8df2debba705fbfa5fd163_200x200.jpg[Wildberry Sour - Lost Barrel Brewing] | Drinking a *Wildberry Sour* by *Lost Barrel Brewing*. It is a *Sour - Other* style of beer. | I rated it a *2.75*
 | image:https://untappd.akamaized.net/photos/2022_03_06/fa07734ed192d5a325c6544ad4567569_200x200.jpg[Harvest IPA - Lost Barrel Brewing] | Drinking a *Harvest IPA* by *Lost Barrel Brewing*. It is a *IPA - American* style of beer. | I rated it a *2.75*
-| image:https://untappd.akamaized.net/photos/2022_03_06/7f66d1dac635ff65e8eed136dd2d9988_200x200.jpg[Amarillo Pale Ale - Lost Barrel Brewing] | Drinking a *Amarillo Pale Ale* by *Lost Barrel Brewing*. It is a *Pale Ale - American* style of beer. | I rated it a *2.75*
 // untappd end

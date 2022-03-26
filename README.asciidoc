@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_03_25/6f18444bca8e489592aae83ad8027e71_200x200.jpg[Classic - Barrier Brewing Company] | Drinking a *Classic* by *Barrier Brewing Company*. It is a *Wheat Beer - Witbier / Blanche* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2022_03_19/9b04bf01a6096658307254b5789f09ee_200x200.jpg[Hazy Like a Fox - New Realm Brewing Company] | Drinking a *Hazy Like a Fox* by *New Realm Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2022_03_19/1a6ba9bf20c816317be35ac90f0d7cd2_200x200.jpg[One Million Đồng - CLAG Brewing Company] | Drinking a *One Million Đồng* by *CLAG Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_03_06/309a6f42db8df2debba705fbfa5fd163_200x200.jpg[Wildberry Sour - Lost Barrel Brewing] | Drinking a *Wildberry Sour* by *Lost Barrel Brewing*. It is a *Sour - Other* style of beer. | I rated it a *2.75*
 // untappd end

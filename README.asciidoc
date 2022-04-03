@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_04_02/6bd74962a44895ed57a7a17c349ac50c_200x200.jpg[Idaho 7 IPA - Nighthawk Pizza] | Drinking a *Idaho 7 IPA* by *Nighthawk Pizza*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Cheat Day - Solace Brewing Company] | Drinking a *Cheat Day* by *Solace Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.25*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Straight Chalk - Solace Brewing Company] | Drinking a *Straight Chalk* by *Solace Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_03_25/6f18444bca8e489592aae83ad8027e71_200x200.jpg[Classic - Barrier Brewing Company] | Drinking a *Classic* by *Barrier Brewing Company*. It is a *Wheat Beer - Witbier / Blanche* style of beer. | I rated it a *3.5*
 // untappd end

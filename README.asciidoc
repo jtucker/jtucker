@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_04_10/2b5fd781a11c807480ad01ba9f3a96f3_200x200.jpg[Type of Way: Motueka - Hudson Valley Brewery] | Drinking a *Type of Way: Motueka* by *Hudson Valley Brewery*. It is a *Pilsner - Other* style of beer. | I rated it a *3.75*
 | image:https://untappd.akamaized.net/photos/2022_04_06/b9cf3239e0f9ce48d0554e796ea2cb4b_200x200.jpg[Enthrall - Elder Pine Brewing & Blending] | Drinking a *Enthrall* by *Elder Pine Brewing & Blending*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.75*
 | image:https://untappd.akamaized.net/photos/2022_04_06/e614008cb6ac364ca8b2841685700554_200x200.jpg[Imperial Cold Side - Magnify Brewing Company] | Drinking a *Imperial Cold Side* by *Magnify Brewing Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
-| image:https://untappd.akamaized.net/photos/2022_04_02/6bd74962a44895ed57a7a17c349ac50c_200x200.jpg[Idaho 7 IPA - Nighthawk Pizza] | Drinking a *Idaho 7 IPA* by *Nighthawk Pizza*. It is a *IPA - American* style of beer. | I rated it a *3*
 // untappd end

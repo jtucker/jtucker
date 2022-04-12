@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_04_12/aa5e2736c3f3694a7131e6cb8246c9d8_200x200.jpg[MayaWest Puerto Rican Lager - Ocean Lab Brewing Co.] | Drinking a *MayaWest Puerto Rican Lager* by *Ocean Lab Brewing Co.*. It is a *Lager - American* style of beer. | I rated it a *2.75*
 | image:https://untappd.akamaized.net/photos/2022_04_11/96726d2a7692567f3115410e47f3186c_200x200.jpg[Loam - The Drowned Lands Brewery] | Drinking a *Loam* by *The Drowned Lands Brewery*. It is a *IPA - American* style of beer. | I rated it a *4.25*
 | image:https://untappd.akamaized.net/photos/2022_04_10/2b5fd781a11c807480ad01ba9f3a96f3_200x200.jpg[Type of Way: Motueka - Hudson Valley Brewery] | Drinking a *Type of Way: Motueka* by *Hudson Valley Brewery*. It is a *Pilsner - Other* style of beer. | I rated it a *3.75*
-| image:https://untappd.akamaized.net/photos/2022_04_06/b9cf3239e0f9ce48d0554e796ea2cb4b_200x200.jpg[Enthrall - Elder Pine Brewing & Blending] | Drinking a *Enthrall* by *Elder Pine Brewing & Blending*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.75*
 // untappd end

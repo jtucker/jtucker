@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2022_04_13/8296d31a68928a8cc9d73d3cd4c3384a_200x200.jpg[Ocean Mambo - Ocean Lab Brewing Co.] | Drinking a *Ocean Mambo* by *Ocean Lab Brewing Co.*. It is a *Wheat Beer - Other* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_04_12/00496d7425c44e641aacbddc279a8ad4_200x200.jpg[Medalla Light - Compañía Cervecera de Puerto Rico] | Drinking a *Medalla Light* by *Compañía Cervecera de Puerto Rico*. It is a *Lager - American Light* style of beer. | I rated it a *0*
-| image:https://untappd.akamaized.net/photos/2022_04_12/aa5e2736c3f3694a7131e6cb8246c9d8_200x200.jpg[MayaWest Puerto Rican Lager - Ocean Lab Brewing Co.] | Drinking a *MayaWest Puerto Rican Lager* by *Ocean Lab Brewing Co.*. It is a *Lager - American* style of beer. | I rated it a *2.75*
+| image:https://untappd.akamaized.net/photos/2022_04_13/b06478f7b3fdd0c5d8b0fc7763b275dc_200x200.jpg[Overhead IPA - Rincón Beer Company] | Drinking a *Overhead IPA* by *Rincón Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2022_04_13/66aa324ff5b1a3000836508ae325e7a2_200x200.jpg[B.O.B - Blood Orange Blonde - Ocean Lab Brewing Co.] | Drinking a *B.O.B - Blood Orange Blonde* by *Ocean Lab Brewing Co.*. It is a *Blonde Ale* style of beer. | I rated it a *2.5*
+| image:https://untappd.akamaized.net/photos/2022_04_13/27e5d9ec86c8021dc3e6db65ae942dc1_200x200.jpg[Hop Diver - Ocean Lab Brewing Co.] | Drinking a *Hop Diver* by *Ocean Lab Brewing Co.*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3*
 // untappd end

@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_04_15/9560f85e427eee83fbb34d6cd6c8f434_200x200.jpg[Living the Dream - Rincón Beer Company] | Drinking a *Living the Dream* by *Rincón Beer Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2022_04_14/e1a503605a71f26e6929430d94a5dcac_200x200.jpg[Session IPA - Grupo Mahou-San Miguel] | Drinking a *Session IPA* by *Grupo Mahou-San Miguel*. It is a *IPA - Session* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2022_04_13/b06478f7b3fdd0c5d8b0fc7763b275dc_200x200.jpg[Overhead IPA - Rincón Beer Company] | Drinking a *Overhead IPA* by *Rincón Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_04_13/66aa324ff5b1a3000836508ae325e7a2_200x200.jpg[B.O.B - Blood Orange Blonde - Ocean Lab Brewing Co.] | Drinking a *B.O.B - Blood Orange Blonde* by *Ocean Lab Brewing Co.*. It is a *Blonde Ale* style of beer. | I rated it a *2.5*
 // untappd end

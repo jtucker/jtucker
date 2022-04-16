@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_04_16/b621f4b92d3d487b47939b57e370f775_200x200.jpg[Crash Boat IPA - Boquerón Brewing Co. (Caribe Ales)] | Drinking a *Crash Boat IPA* by *Boquerón Brewing Co. (Caribe Ales)*. It is a *IPA - American* style of beer. | I rated it a *2.75*
+| image:https://untappd.akamaized.net/photos/2022_04_16/7b759a4980663a8ba18cf0cf6f2ac9f8_200x200.jpg[Boquerón Lager - Boquerón Brewing Co. (Caribe Ales)] | Drinking a *Boquerón Lager* by *Boquerón Brewing Co. (Caribe Ales)*. It is a *Lager - Pale* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2022_04_15/9560f85e427eee83fbb34d6cd6c8f434_200x200.jpg[Living the Dream - Rincón Beer Company] | Drinking a *Living the Dream* by *Rincón Beer Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_04_14/e1a503605a71f26e6929430d94a5dcac_200x200.jpg[Session IPA - Grupo Mahou-San Miguel] | Drinking a *Session IPA* by *Grupo Mahou-San Miguel*. It is a *IPA - Session* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_04_13/b06478f7b3fdd0c5d8b0fc7763b275dc_200x200.jpg[Overhead IPA - Rincón Beer Company] | Drinking a *Overhead IPA* by *Rincón Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3*
 // untappd end

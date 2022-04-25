@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_04_24/971966c86a2021714fa3aa53ceb1dac2_200x200.jpg[Dance Floor Heater - New Anthem Beer Project] | Drinking a *Dance Floor Heater* by *New Anthem Beer Project*. It is a *Pilsner - Other* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2022_04_23/3deedc60f9942cb54242d1ff4423c3e3_200x200.jpg[Fantastic Voyage - Perennial Artisan Ales] | Drinking a *Fantastic Voyage* by *Perennial Artisan Ales*. It is a *Stout - Imperial / Double Milk* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2022_04_21/505bd0ef3d89e173444f3bc9b167c36f_200x200.jpg[Maibock - 3 Stars Brewing Company] | Drinking a *Maibock* by *3 Stars Brewing Company*. It is a *Bock - Hell / Maibock / Lentebock* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2022_04_16/b621f4b92d3d487b47939b57e370f775_200x200.jpg[Crash Boat IPA - Boquerón Brewing Co. (Caribe Ales)] | Drinking a *Crash Boat IPA* by *Boquerón Brewing Co. (Caribe Ales)*. It is a *IPA - American* style of beer. | I rated it a *2.75*
 // untappd end

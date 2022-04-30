@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2022_04_25/b1fe12a0f51b8c81eb7f41099c10e3d9_200x200.jpg[Conviction - Audacious Aleworks] | Drinking a *Conviction* by *Audacious Aleworks*. It is a *IPA - American* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2022_04_24/971966c86a2021714fa3aa53ceb1dac2_200x200.jpg[Dance Floor Heater - New Anthem Beer Project] | Drinking a *Dance Floor Heater* by *New Anthem Beer Project*. It is a *Pilsner - Other* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2022_04_23/3deedc60f9942cb54242d1ff4423c3e3_200x200.jpg[Fantastic Voyage - Perennial Artisan Ales] | Drinking a *Fantastic Voyage* by *Perennial Artisan Ales*. It is a *Stout - Imperial / Double Milk* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2022_04_30/0a18504eab90252382a628d5b10643e5_200x200.jpg[Crimson Bones - Yeast Of Eden] | Drinking a *Crimson Bones* by *Yeast Of Eden*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2022_04_29/0c7e8ccc8f254e01788133279010b338_200x200.jpg[False Lead - Vibrissa Beer] | Drinking a *False Lead* by *Vibrissa Beer*. It is a *IPA - Triple* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2022_04_29/401c36540b731a314e5a537cf360c9d0_200x200.jpg[With A Baseball Bat - Aslin Beer Company] | Drinking a *With A Baseball Bat* by *Aslin Beer Company*. It is a *IPA - American* style of beer. | I rated it a *2.75*
 // untappd end

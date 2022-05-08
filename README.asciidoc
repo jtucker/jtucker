@@ -30,7 +30,7 @@ image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_05_08/384a65b8926c189ddeeb04dff5ca112a_200x200.jpg[Strada - Torch & Crown Brewing Company] | Drinking a *Strada* by *Torch & Crown Brewing Company*. It is a *Pilsner - Italian* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2022_05_08/fc4399b0057ddeced8b8a3e8e8be1045_200x200.jpg[Nelsonomicon - Mason Ale Works] | Drinking a *Nelsonomicon* by *Mason Ale Works*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.25*
 | image:https://untappd.akamaized.net/photos/2022_05_04/fad7df0647227992f804ae95813d3bdc_200x200.jpg[Dank Ivy - Other Half Brewing Co.] | Drinking a *Dank Ivy* by *Other Half Brewing Co.*. It is a *IPA - American* style of beer. | I rated it a *3.75*
-| image:https://untappd.akamaized.net/photos/2022_05_01/8958e95a2834b22317350961af4c45d7_200x200.jpg[Good As Gold - 3 Stars Brewing Company] | Drinking a *Good As Gold* by *3 Stars Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_05_01/ab00a91f98385db3a541172e18fdbd0b_200x200.jpg[Saison Is Dead: Mosaic - Birds Fly South Ale Project] | Drinking a *Saison Is Dead: Mosaic* by *Birds Fly South Ale Project*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3.25*
 // untappd end

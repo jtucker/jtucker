@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_05_15/e58a625e7000f409de424dc258f683dd_200x200.jpg[Schmoojee Joose - Imprint Beer Co.] | Drinking a *Schmoojee Joose* by *Imprint Beer Co.*. It is a *Sour - Fruited* style of beer. | I rated it a *3.25*
+| image:https://untappd.akamaized.net/photos/2022_05_15/27e7bc29f437c83c30d54f14fc7e654b_200x200.jpg[Triple 3 Scoops: Passionfruit, Lemonade, Mango - The Answer] | Drinking a *Triple 3 Scoops: Passionfruit, Lemonade, Mango* by *The Answer*. It is a *Sour - Smoothie / Pastry* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2022_05_14/7ea842e6cbbe9905d3dc1200b727a1a4_200x200.jpg[Mega Fresh - Cherry Melon Lychee - Juicy Brewing Co] | Drinking a *Mega Fresh - Cherry Melon Lychee* by *Juicy Brewing Co*. It is a *Sour - Smoothie / Pastry* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_05_08/384a65b8926c189ddeeb04dff5ca112a_200x200.jpg[Strada - Torch & Crown Brewing Company] | Drinking a *Strada* by *Torch & Crown Brewing Company*. It is a *Pilsner - Italian* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_05_08/fc4399b0057ddeced8b8a3e8e8be1045_200x200.jpg[Nelsonomicon - Mason Ale Works] | Drinking a *Nelsonomicon* by *Mason Ale Works*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.25*
 // untappd end

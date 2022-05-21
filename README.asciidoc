@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_05_21/2f65b30f5d2ab1d00f3363147b5fa120_200x200.jpg[Coin Operated - Edmund's Oast Brewing Company] | Drinking a *Coin Operated* by *Edmund's Oast Brewing Company*. It is a *Farmhouse Ale - Grisette* style of beer. | I rated it a *3.5*
+| image:https://untappd.akamaized.net/photos/2022_05_21/8f0ca34db5980052630442fdd14c4745_200x200.jpg[Pot o Gold - Imprint Beer Co.] | Drinking a *Pot o Gold* by *Imprint Beer Co.*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
 | image:https://untappd.akamaized.net/photos/2022_05_15/e58a625e7000f409de424dc258f683dd_200x200.jpg[Schmoojee Joose - Imprint Beer Co.] | Drinking a *Schmoojee Joose* by *Imprint Beer Co.*. It is a *Sour - Fruited* style of beer. | I rated it a *3.25*
-| image:https://untappd.akamaized.net/photos/2022_05_15/27e7bc29f437c83c30d54f14fc7e654b_200x200.jpg[Triple 3 Scoops: Passionfruit, Lemonade, Mango - The Answer] | Drinking a *Triple 3 Scoops: Passionfruit, Lemonade, Mango* by *The Answer*. It is a *Sour - Smoothie / Pastry* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_05_14/7ea842e6cbbe9905d3dc1200b727a1a4_200x200.jpg[Mega Fresh - Cherry Melon Lychee - Juicy Brewing Co] | Drinking a *Mega Fresh - Cherry Melon Lychee* by *Juicy Brewing Co*. It is a *Sour - Smoothie / Pastry* style of beer. | I rated it a *3*
 // untappd end

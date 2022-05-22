@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_05_22/105f875bad6d3e29a80e2f70b88d00e5_200x200.jpg[McMansion - Bingo Beer Co.] | Drinking a *McMansion* by *Bingo Beer Co.*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *0*
+| image:https://untappd.akamaized.net/photos/2022_05_22/410130e28c0f52d29731dc499b933f6f_200x200.jpg[Kodiak Kolsch - Bear Chase Brewing Company] | Drinking a *Kodiak Kolsch* by *Bear Chase Brewing Company*. It is a *Kölsch* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2022_05_22/9d995c9e7ee63d0ffbce1159ceab822d_200x200.jpg[The Real An Mekong - The Answer] | Drinking a *The Real An Mekong* by *The Answer*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_05_21/2f65b30f5d2ab1d00f3363147b5fa120_200x200.jpg[Coin Operated - Edmund's Oast Brewing Company] | Drinking a *Coin Operated* by *Edmund's Oast Brewing Company*. It is a *Farmhouse Ale - Grisette* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_05_21/8f0ca34db5980052630442fdd14c4745_200x200.jpg[Pot o Gold - Imprint Beer Co.] | Drinking a *Pot o Gold* by *Imprint Beer Co.*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_05_28/2b112a828247e075b0cb54c1e8ced7bc_200x200.jpg[Bizarre Celebrations: Kathy - Foam Brewers] | Drinking a *Bizarre Celebrations: Kathy* by *Foam Brewers*. It is a *Pale Ale - New England / Hazy* style of beer. | I rated it a *2.5*
+| image:https://untappd.akamaized.net/photos/2022_05_28/70c74118435b40c1e9efc760622ae2b4_200x200.jpg[Built To Spill - Foam Brewers] | Drinking a *Built To Spill* by *Foam Brewers*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.75*
 | image:https://untappd.akamaized.net/photos/2022_05_22/105f875bad6d3e29a80e2f70b88d00e5_200x200.jpg[McMansion - Bingo Beer Co.] | Drinking a *McMansion* by *Bingo Beer Co.*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *0*
-| image:https://untappd.akamaized.net/photos/2022_05_22/410130e28c0f52d29731dc499b933f6f_200x200.jpg[Kodiak Kolsch - Bear Chase Brewing Company] | Drinking a *Kodiak Kolsch* by *Bear Chase Brewing Company*. It is a *Kölsch* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_05_22/9d995c9e7ee63d0ffbce1159ceab822d_200x200.jpg[The Real An Mekong - The Answer] | Drinking a *The Real An Mekong* by *The Answer*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.5*
 // untappd end

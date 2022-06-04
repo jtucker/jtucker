@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://untappd.akamaized.net/photos/2022_05_29/facce3dfa7ef4c32a1c9e66c353eb857_200x200.jpg[Open Up & Love Again:  Huckleberry and Blueberry - The Veil Brewing Co.] | Drinking a *Open Up & Love Again:  Huckleberry and Blueberry* by *The Veil Brewing Co.*. It is a *Farmhouse Ale - Other* style of beer. | I rated it a *3.75*
-| image:https://untappd.akamaized.net/photos/2022_05_29/bd4eb4686b2d4ba56cf7bdc7bce1d8c7_200x200.jpg[Harlen - Fair Isle Brewing] | Drinking a *Harlen* by *Fair Isle Brewing*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3*
-| image:https://untappd.akamaized.net/photos/2022_05_29/eb2e5ed0f723f7628d7f31d2c799662f_200x200.jpg[Color Field (Batch 1) - Grimm Artisanal Ales] | Drinking a *Color Field (Batch 1)* by *Grimm Artisanal Ales*. It is a *Sour - Other* style of beer. | I rated it a *4*
+| image:https://untappd.akamaized.net/photos/2022_06_04/6725ef5520661a3210d00c137e028039_200x200.jpg[CatDaddy - Commonwealth Brewing Company] | Drinking a *CatDaddy* by *Commonwealth Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
+| image:https://untappd.akamaized.net/photos/2022_06_04/036f0cd5a27236f08e47fab9c6f4485d_200x200.jpg[Landbier - Silver Branch Brewing Company] | Drinking a *Landbier* by *Silver Branch Brewing Company*. It is a *Lager - Amber* style of beer. | I rated it a *2.8*
+| image:https://untappd.akamaized.net/photos/2022_06_04/486207ddc0e1f5a721eb43f4bea05435_200x200.jpg[Dr. Juicy - Silver Branch Brewing Company] | Drinking a *Dr. Juicy* by *Silver Branch Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.5*
 // untappd end

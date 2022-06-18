@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[1605 Red - Antietam Brewery] | Drinking a *1605 Red* by *Antietam Brewery*. It is a *Red Ale - Irish* style of beer. | I rated it a *2.9*
-| image:https://untappd.akamaized.net/photos/2022_06_10/e32612d336cbebeebda0e9d88b0fcb94_200x200.jpg[Mid Afternoon - Deciduous Brewing Company] | Drinking a *Mid Afternoon* by *Deciduous Brewing Company*. It is a *IPA - Session* style of beer. | I rated it a *3.1*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[3,2,1 Gose w/ Jalapeño and Lime  - Waredaca Brewing Company] | Drinking a *3,2,1 Gose w/ Jalapeño and Lime * by *Waredaca Brewing Company*. It is a *Sour - Fruited Gose* style of beer. | I rated it a *2.6*
+| image:https://untappd.akamaized.net/photos/2022_06_18/2cde5b5aeb96cf3dd84725bc8309dd37_200x200.jpg[Modern Music - Dewey Beer Company] | Drinking a *Modern Music* by *Dewey Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Train To the Moon - Dewey Beer Company] | Drinking a *Train To the Moon* by *Dewey Beer Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Single For the Summer - Sabro - Dewey Beer Company] | Drinking a *Single For the Summer - Sabro* by *Dewey Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3.7*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_06_19/ec7f53ebfa3ed41570b97e3165ad90dc_200x200.jpg[Iron Sharpens Iron IPA - Revelation Craft Brewing Company] | Drinking a *Iron Sharpens Iron IPA* by *Revelation Craft Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2022_06_19/658586bc6abffea2b7140b01fef3f75c_200x200.jpg[Grateful Nation IPA - Revelation Craft Brewing Company] | Drinking a *Grateful Nation IPA* by *Revelation Craft Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
 | image:https://untappd.akamaized.net/photos/2022_06_18/2cde5b5aeb96cf3dd84725bc8309dd37_200x200.jpg[Modern Music - Dewey Beer Company] | Drinking a *Modern Music* by *Dewey Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Train To the Moon - Dewey Beer Company] | Drinking a *Train To the Moon* by *Dewey Beer Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Single For the Summer - Sabro - Dewey Beer Company] | Drinking a *Single For the Summer - Sabro* by *Dewey Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3.7*
 // untappd end

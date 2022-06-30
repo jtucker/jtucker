@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_06_30/8bc6670718e993958c3061dbaf679353_200x200.jpg[Saturhaze - Green Flash Brewing Company] | Drinking a *Saturhaze* by *Green Flash Brewing Company*. It is a *IPA - Session* style of beer. | I rated it a *3.3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Stonefruit Symphony (2022) - Alesong Brewing & Blending] | Drinking a *Stonefruit Symphony (2022)* by *Alesong Brewing & Blending*. It is a *Sour - Fruited* style of beer. | I rated it a *4.3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Lou (Ales For ALS 2022) - Brew Gentlemen] | Drinking a *Lou (Ales For ALS 2022)* by *Brew Gentlemen*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4.1*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[General Braddock's - Brew Gentlemen] | Drinking a *General Braddock's* by *Brew Gentlemen*. It is a *IPA - American* style of beer. | I rated it a *3.7*
 // untappd end

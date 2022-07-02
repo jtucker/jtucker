@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://api.untappd.com/v4/image/checkinphoto/1175126502?size=sm[Pink Lemonade - Eppig Brewing] | Drinking a *Pink Lemonade* by *Eppig Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *3.6*
+| image:https://untappd.akamaized.net/photos/2022_07_02/2e434722aefe0bf24fa5bbcc8a31b1de_200x200.jpg[Pink Lemonade - Eppig Brewing] | Drinking a *Pink Lemonade* by *Eppig Brewing*. It is a *Sour - Fruited* style of beer. | I rated it a *3.6*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Smokey the Beer - Eppig Brewing] | Drinking a *Smokey the Beer* by *Eppig Brewing*. It is a *Altbier* style of beer. | I rated it a *3.2*
-| image:https://api.untappd.com/v4/image/checkinphoto/1175124110?size=sm[Natural Bridge: Special Lager - Eppig Brewing] | Drinking a *Natural Bridge: Special Lager* by *Eppig Brewing*. It is a *Lager - Japanese Rice* style of beer. | I rated it a *3.4*
+| image:https://untappd.akamaized.net/photos/2022_07_02/a7cdc8021775f28ad99b1a5e16ea3e8c_200x200.jpg[Natural Bridge: Special Lager - Eppig Brewing] | Drinking a *Natural Bridge: Special Lager* by *Eppig Brewing*. It is a *Lager - Japanese Rice* style of beer. | I rated it a *3.4*
 // untappd end

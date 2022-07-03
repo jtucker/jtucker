@@ -35,6 +35,6 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 |====
 // untappd beer
 | image:https://api.untappd.com/v4/image/checkinphoto/1175737836?size=sm[Infinite Scroll - Seek Beer Co.] | Drinking a *Infinite Scroll* by *Seek Beer Co.*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.2*
-| image:https://api.untappd.com/v4/image/checkinphoto/1175702529?size=sm[S3 Rock Melon Sour - Kilowatt Brewing] | Drinking a *S3 Rock Melon Sour* by *Kilowatt Brewing*. It is a *Sour - Berliner Weisse* style of beer. | I rated it a *3.5*
-| image:https://api.untappd.com/v4/image/checkinphoto/1175701228?size=sm[Hazy And The Hendersons - Kilowatt Brewing] | Drinking a *Hazy And The Hendersons* by *Kilowatt Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
+| image:https://untappd.akamaized.net/photos/2022_07_03/285dcbc6057785757ad827391a1f648f_200x200.jpg[S3 Rock Melon Sour - Kilowatt Brewing] | Drinking a *S3 Rock Melon Sour* by *Kilowatt Brewing*. It is a *Sour - Berliner Weisse* style of beer. | I rated it a *3.5*
+| image:https://untappd.akamaized.net/photos/2022_07_03/e73918b14933ac362e4c3defc441b2c0_200x200.jpg[Hazy And The Hendersons - Kilowatt Brewing] | Drinking a *Hazy And The Hendersons* by *Kilowatt Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://untappd.akamaized.net/photos/2022_07_04/44570baee96ad40b4f711350505f145f_200x200.jpg[Fortune Pilsner - Seek Beer Co.] | Drinking a *Fortune Pilsner* by *Seek Beer Co.*. It is a *Pilsner - German* style of beer. | I rated it a *3*
 | image:https://untappd.akamaized.net/photos/2022_07_03/b727016d01eccf699c1bf187b944b0c1_200x200.jpg[Infinite Scroll - Seek Beer Co.] | Drinking a *Infinite Scroll* by *Seek Beer Co.*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.2*
 | image:https://untappd.akamaized.net/photos/2022_07_03/285dcbc6057785757ad827391a1f648f_200x200.jpg[S3 Rock Melon Sour - Kilowatt Brewing] | Drinking a *S3 Rock Melon Sour* by *Kilowatt Brewing*. It is a *Sour - Berliner Weisse* style of beer. | I rated it a *3.5*
-| image:https://untappd.akamaized.net/photos/2022_07_03/e73918b14933ac362e4c3defc441b2c0_200x200.jpg[Hazy And The Hendersons - Kilowatt Brewing] | Drinking a *Hazy And The Hendersons* by *Kilowatt Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

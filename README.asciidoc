@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2022_07_22/5e0ae108353d3b2a77ba5dfab7711068_200x200.jpg[Undeniable Charm - Edmund's Oast Brewing Company] | Drinking a *Undeniable Charm* by *Edmund's Oast Brewing Company*. It is a *Wild Ale - American* style of beer. | I rated it a *4*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Very Green - Tree House Brewing Company] | Drinking a *Very Green* by *Tree House Brewing Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *0*
-| image:https://assets.untappd.com/photos/2022_07_16/5b554b778ef3c727e138c4cb2c2004f6_200x200.jpg[Radeberger Pilsner Zwickel - Radeberger Gruppe] | Drinking a *Radeberger Pilsner Zwickel* by *Radeberger Gruppe*. It is a *Kellerbier / Zwickelbier* style of beer. | I rated it a *3.1*
+| image:https://assets.untappd.com/photos/2022_08_06/e362aa8b9af7c528444ef5638559a652_200x200.jpg[Squared Pants Pineapple Guava Sour - 2 Silos Brewing Company] | Drinking a *Squared Pants Pineapple Guava Sour* by *2 Silos Brewing Company*. It is a *Sour - Fruited* style of beer. | I rated it a *3.1*
+| image:https://assets.untappd.com/photos/2022_08_06/b965738211955f345295ada0f3bbf4ae_200x200.jpg[Blood Orange Shandy - 2 Silos Brewing Company] | Drinking a *Blood Orange Shandy* by *2 Silos Brewing Company*. It is a *Shandy / Radler* style of beer. | I rated it a *3.3*
+| image:https://assets.untappd.com/photos/2022_08_06/f7bfcaecd1b8120d84310582bd064fdc_200x200.jpg[Lowkey Trickster - 2 Silos Brewing Company] | Drinking a *Lowkey Trickster* by *2 Silos Brewing Company*. It is a *IPA - Session* style of beer. | I rated it a *2.9*
 // untappd end

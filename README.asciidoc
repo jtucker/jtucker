@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2022_08_17/600551160754baf26a8ac4d774d74155_200x200.jpg[Tropical Mango - Topo Chico Hard Seltzer] | Drinking a *Tropical Mango* by *Topo Chico Hard Seltzer*. It is a *Hard Seltzer* style of beer. | I rated it a *2.5*
 | image:https://assets.untappd.com/photos/2022_08_14/1e12259d91ed8b1735153663a26d127b_200x200.jpg[Haze - Tree House Brewing Company] | Drinking a *Haze* by *Tree House Brewing Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *0*
 | image:https://assets.untappd.com/photos/2022_08_12/a42a2bfe0412de325527a0a4d57670e2_200x200.jpg[Jinx Hazy IPA - Nighthawk Pizza] | Drinking a *Jinx Hazy IPA* by *Nighthawk Pizza*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
-| image:https://assets.untappd.com/photos/2022_08_12/f6ef5c82468cfd825d6d5edc770832b8_200x200.jpg[Mosaic Pale Ale - Nighthawk Pizza] | Drinking a *Mosaic Pale Ale* by *Nighthawk Pizza*. It is a *Pale Ale - American* style of beer. | I rated it a *2.9*
 // untappd end

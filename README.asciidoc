@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2022_08_20/8bd1adce53d917f445ca49932866cad8_200x200.jpg[National Landing - New District Brewing] | Drinking a *National Landing* by *New District Brewing*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2022_08_20/5ee56dd174d714244d748012112560fd_200x200.jpg[Thank You 2022 - Maine Beer Company] | Drinking a *Thank You 2022* by *Maine Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3.7*
 | image:https://assets.untappd.com/photos/2022_08_17/600551160754baf26a8ac4d774d74155_200x200.jpg[Tropical Mango - Topo Chico Hard Seltzer] | Drinking a *Tropical Mango* by *Topo Chico Hard Seltzer*. It is a *Hard Seltzer* style of beer. | I rated it a *2.5*
-| image:https://assets.untappd.com/photos/2022_08_14/1e12259d91ed8b1735153663a26d127b_200x200.jpg[Haze - Tree House Brewing Company] | Drinking a *Haze* by *Tree House Brewing Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *0*
 // untappd end

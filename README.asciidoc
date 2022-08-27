@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2022_08_26/5698bc216317c9ff0c879f8eb0592af3_200x200.jpg[Mild Manor'd Amber - Manor Hill Brewing] | Drinking a *Mild Manor'd Amber* by *Manor Hill Brewing*. It is a *Red Ale - American Amber / Red* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_08_26/ae22b6bce0d513a1e591591ae9b45c09_200x200.jpg[Oktoberfest - DC Brau Brewing Company] | Drinking a *Oktoberfest* by *DC Brau Brewing Company*. It is a *Märzen* style of beer. | I rated it a *2.5*
 | image:https://assets.untappd.com/photos/2022_08_21/1dca8ec4249dad206915b2040ad7789c_200x200.jpg[Endulzados - Bottle Logic Brewing] | Drinking a *Endulzados* by *Bottle Logic Brewing*. It is a *Sour - Fruited Berliner Weisse* style of beer. | I rated it a *4*
-| image:https://assets.untappd.com/photos/2022_08_20/8bd1adce53d917f445ca49932866cad8_200x200.jpg[National Landing - New District Brewing] | Drinking a *National Landing* by *New District Brewing*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2022_08_20/5ee56dd174d714244d748012112560fd_200x200.jpg[Thank You 2022 - Maine Beer Company] | Drinking a *Thank You 2022* by *Maine Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3.7*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2022_09_01/5b2c4e0584af8ca6f7fb0f1959d59ca5_200x200.jpg[Opaque - IPA - GMC Galaxy Motueka Citra - Juicy Brewing Co] | Drinking a *Opaque - IPA - GMC Galaxy Motueka Citra* by *Juicy Brewing Co*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4.1*
+| image:https://assets.untappd.com/photos/2022_09_01/3d31da76889b29cb6f2d95b010b2f67d_200x200.jpg[Summer Mood (Nelson/Motueka) - Juicy Brewing Co] | Drinking a *Summer Mood (Nelson/Motueka)* by *Juicy Brewing Co*. It is a *Kölsch* style of beer. | I rated it a *3.6*
 | image:https://assets.untappd.com/photos/2022_08_26/5698bc216317c9ff0c879f8eb0592af3_200x200.jpg[Mild Manor'd Amber - Manor Hill Brewing] | Drinking a *Mild Manor'd Amber* by *Manor Hill Brewing*. It is a *Red Ale - American Amber / Red* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2022_08_26/ae22b6bce0d513a1e591591ae9b45c09_200x200.jpg[Oktoberfest - DC Brau Brewing Company] | Drinking a *Oktoberfest* by *DC Brau Brewing Company*. It is a *Märzen* style of beer. | I rated it a *2.5*
-| image:https://assets.untappd.com/photos/2022_08_21/1dca8ec4249dad206915b2040ad7789c_200x200.jpg[Endulzados - Bottle Logic Brewing] | Drinking a *Endulzados* by *Bottle Logic Brewing*. It is a *Sour - Fruited Berliner Weisse* style of beer. | I rated it a *4*
 // untappd end

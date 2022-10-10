@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2022_10_01/67b1781db7be30371601ee57d897b9dd_200x200.jpg[Hansel & Kettle - Three Notch'd Brewing] | Drinking a *Hansel & Kettle* by *Three Notch'd Brewing*. It is a *Märzen* style of beer. | I rated it a *3.8*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[How Bout It 2022 - Black Narrows Brewing Co.] | Drinking a *How Bout It 2022* by *Black Narrows Brewing Co.*. It is a *Corn Beer / Chicha de Jora* style of beer. | I rated it a *3.6*
-| image:https://assets.untappd.com/photos/2022_09_24/b07f87557f4473ad03f510f920491bea_200x200.jpg[Spinning Circles - Crooked Run Fermentation] | Drinking a *Spinning Circles* by *Crooked Run Fermentation*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_10_09/54ced9917c70d81eb2474a7025b9793f_200x200.jpg[Ursprung 2022 - Wheatland Spring Farm + Brewery] | Drinking a *Ursprung 2022* by *Wheatland Spring Farm + Brewery*. It is a *Festbier* style of beer. | I rated it a *3.3*
+| image:https://assets.untappd.com/photos/2022_10_09/541760f3d4c323023a3da14a50aa3928_200x200.jpg[Psychokinesis - Grimm Artisanal Ales] | Drinking a *Psychokinesis* by *Grimm Artisanal Ales*. It is a *Sour - Other* style of beer. | I rated it a *2.9*
+| image:https://assets.untappd.com/photos/2022_10_09/c911a1149d1a09b44ed1a64f32c89923_200x200.jpg[(No) Pumpkin IPA - Sloop Brewing Co.] | Drinking a *(No) Pumpkin IPA* by *Sloop Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2022_10_09/54ced9917c70d81eb2474a7025b9793f_200x200.jpg[Ursprung 2022 - Wheatland Spring Farm + Brewery] | Drinking a *Ursprung 2022* by *Wheatland Spring Farm + Brewery*. It is a *Festbier* style of beer. | I rated it a *3.3*
-| image:https://assets.untappd.com/photos/2022_10_09/541760f3d4c323023a3da14a50aa3928_200x200.jpg[Psychokinesis - Grimm Artisanal Ales] | Drinking a *Psychokinesis* by *Grimm Artisanal Ales*. It is a *Sour - Other* style of beer. | I rated it a *2.9*
-| image:https://assets.untappd.com/photos/2022_10_09/c911a1149d1a09b44ed1a64f32c89923_200x200.jpg[(No) Pumpkin IPA - Sloop Brewing Co.] | Drinking a *(No) Pumpkin IPA* by *Sloop Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_10_10/8b0402a8f27b7bc17add49bce93d305a_200x200.jpg[Ledge Bier - Great Notion Brewing] | Drinking a *Ledge Bier* by *Great Notion Brewing*. It is a *Pilsner - German* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_10_10/b46588092ea5fbfe26a2bed2d035495d_200x200.jpg[Cashmere Classic - Väsen Brewing Company] | Drinking a *Cashmere Classic* by *Väsen Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_10_10/09daed0b414fe5bd5812ecfa3751328e_200x200.jpg[Bikes! Raspberry Shandy - Funk Brewing ] | Drinking a *Bikes! Raspberry Shandy* by *Funk Brewing *. It is a *Shandy / Radler* style of beer. | I rated it a *3.8*
 // untappd end

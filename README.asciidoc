@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Night Owl Pumpkin Ale - Elysian Brewing Company] | Drinking a *Night Owl Pumpkin Ale* by *Elysian Brewing Company*. It is a *Pumpkin / Yam Beer* style of beer. | I rated it a *2.7*
 | image:https://assets.untappd.com/photos/2022_10_10/8b0402a8f27b7bc17add49bce93d305a_200x200.jpg[Ledge Bier - Great Notion Brewing] | Drinking a *Ledge Bier* by *Great Notion Brewing*. It is a *Pilsner - German* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2022_10_10/b46588092ea5fbfe26a2bed2d035495d_200x200.jpg[Cashmere Classic - Väsen Brewing Company] | Drinking a *Cashmere Classic* by *Väsen Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2022_10_10/09daed0b414fe5bd5812ecfa3751328e_200x200.jpg[Bikes! Raspberry Shandy - Funk Brewing ] | Drinking a *Bikes! Raspberry Shandy* by *Funk Brewing *. It is a *Shandy / Radler* style of beer. | I rated it a *3.8*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Night Owl Pumpkin Ale - Elysian Brewing Company] | Drinking a *Night Owl Pumpkin Ale* by *Elysian Brewing Company*. It is a *Pumpkin / Yam Beer* style of beer. | I rated it a *2.7*
-| image:https://assets.untappd.com/photos/2022_10_10/8b0402a8f27b7bc17add49bce93d305a_200x200.jpg[Ledge Bier - Great Notion Brewing] | Drinking a *Ledge Bier* by *Great Notion Brewing*. It is a *Pilsner - German* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2022_10_10/b46588092ea5fbfe26a2bed2d035495d_200x200.jpg[Cashmere Classic - Väsen Brewing Company] | Drinking a *Cashmere Classic* by *Väsen Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_10_21/718ae99ae668f44b5534e9c7d24e8dbd_200x200.jpg[Instant Gratification - Third Barrel Brewing] | Drinking a *Instant Gratification* by *Third Barrel Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
+| image:https://assets.untappd.com/photos/2022_10_21/b2aa781ea75a2923287db056607034d5_200x200.jpg[BRÚ Ipa - BRÚ Brewery] | Drinking a *BRÚ Ipa* by *BRÚ Brewery*. It is a *IPA - American* style of beer. | I rated it a *2*
+| image:https://assets.untappd.com/photos/2022_10_21/5ec09bd3e9ae5c6c592a280ddc62d59e_200x200.jpg[Rustbucket - Kinnegar Brewing] | Drinking a *Rustbucket* by *Kinnegar Brewing*. It is a *Rye Beer* style of beer. | I rated it a *3.3*
 // untappd end

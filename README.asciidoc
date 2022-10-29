@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2022_10_29/ed7eaafc67d450bdf7a3fd6cc755558d_200x200.jpg[Gertrude's Ghost - Bear Chase Brewing Company] | Drinking a *Gertrude's Ghost* by *Bear Chase Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.3*
 | image:https://assets.untappd.com/photos/2022_10_21/718ae99ae668f44b5534e9c7d24e8dbd_200x200.jpg[Instant Gratification - Third Barrel Brewing] | Drinking a *Instant Gratification* by *Third Barrel Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
 | image:https://assets.untappd.com/photos/2022_10_21/b2aa781ea75a2923287db056607034d5_200x200.jpg[BRÚ Ipa - BRÚ Brewery] | Drinking a *BRÚ Ipa* by *BRÚ Brewery*. It is a *IPA - American* style of beer. | I rated it a *2*
-| image:https://assets.untappd.com/photos/2022_10_21/5ec09bd3e9ae5c6c592a280ddc62d59e_200x200.jpg[Rustbucket - Kinnegar Brewing] | Drinking a *Rustbucket* by *Kinnegar Brewing*. It is a *Rye Beer* style of beer. | I rated it a *3.3*
 // untappd end

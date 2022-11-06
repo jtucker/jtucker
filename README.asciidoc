@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://api.untappd.com/v4/image/checkinphoto/1218330171?size=sm[An Age of Islands - Lost Generation] | Drinking a *An Age of Islands* by *Lost Generation*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.8*
+| image:https://assets.untappd.com/photos/2022_11_05/e9ecb533a9ffa75a509ff21b3618cc0c_200x200.jpg[An Age of Islands - Lost Generation] | Drinking a *An Age of Islands* by *Lost Generation*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.8*
 | image:https://assets.untappd.com/photos/2022_11_05/8329f2b2e648f040f709c1e3cc90d999_200x200.jpg[Irish Red Tail - Eavesdrop Brewery] | Drinking a *Irish Red Tail* by *Eavesdrop Brewery*. It is a *Red Ale - Irish* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2022_11_05/961ab270bef6cea06bcd5971535958b7_200x200.jpg[The Fruit That Ate Itself - Foam Brewers] | Drinking a *The Fruit That Ate Itself* by *Foam Brewers*. It is a *IPA - American* style of beer. | I rated it a *3.4*
 // untappd end

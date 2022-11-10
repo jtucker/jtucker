@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2022_11_09/f79cb7c107ca369ad81b961f47a86c66_200x200.jpg[The Crafty Brewing Company - Irish IPA - Rye River Brewing Company] | Drinking a *The Crafty Brewing Company - Irish IPA* by *Rye River Brewing Company*. It is a *IPA - Other* style of beer. | I rated it a *2.7*
 | image:https://assets.untappd.com/photos/2022_11_09/eb805e0c8090528700726af853a093a4_200x200.jpg[Rambler - The Porterhouse Brew Co.] | Drinking a *Rambler* by *The Porterhouse Brew Co.*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2022_11_08/1dc89a8249caa272cab0335773233ab7_200x200.jpg[Renegade - The Porterhouse Brew Co.] | Drinking a *Renegade* by *The Porterhouse Brew Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2022_11_08/0ef23ae042d8f371e178defe936c3570_200x200.jpg[Chimes - Whiplash] | Drinking a *Chimes* by *Whiplash*. It is a *Pale Ale - Other* style of beer. | I rated it a *2.7*
 // untappd end

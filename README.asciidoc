@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2022_11_11/7ea86beb7c7f94796883930dbc66f515_200x200.jpg[Club Pale Ale - Urban Brewing ] | Drinking a *Club Pale Ale* by *Urban Brewing *. It is a *Pale Ale - Other* style of beer. | I rated it a *3.6*
 | image:https://assets.untappd.com/photos/2022_11_10/e101bb13fc4f75bac75703b72cf471c4_200x200.jpg[Hop-On - Hope Beer] | Drinking a *Hop-On* by *Hope Beer*. It is a *IPA - Session* style of beer. | I rated it a *3.3*
 | image:https://assets.untappd.com/photos/2022_11_10/2fd42a7d3473a1cefef2a614e10c8e0b_200x200.jpg[Citra Single Hop IPA - Eight Degrees Brewing] | Drinking a *Citra Single Hop IPA* by *Eight Degrees Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.5*
-| image:https://assets.untappd.com/photos/2022_11_09/f79cb7c107ca369ad81b961f47a86c66_200x200.jpg[The Crafty Brewing Company - Irish IPA - Rye River Brewing Company] | Drinking a *The Crafty Brewing Company - Irish IPA* by *Rye River Brewing Company*. It is a *IPA - Other* style of beer. | I rated it a *2.7*
 // untappd end

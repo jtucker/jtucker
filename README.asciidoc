@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2022_12_10/48a36c20206452a289712ddab0d10fbb_200x200.jpg[Common Grounds (2022) - Commonwealth Brewing Company] | Drinking a *Common Grounds (2022)* by *Commonwealth Brewing Company*. It is a *IPA - Triple New England / Hazy* style of beer. | I rated it a *3.7*
-| image:https://assets.untappd.com/photos/2022_12_10/15c1a3add2dd36c1970fc1b1dea6c2c0_200x200.jpg[Saison Dupont - Brasserie Dupont] | Drinking a *Saison Dupont* by *Brasserie Dupont*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3.5*
-| image:https://assets.untappd.com/photos/2022_12_05/d242359fe93d73dc49b3f40d6219bcfb_200x200.jpg[Ten Year Beer - Revolution Brewing Company] | Drinking a *Ten Year Beer* by *Revolution Brewing Company*. It is a *Barleywine - English* style of beer. | I rated it a *3.5*
+| image:https://assets.untappd.com/photos/2022_12_13/38bb0818cc65ba60c4cd744b16aee432_200x200.jpg[Wit - Brouwerij St.Bernardus] | Drinking a *Wit* by *Brouwerij St.Bernardus*. It is a *Wheat Beer - Witbier / Blanche* style of beer. | I rated it a *3.5*
+| image:https://assets.untappd.com/photos/2022_12_13/53371bd8f977c95af3871668c399ca3d_200x200.jpg[Christmas Ale - Brouwerij St.Bernardus] | Drinking a *Christmas Ale* by *Brouwerij St.Bernardus*. It is a *Winter Ale* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_12_13/e5c9ed5c2b7989c3d3d1dfa3a4df5085_200x200.jpg[Abt 12 - Brouwerij St.Bernardus] | Drinking a *Abt 12* by *Brouwerij St.Bernardus*. It is a *Belgian Quadrupel* style of beer. | I rated it a *4.5*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2022_12_16/14f8f7aa9997ca7e97341aaa6a790bcc_200x200.jpg[Ewing - Landmade Brewing] | Drinking a *Ewing* by *Landmade Brewing*. It is a *Lager - Dark* style of beer. | I rated it a *4*
-| image:https://assets.untappd.com/photos/2022_12_13/38bb0818cc65ba60c4cd744b16aee432_200x200.jpg[Wit - Brouwerij St.Bernardus] | Drinking a *Wit* by *Brouwerij St.Bernardus*. It is a *Wheat Beer - Witbier / Blanche* style of beer. | I rated it a *3.5*
-| image:https://assets.untappd.com/photos/2022_12_13/53371bd8f977c95af3871668c399ca3d_200x200.jpg[Christmas Ale - Brouwerij St.Bernardus] | Drinking a *Christmas Ale* by *Brouwerij St.Bernardus*. It is a *Winter Ale* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_12_25/f65f391031b9c0ba556cae44ce7cecae_200x200.jpg[Robochacho - Benchtop Brewing Company] | Drinking a *Robochacho* by *Benchtop Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_12_25/dad71ebf6bfaca498228e2151885d721_200x200.jpg[Celebration Fresh Hop IPA - Sierra Nevada Brewing Co.] | Drinking a *Celebration Fresh Hop IPA* by *Sierra Nevada Brewing Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2022_12_25/f6bd117d6dcc966a53a027332f4fb9f7_200x200.jpg[Cuvée De Grâce (2020) - Revolution Brewing Company] | Drinking a *Cuvée De Grâce (2020)* by *Revolution Brewing Company*. It is a *Other* style of beer. | I rated it a *2.5*
 // untappd end

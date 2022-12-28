@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2022_12_28/d05258454e8c214106add1f50a9cee26_200x200.jpg[Hazy Gardens of Babylon - Bear Roots Brewing Co.] | Drinking a *Hazy Gardens of Babylon* by *Bear Roots Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.1*
 | image:https://assets.untappd.com/photos/2022_12_25/f65f391031b9c0ba556cae44ce7cecae_200x200.jpg[Robochacho - Benchtop Brewing Company] | Drinking a *Robochacho* by *Benchtop Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2022_12_25/dad71ebf6bfaca498228e2151885d721_200x200.jpg[Celebration Fresh Hop IPA - Sierra Nevada Brewing Co.] | Drinking a *Celebration Fresh Hop IPA* by *Sierra Nevada Brewing Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2022_12_25/f6bd117d6dcc966a53a027332f4fb9f7_200x200.jpg[Cuvée De Grâce (2020) - Revolution Brewing Company] | Drinking a *Cuvée De Grâce (2020)* by *Revolution Brewing Company*. It is a *Other* style of beer. | I rated it a *2.5*
 // untappd end

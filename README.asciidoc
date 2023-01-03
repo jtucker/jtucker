@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_01_03/ba1bc8e2c880e39557cc03af6868508c_200x200.jpg[I Used To Believe That There Was Nothing In Between - Burial Beer Co.] | Drinking a *I Used To Believe That There Was Nothing In Between* by *Burial Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_01_03/77e1afb28af2af99bff688e9c3887ffd_200x200.jpg[Flexible Flyer - Brookeville Beer Farm] | Drinking a *Flexible Flyer* by *Brookeville Beer Farm*. It is a *Stout - Oatmeal* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_01_02/38cf7035ea040b048a4f1f171d9d4d23_200x200.jpg[Pragmatism - Motueka - Eredità Beer] | Drinking a *Pragmatism - Motueka* by *Eredità Beer*. It is a *Pale Ale - New England / Hazy* style of beer. | I rated it a *3.7*
-| image:https://assets.untappd.com/photos/2022_12_28/d05258454e8c214106add1f50a9cee26_200x200.jpg[Hazy Gardens of Babylon - Bear Roots Brewing Co.] | Drinking a *Hazy Gardens of Babylon* by *Bear Roots Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.1*
-| image:https://assets.untappd.com/photos/2022_12_25/f65f391031b9c0ba556cae44ce7cecae_200x200.jpg[Robochacho - Benchtop Brewing Company] | Drinking a *Robochacho* by *Benchtop Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

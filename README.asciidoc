@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Poetry Snaps - Other Half Brewing Co.] | Drinking a *Poetry Snaps* by *Other Half Brewing Co.*. It is a *Lager - Japanese Rice* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_01_17/13bd6d9fe82becf5e1a8e2c1f7065982_200x200.jpg[Capit-ale - Devils Backbone Brewing Company] | Drinking a *Capit-ale* by *Devils Backbone Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_01_03/ba1bc8e2c880e39557cc03af6868508c_200x200.jpg[I Used To Believe That There Was Nothing In Between - Burial Beer Co.] | Drinking a *I Used To Believe That There Was Nothing In Between* by *Burial Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_01_03/77e1afb28af2af99bff688e9c3887ffd_200x200.jpg[Flexible Flyer - Brookeville Beer Farm] | Drinking a *Flexible Flyer* by *Brookeville Beer Farm*. It is a *Stout - Oatmeal* style of beer. | I rated it a *3.5*
 // untappd end

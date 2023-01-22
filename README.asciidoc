@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_01_21/7558637cf1e216f0d04da31b9696e2ba_200x200.jpg[Double Secret Vacation - Vitamin Sea Brewing] | Drinking a *Double Secret Vacation* by *Vitamin Sea Brewing*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Poetry Snaps - Other Half Brewing Co.] | Drinking a *Poetry Snaps* by *Other Half Brewing Co.*. It is a *Lager - Japanese Rice* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_01_17/13bd6d9fe82becf5e1a8e2c1f7065982_200x200.jpg[Capit-ale - Devils Backbone Brewing Company] | Drinking a *Capit-ale* by *Devils Backbone Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_01_03/ba1bc8e2c880e39557cc03af6868508c_200x200.jpg[I Used To Believe That There Was Nothing In Between - Burial Beer Co.] | Drinking a *I Used To Believe That There Was Nothing In Between* by *Burial Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
 // untappd end

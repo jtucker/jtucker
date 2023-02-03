@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Opaque - MNG - Motueka Nelson Galaxy - Juicy Brewing Co] | Drinking a *Opaque - MNG - Motueka Nelson Galaxy* by *Juicy Brewing Co*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_01_29/78caaad4b9761a99c6c58483d2765014_200x200.jpg[Say No More - Hudson Valley Brewery] | Drinking a *Say No More* by *Hudson Valley Brewery*. It is a *Lager - Dark* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_01_28/81ea580ab45b01f50b209ac9b97cbbee_200x200.jpg[Jawbone - Ocelot Brewing Company] | Drinking a *Jawbone* by *Ocelot Brewing Company*. It is a *Pale Ale - New England / Hazy* style of beer. | I rated it a *4*
-| image:https://assets.untappd.com/photos/2023_01_22/4ff2b07d52caa79d545b2e35522cdb23_200x200.jpg[Big Papi - Commonwealth Brewing Company] | Drinking a *Big Papi* by *Commonwealth Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

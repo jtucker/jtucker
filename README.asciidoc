@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_02_20/512bfd7a4b255a96bf8e5c82cd10a66d_200x200.jpg[Iguana Bait - Florida Keys Brewing Co] | Drinking a *Iguana Bait* by *Florida Keys Brewing Co*. It is a *Kölsch* style of beer. | I rated it a *3.6*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Kaptain Kush - The Tank Brewing Co.] | Drinking a *Kaptain Kush* by *The Tank Brewing Co.*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_02_20/9979d69f3882d8618c5fdfb5176bea70_200x200.jpg[Working Man Porter - Ravenous Pig Brewing Company] | Drinking a *Working Man Porter* by *Ravenous Pig Brewing Company*. It is a *Porter - Baltic* style of beer. | I rated it a *3.6*
-| image:https://assets.untappd.com/photos/2023_02_12/9e1af0c1cd50f418f26bdccf438ff31a_200x200.jpg[Strawbuddy  + Hops - The Buzz Meadery] | Drinking a *Strawbuddy  + Hops* by *The Buzz Meadery*. It is a *Mead - Other* style of beer. | I rated it a *4*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Kuzy 777 - Juicy Brewing Co] | Drinking a *Kuzy 777* by *Juicy Brewing Co*. It is a *Lager - Vienna* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_02_26/7f0eb4c4af9307fad9fdbc626d426bb6_200x200.jpg[Power Moves - Aslin Beer Company] | Drinking a *Power Moves* by *Aslin Beer Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *2.7*
 | image:https://assets.untappd.com/photos/2023_02_26/6db0ca4f38ebfcedb7d4caa8d0da6309_200x200.jpg[Metro Red®  - Port City Brewing] | Drinking a *Metro Red® * by *Port City Brewing*. It is a *IPA - Red* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_02_22/1e4176b457c25ca49ac218c00eaf6e22_200x200.jpg[Stratacumulus Formations - Ology Brewing Co] | Drinking a *Stratacumulus Formations* by *Ology Brewing Co*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

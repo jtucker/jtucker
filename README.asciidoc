@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_03_04/808f4d14d014b21ebb8d219957a82569_200x200.jpg[Cowanbunga IPA - Nighthawk Brewery & Pizza] | Drinking a *Cowanbunga IPA* by *Nighthawk Brewery & Pizza*. It is a *IPA - American* style of beer. | I rated it a *3.6*
-| image:https://assets.untappd.com/photos/2023_03_04/220f4f88558fcceb8fbfebc725ab8498_200x200.jpg[Oppaque - SCC Simcoe Citra Chinook - Juicy Brewing Co] | Drinking a *Oppaque - SCC Simcoe Citra Chinook* by *Juicy Brewing Co*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Kuzy 777 - Juicy Brewing Co] | Drinking a *Kuzy 777* by *Juicy Brewing Co*. It is a *Lager - Vienna* style of beer. | I rated it a *3.5*
+| image:https://assets.untappd.com/photos/2023_03_05/60447ad570aeacbefedbec5c36368c52_200x200.jpg[Neon Rainbows - Brewery Ommegang] | Drinking a *Neon Rainbows* by *Brewery Ommegang*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Märzen / Eiszäpfle - Badische Staatsbrauerei Rothaus] | Drinking a *Märzen / Eiszäpfle* by *Badische Staatsbrauerei Rothaus*. It is a *Märzen* style of beer. | I rated it a *2.8*
+| image:https://assets.untappd.com/photos/2023_03_05/da2acd2559d905edfe03255f146fa0ec_200x200.jpg[Straffe Hendrik Brugs Quadrupel Bier 11° - Brouwerij De Halve Maan] | Drinking a *Straffe Hendrik Brugs Quadrupel Bier 11°* by *Brouwerij De Halve Maan*. It is a *Belgian Quadrupel* style of beer. | I rated it a *3.5*
 // untappd end

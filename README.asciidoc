@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_03_05/60447ad570aeacbefedbec5c36368c52_200x200.jpg[Neon Rainbows - Brewery Ommegang] | Drinking a *Neon Rainbows* by *Brewery Ommegang*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Märzen / Eiszäpfle - Badische Staatsbrauerei Rothaus] | Drinking a *Märzen / Eiszäpfle* by *Badische Staatsbrauerei Rothaus*. It is a *Märzen* style of beer. | I rated it a *2.8*
-| image:https://assets.untappd.com/photos/2023_03_05/da2acd2559d905edfe03255f146fa0ec_200x200.jpg[Straffe Hendrik Brugs Quadrupel Bier 11° - Brouwerij De Halve Maan] | Drinking a *Straffe Hendrik Brugs Quadrupel Bier 11°* by *Brouwerij De Halve Maan*. It is a *Belgian Quadrupel* style of beer. | I rated it a *3.5*
+| image:https://assets.untappd.com/photos/2023_03_12/8ebb8c91582b76d580bd991a8d9eaf98_200x200.jpg[Regular Jesus - DuClaw Brewing Company] | Drinking a *Regular Jesus* by *DuClaw Brewing Company*. It is a *Porter - American* style of beer. | I rated it a *3.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Pink Starfish - Aslin Beer Company] | Drinking a *Pink Starfish* by *Aslin Beer Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
+| image:https://assets.untappd.com/photos/2023_03_12/2ef8ee7350cce81974d5cde4453776c6_200x200.jpg[Duck, Duck, Juice - Zero Gravity Craft Brewery] | Drinking a *Duck, Duck, Juice* by *Zero Gravity Craft Brewery*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

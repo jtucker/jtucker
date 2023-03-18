@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[838 Irish Stout - Dynasty Brewing Company] | Drinking a *838 Irish Stout* by *Dynasty Brewing Company*. It is a *Stout - Irish Dry* style of beer. | I rated it a *2.8*
 | image:https://assets.untappd.com/photos/2023_03_14/fcc20e27484705b5e5189af1bff74e28_200x200.jpg[Give A Crap - DuClaw Brewing Company] | Drinking a *Give A Crap* by *DuClaw Brewing Company*. It is a *Sour - Fruited* style of beer. | I rated it a *3.1*
 | image:https://assets.untappd.com/photos/2023_03_12/5a0bd65c0d3415c3fab46370829e1d71_200x200.jpg[Winter Sol - Tilted Barn Brewery] | Drinking a *Winter Sol* by *Tilted Barn Brewery*. It is a *Porter - American* style of beer. | I rated it a *4*
-| image:https://assets.untappd.com/photos/2023_03_12/8ebb8c91582b76d580bd991a8d9eaf98_200x200.jpg[Regular Jesus - DuClaw Brewing Company] | Drinking a *Regular Jesus* by *DuClaw Brewing Company*. It is a *Porter - American* style of beer. | I rated it a *3.5*
 // untappd end

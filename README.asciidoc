@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_04_01/5754ac606684af4cd770b96cd635d85b_200x200.jpg[Rainbow Sherbet - Prairie Artisan Ales] | Drinking a *Rainbow Sherbet* by *Prairie Artisan Ales*. It is a *Sour - Fruited* style of beer. | I rated it a *3.3*
-| image:https://assets.untappd.com/photos/2023_04_01/fa13eff0d93be59a2c703167292f5f4c_200x200.jpg[Prism: Sultana - Perennial Artisan Ales] | Drinking a *Prism: Sultana* by *Perennial Artisan Ales*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_03_30/05f22d6e6ae2a7833a20dff321782baa_200x200.jpg[Luminous - CSC - Citra Simcoe Chinook - Juicy Brewing Co] | Drinking a *Luminous - CSC - Citra Simcoe Chinook* by *Juicy Brewing Co*. It is a *IPA - American* style of beer. | I rated it a *3.6*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Bat Flip - Torch & Crown Brewing Company] | Drinking a *Bat Flip* by *Torch & Crown Brewing Company*. It is a *Pale Ale - Other* style of beer. | I rated it a *3.2*
+| image:https://assets.untappd.com/photos/2023_04_02/250cffad4bec13d8d20b6ea6be03ed77_200x200.jpg[Backfin - Crooked Crab Brewing Company] | Drinking a *Backfin* by *Crooked Crab Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
+| image:https://assets.untappd.com/photos/2023_04_02/6d6eaa8a64136db4c0841d3152af2a1d_200x200.jpg[First - Landmade Brewing] | Drinking a *First* by *Landmade Brewing*. It is a *Lager - Pale* style of beer. | I rated it a *4*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_04_10/544ba3a576d6a261ec985320ab0fdd7b_200x200.jpg[There Are Always Hops V3: Citra & Vic Secret - Lost Generation Brewing Company] | Drinking a *There Are Always Hops V3: Citra & Vic Secret* by *Lost Generation Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Sump Coffee Stout - Perennial Artisan Ales] | Drinking a *Sump Coffee Stout* by *Perennial Artisan Ales*. It is a *Stout - Imperial / Double Coffee* style of beer. | I rated it a *3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Ruddle Huddle - Fonta Flora Brewery] | Drinking a *Ruddle Huddle* by *Fonta Flora Brewery*. It is a *Belgian Tripel* style of beer. | I rated it a *3.4*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Bat Flip - Torch & Crown Brewing Company] | Drinking a *Bat Flip* by *Torch & Crown Brewing Company*. It is a *Pale Ale - Other* style of beer. | I rated it a *3.2*
-| image:https://assets.untappd.com/photos/2023_04_02/250cffad4bec13d8d20b6ea6be03ed77_200x200.jpg[Backfin - Crooked Crab Brewing Company] | Drinking a *Backfin* by *Crooked Crab Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
 // untappd end

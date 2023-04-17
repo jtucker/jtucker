@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Hop-To-Mist - To Øl] | Drinking a *Hop-To-Mist* by *To Øl*. It is a *Pale Ale - New England / Hazy* style of beer. | I rated it a *3.7*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[San Blas - Lord Chambray] | Drinking a *San Blas* by *Lord Chambray*. It is a *IPA - English* style of beer. | I rated it a *0*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[8.6 I.P.L. - Royal Swinkels Family Brewers] | Drinking a *8.6 I.P.L.* by *Royal Swinkels Family Brewers*. It is a *Lager - IPL (India Pale Lager)* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_04_16/f37d9f9681e8f493f11faa23801c27aa_200x200.jpg[Baby Face - The Huskie Craft Beer Company] | Drinking a *Baby Face* by *The Huskie Craft Beer Company*. It is a *Pale Ale - Other* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_04_15/40cf7e18352a6243f37c8dd50a1628f5_200x200.jpg[Cisk Excel - Simonds Farsons Cisk] | Drinking a *Cisk Excel* by *Simonds Farsons Cisk*. It is a *Lager - American Light* style of beer. | I rated it a *2.5*
 // untappd end

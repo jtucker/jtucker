@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_04_19/1466a0367fe02b2ad28e90fcb9cbe830_200x200.jpg[67 IPA - Lord Chambray] | Drinking a *67 IPA* by *Lord Chambray*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Hop-To-Mist - To Øl] | Drinking a *Hop-To-Mist* by *To Øl*. It is a *Pale Ale - New England / Hazy* style of beer. | I rated it a *3.7*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[San Blas - Lord Chambray] | Drinking a *San Blas* by *Lord Chambray*. It is a *IPA - English* style of beer. | I rated it a *0*
+| image:https://assets.untappd.com/photos/2023_04_20/17a10a1756cb7f8154106a929e5856a0_200x200.jpg[8.6 Original - Royal Swinkels Family Brewers] | Drinking a *8.6 Original* by *Royal Swinkels Family Brewers*. It is a *Lager - Strong* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_04_20/d22d123fab39c65e3e2ed9d509ff77d5_200x200.jpg[Delirium Argentum - Delirium - Huyghe Brewery] | Drinking a *Delirium Argentum* by *Delirium - Huyghe Brewery*. It is a *IPA - Belgian* style of beer. | I rated it a *3.3*
+| image:https://assets.untappd.com/photos/2023_04_20/fe25311782ab12bb12eaf7323736849a_200x200.jpg[El Rafe - Brewski] | Drinking a *El Rafe* by *Brewski*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *0*
 // untappd end

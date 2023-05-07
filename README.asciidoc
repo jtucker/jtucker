@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_04_30/9b69c81d07a2a023d0ce17a32caff38a_200x200.jpg[Hazy Beer Hug - Goose Island Beer Co.] | Drinking a *Hazy Beer Hug* by *Goose Island Beer Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *2.8*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Efes Pilsen - Anadolu Efes] | Drinking a *Efes Pilsen* by *Anadolu Efes*. It is a *Pilsner - Other* style of beer. | I rated it a *2.5*
-| image:https://assets.untappd.com/photos/2023_04_21/55664f86b9eb447025bb975c19658c3e_200x200.jpg[Nostrana - Gjulia] | Drinking a *Nostrana* by *Gjulia*. It is a *Golden Ale - Other* style of beer. | I rated it a *0*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Back To Oblivion - Lost Generation Brewing Company] | Drinking a *Back To Oblivion* by *Lost Generation Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4.5*
+| image:https://assets.untappd.com/photos/2023_05_06/ec69bd288e746392789ad4f3e411b657_200x200.jpg[Alora - Crooked Run Fermentation] | Drinking a *Alora* by *Crooked Run Fermentation*. It is a *Pilsner - Italian* style of beer. | I rated it a *3.4*
+| image:https://assets.untappd.com/photos/2023_05_06/735118ec94409a0d5fe57644d2342427_200x200.jpg[Prim - Crooked Run Fermentation] | Drinking a *Prim* by *Crooked Run Fermentation*. It is a *Lager - American Light* style of beer. | I rated it a *3.6*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_05_08/e8ed8c5ea76cd410be64a8c901208fa4_200x200.jpg[NZ Pilsner - Revelation Craft Brewing Company] | Drinking a *NZ Pilsner* by *Revelation Craft Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Back To Oblivion - Lost Generation Brewing Company] | Drinking a *Back To Oblivion* by *Lost Generation Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4.5*
 | image:https://assets.untappd.com/photos/2023_05_06/ec69bd288e746392789ad4f3e411b657_200x200.jpg[Alora - Crooked Run Fermentation] | Drinking a *Alora* by *Crooked Run Fermentation*. It is a *Pilsner - Italian* style of beer. | I rated it a *3.4*
-| image:https://assets.untappd.com/photos/2023_05_06/735118ec94409a0d5fe57644d2342427_200x200.jpg[Prim - Crooked Run Fermentation] | Drinking a *Prim* by *Crooked Run Fermentation*. It is a *Lager - American Light* style of beer. | I rated it a *3.6*
 // untappd end

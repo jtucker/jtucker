@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Bright Spot - True Respite Brewing Company] | Drinking a *Bright Spot* by *True Respite Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *2.5*
+| image:https://assets.untappd.com/photos/2023_06_04/2e22ab088789ce7a281a77a7b5d8467f_200x200.jpg[Eagle - True Respite Brewing Company] | Drinking a *Eagle* by *True Respite Brewing Company*. It is a *Lager - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_06_03/97664c86b5bb1e642ea96f9258ae89df_200x200.jpg[Brookeville Beer Farm Vienna Lager - Brookeville Beer Farm] | Drinking a *Brookeville Beer Farm Vienna Lager* by *Brookeville Beer Farm*. It is a *Lager - Vienna* style of beer. | I rated it a *2.5*
-| image:https://assets.untappd.com/photos/2023_06_03/cadf9de6119e9ccc1462a95e4ded8e2b_200x200.jpg[Bay Light - Bay Life Brewing] | Drinking a *Bay Light* by *Bay Life Brewing*. It is a *Lager - American Light* style of beer. | I rated it a *2.4*
-| image:https://assets.untappd.com/photos/2023_06_02/50a8dafeaf286cb64a9206a5172364f7_200x200.jpg[Tiny Bomb - Wiseacre Brewing Company] | Drinking a *Tiny Bomb* by *Wiseacre Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3.2*
 // untappd end

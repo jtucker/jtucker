@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_06_11/2b24d7512c1347c8e73ce1ed73964316_200x200.jpg[No. 1 Dry Hopped Kolsch - Settle Down Easy Brewing Co.] | Drinking a *No. 1 Dry Hopped Kolsch* by *Settle Down Easy Brewing Co.*. It is a *Kölsch* style of beer. | I rated it a *3.4*
+| image:https://assets.untappd.com/photos/2023_06_11/adf551d56551157e3cb9f8869aa37d64_200x200.jpg[Gnommegang - Brewery Ommegang] | Drinking a *Gnommegang* by *Brewery Ommegang*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.3*
 | image:https://assets.untappd.com/photos/2023_06_10/2051774a74e6820920f1ea2ac1830d7c_200x200.jpg[Pipsqueak - Nighthawk Brewery & Pizza] | Drinking a *Pipsqueak* by *Nighthawk Brewery & Pizza*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.3*
-| image:https://assets.untappd.com/photos/2023_06_10/c4a053b366576924f251f647ad59b8f9_200x200.jpg[Light Rain - Nighthawk Brewery & Pizza] | Drinking a *Light Rain* by *Nighthawk Brewery & Pizza*. It is a *IPA - Other* style of beer. | I rated it a *3.7*
-| image:https://assets.untappd.com/photos/2023_06_10/7d9b6b8e3bb09a235106417f2d7b80a6_200x200.jpg[Bask - Basic City Beer Co] | Drinking a *Bask* by *Basic City Beer Co*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.3*
 // untappd end

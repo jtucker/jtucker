@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_06_10/2051774a74e6820920f1ea2ac1830d7c_200x200.jpg[Pipsqueak - Nighthawk Brewery & Pizza] | Drinking a *Pipsqueak* by *Nighthawk Brewery & Pizza*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.3*
+| image:https://assets.untappd.com/photos/2023_06_10/c4a053b366576924f251f647ad59b8f9_200x200.jpg[Light Rain - Nighthawk Brewery & Pizza] | Drinking a *Light Rain* by *Nighthawk Brewery & Pizza*. It is a *IPA - Other* style of beer. | I rated it a *3.7*
 | image:https://assets.untappd.com/photos/2023_06_10/7d9b6b8e3bb09a235106417f2d7b80a6_200x200.jpg[Bask - Basic City Beer Co] | Drinking a *Bask* by *Basic City Beer Co*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.3*
-| image:https://assets.untappd.com/photos/2023_06_06/5f490de48e0a40d07f668e4af8efcd0a_200x200.jpg[Woodlet - Wheatland Spring Farm + Brewery] | Drinking a *Woodlet* by *Wheatland Spring Farm + Brewery*. It is a *Pale Ale - Other* style of beer. | I rated it a *3*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Bright Spot - True Respite Brewing Company] | Drinking a *Bright Spot* by *True Respite Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *2.5*
 // untappd end

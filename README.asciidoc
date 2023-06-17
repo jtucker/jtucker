@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_06_16/9f6396b84b02be341eaaf1426af1ee7b_200x200.jpg[Regulatory Diversification - Settle Down Easy Brewing Co.] | Drinking a *Regulatory Diversification* by *Settle Down Easy Brewing Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_06_13/d47243e854cec14adc288d1eecb4c2ef_200x200.jpg[Fallfax Beer - Settle Down Easy Brewing Co.] | Drinking a *Fallfax Beer* by *Settle Down Easy Brewing Co.*. It is a *Lager - American Light* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_06_11/2b24d7512c1347c8e73ce1ed73964316_200x200.jpg[No. 1 Dry Hopped Kolsch - Settle Down Easy Brewing Co.] | Drinking a *No. 1 Dry Hopped Kolsch* by *Settle Down Easy Brewing Co.*. It is a *Kölsch* style of beer. | I rated it a *3.4*
-| image:https://assets.untappd.com/photos/2023_06_11/adf551d56551157e3cb9f8869aa37d64_200x200.jpg[Gnommegang - Brewery Ommegang] | Drinking a *Gnommegang* by *Brewery Ommegang*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.3*
 // untappd end

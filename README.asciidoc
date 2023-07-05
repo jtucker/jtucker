@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_07_04/59f7f1184ba90a4af52de334a15a9d1e_200x200.jpg[4th of July Kittens - Fat Orange Cat Brew Co.] | Drinking a *4th of July Kittens* by *Fat Orange Cat Brew Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.9*
 | image:https://assets.untappd.com/photos/2023_07_04/61ac36ab95d78e7f3a363b390278e3f0_200x200.jpg[Apocalyptic Dreams - Lost Generation Brewing Company] | Drinking a *Apocalyptic Dreams* by *Lost Generation Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
 | image:https://assets.untappd.com/photos/2023_07_04/7a910498d5df13f21b6e17fe754ec93d_200x200.jpg[Vida - Lost Generation Brewing Company] | Drinking a *Vida* by *Lost Generation Brewing Company*. It is a *Lager - Mexican* style of beer. | I rated it a *3.7*
-| image:https://assets.untappd.com/photos/2023_07_03/16ae980fb8de86338ee3d5d4ef8dc6b2_200x200.jpg[Dawn - Wheatland Spring Farm + Brewery] | Drinking a *Dawn* by *Wheatland Spring Farm + Brewery*. It is a *IPA - American* style of beer. | I rated it a *3.7*
 // untappd end

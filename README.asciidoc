@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_07_18/46f6463e585d301fc3e27df644f9b733_200x200.jpg[Flip the Cassette - Burnish Beer Co.] | Drinking a *Flip the Cassette* by *Burnish Beer Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
 | image:https://assets.untappd.com/photos/2023_07_16/e06e7303a97b5734e9350ab1217ba20c_200x200.jpg[Secret Machine - Suntan Lotion - Dewey Beer Company] | Drinking a *Secret Machine - Suntan Lotion* by *Dewey Beer Company*. It is a *Fruit Beer* style of beer. | I rated it a *4*
 | image:https://assets.untappd.com/photos/2023_07_04/59f7f1184ba90a4af52de334a15a9d1e_200x200.jpg[4th of July Kittens - Fat Orange Cat Brew Co.] | Drinking a *4th of July Kittens* by *Fat Orange Cat Brew Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.9*
-| image:https://assets.untappd.com/photos/2023_07_04/61ac36ab95d78e7f3a363b390278e3f0_200x200.jpg[Apocalyptic Dreams - Lost Generation Brewing Company] | Drinking a *Apocalyptic Dreams* by *Lost Generation Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
 // untappd end

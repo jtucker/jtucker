@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_07_20/6a9a73c86d797acaa0a3786777d1b194_200x200.jpg[Wax On Wax Off - Revelation Craft Brewing Company] | Drinking a *Wax On Wax Off* by *Revelation Craft Brewing Company*. It is a *Lager - Japanese Rice* style of beer. | I rated it a *3.6*
 | image:https://assets.untappd.com/photos/2023_07_18/46f6463e585d301fc3e27df644f9b733_200x200.jpg[Flip the Cassette - Burnish Beer Co.] | Drinking a *Flip the Cassette* by *Burnish Beer Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
 | image:https://assets.untappd.com/photos/2023_07_16/e06e7303a97b5734e9350ab1217ba20c_200x200.jpg[Secret Machine - Suntan Lotion - Dewey Beer Company] | Drinking a *Secret Machine - Suntan Lotion* by *Dewey Beer Company*. It is a *Fruit Beer* style of beer. | I rated it a *4*
-| image:https://assets.untappd.com/photos/2023_07_04/59f7f1184ba90a4af52de334a15a9d1e_200x200.jpg[4th of July Kittens - Fat Orange Cat Brew Co.] | Drinking a *4th of July Kittens* by *Fat Orange Cat Brew Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.9*
 // untappd end

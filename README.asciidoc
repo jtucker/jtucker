@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_07_29/b9de2c7345f4a8dc818deba940dd7981_200x200.jpg[Path - Landmade Brewing] | Drinking a *Path* by *Landmade Brewing*. It is a *IPA - Farmhouse* style of beer. | I rated it a *3.7*
+| image:https://assets.untappd.com/photos/2023_07_29/f099c09b68f505ae0cb9e32232ecb092_200x200.jpg[Wander With Peaches - Landmade Brewing] | Drinking a *Wander With Peaches* by *Landmade Brewing*. It is a *Farmhouse Ale - Other* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_07_24/f6171f090232bcecb055ef7d03a6bd80_200x200.jpg[Mosaic Archives - Elder Pine Brewing & Blending] | Drinking a *Mosaic Archives* by *Elder Pine Brewing & Blending*. It is a *IPA - American* style of beer. | I rated it a *4*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Roots Helles Lager - GF - Revelation Craft Brewing Company] | Drinking a *Roots Helles Lager - GF* by *Revelation Craft Brewing Company*. It is a *Gluten-Free* style of beer. | I rated it a *3*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Wax On Wax Off - Revelation Craft Brewing Company] | Drinking a *Wax On Wax Off* by *Revelation Craft Brewing Company*. It is a *Lager - Japanese Rice* style of beer. | I rated it a *3*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_07_30/9a617ae667d812ebadfb191282b91ba4_200x200.jpg[86 Bad Vibes - Dewey Beer Company] | Drinking a *86 Bad Vibes* by *Dewey Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_07_29/b9de2c7345f4a8dc818deba940dd7981_200x200.jpg[Path - Landmade Brewing] | Drinking a *Path* by *Landmade Brewing*. It is a *IPA - Farmhouse* style of beer. | I rated it a *3.7*
 | image:https://assets.untappd.com/photos/2023_07_29/f099c09b68f505ae0cb9e32232ecb092_200x200.jpg[Wander With Peaches - Landmade Brewing] | Drinking a *Wander With Peaches* by *Landmade Brewing*. It is a *Farmhouse Ale - Other* style of beer. | I rated it a *3.5*
-| image:https://assets.untappd.com/photos/2023_07_24/f6171f090232bcecb055ef7d03a6bd80_200x200.jpg[Mosaic Archives - Elder Pine Brewing & Blending] | Drinking a *Mosaic Archives* by *Elder Pine Brewing & Blending*. It is a *IPA - American* style of beer. | I rated it a *4*
 // untappd end

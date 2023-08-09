@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Glade - Crooked Run Fermentation] | Drinking a *Glade* by *Crooked Run Fermentation*. It is a *Pilsner - German* style of beer. | I rated it a *3.3*
 | image:https://assets.untappd.com/photos/2023_08_05/53de7091e9dff1d548f126394a9c2aa7_200x200.jpg[In Awe Of: Blueberry Pomegranate - Elder Pine Brewing & Blending] | Drinking a *In Awe Of: Blueberry Pomegranate* by *Elder Pine Brewing & Blending*. It is a *Sour - Fruited* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_07_30/570ef5f14349094d71ba488f806f479a_200x200.jpg[Aguas De Março - Dewey Beer Company] | Drinking a *Aguas De Março* by *Dewey Beer Company*. It is a *Lager - American* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_07_30/9a617ae667d812ebadfb191282b91ba4_200x200.jpg[86 Bad Vibes - Dewey Beer Company] | Drinking a *86 Bad Vibes* by *Dewey Beer Company*. It is a *IPA - American* style of beer. | I rated it a *3.5*
 // untappd end

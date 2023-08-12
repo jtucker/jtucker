@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_08_12/69e622e8dacb84267209d8f32f711256_200x200.jpg[Vienna Amber - Dewey Beer Company] | Drinking a *Vienna Amber* by *Dewey Beer Company*. It is a *Lager - Vienna* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_08_11/dd670919a9b2bb098186bbdd0ef83a0e_200x200.jpg[Pipsqueak - Nighthawk Brewery & Pizza] | Drinking a *Pipsqueak* by *Nighthawk Brewery & Pizza*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.3*
 | image:https://assets.untappd.com/photos/2023_08_11/5f2932f3f81e9d76d32125d238827cd0_200x200.jpg[Small Talks - Nighthawk Brewery & Pizza] | Drinking a *Small Talks* by *Nighthawk Brewery & Pizza*. It is a *Pilsner - Czech / Bohemian* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Glade - Crooked Run Fermentation] | Drinking a *Glade* by *Crooked Run Fermentation*. It is a *Pilsner - German* style of beer. | I rated it a *3.3*
 // untappd end

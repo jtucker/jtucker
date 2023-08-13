@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_08_13/693ed2f2275e87d0b7c5a91e4d9a0829_200x200.jpg[That New New - Solace Brewing Company] | Drinking a *That New New* by *Solace Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_08_13/a3de613b7a3b94e3fecf270794bc9e14_200x200.jpg[Passion Fruit Reflections - Elder Pine Brewing & Blending] | Drinking a *Passion Fruit Reflections* by *Elder Pine Brewing & Blending*. It is a *Wheat Beer - Witbier / Blanche* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_08_12/96701e09af73a1972f175a063931acdc_200x200.jpg[Get Bent Mountain IPA - Parkway Brewing Company] | Drinking a *Get Bent Mountain IPA* by *Parkway Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *2.8*
-| image:https://assets.untappd.com/photos/2023_08_12/69e622e8dacb84267209d8f32f711256_200x200.jpg[Vienna Amber - Dewey Beer Company] | Drinking a *Vienna Amber* by *Dewey Beer Company*. It is a *Lager - Vienna* style of beer. | I rated it a *3*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_08_20/6af76379853a813de07c6585d0182ae5_200x200.jpg[Immersion (Ghost: IMMERSION) - Adroit Theory] | Drinking a *Immersion (Ghost: IMMERSION)* by *Adroit Theory*. It is a *Pilsner - Czech / Bohemian* style of beer. | I rated it a *3.3*
-| image:https://assets.untappd.com/photos/2023_08_19/6d237539fed7fb47e987150b1738788f_200x200.jpg[No Such Thing - Nighthawk Brewery & Pizza] | Drinking a *No Such Thing* by *Nighthawk Brewery & Pizza*. It is a *Lager - Japanese Rice* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_08_19/1c6ddbd9f66606c741999d0e45800fc7_200x200.jpg[Grown Up Blue - Nighthawk Brewery & Pizza] | Drinking a *Grown Up Blue* by *Nighthawk Brewery & Pizza*. It is a *Bock - Single / Traditional* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_08_26/1eed627221e37ad9bb48beb87357185e_200x200.jpg[Skyline Falls - Brothers Craft Brewing] | Drinking a *Skyline Falls* by *Brothers Craft Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *0*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Triple Oat Cream IPA - Adroit Theory] | Drinking a *Triple Oat Cream IPA* by *Adroit Theory*. It is a *IPA - Triple* style of beer. | I rated it a *3.3*
+| image:https://assets.untappd.com/photos/2023_08_26/cfe707551bdfc5b60cec230de538559d_200x200.jpg[Classic Rock (Ghost CLASSIC ROCK) - Adroit Theory] | Drinking a *Classic Rock (Ghost CLASSIC ROCK)* by *Adroit Theory*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

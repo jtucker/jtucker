@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_08_27/001519c79b2ce6fdd8c9b54320356a53_200x200.jpg[Forever Ever - Other Half Brewing Co.] | Drinking a *Forever Ever* by *Other Half Brewing Co.*. It is a *IPA - Session* style of beer. | I rated it a *4.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Frozen In Place - Other Half Brewing Co.] | Drinking a *Frozen In Place* by *Other Half Brewing Co.*. It is a *Bitter - Extra Special / Strong (ESB)* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_08_26/1eed627221e37ad9bb48beb87357185e_200x200.jpg[Skyline Falls - Brothers Craft Brewing] | Drinking a *Skyline Falls* by *Brothers Craft Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *0*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Triple Oat Cream IPA - Adroit Theory] | Drinking a *Triple Oat Cream IPA* by *Adroit Theory*. It is a *IPA - Triple* style of beer. | I rated it a *3.3*
-| image:https://assets.untappd.com/photos/2023_08_26/cfe707551bdfc5b60cec230de538559d_200x200.jpg[Classic Rock (Ghost CLASSIC ROCK) - Adroit Theory] | Drinking a *Classic Rock (Ghost CLASSIC ROCK)* by *Adroit Theory*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

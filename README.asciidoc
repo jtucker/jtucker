@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_09_01/cb51b7b314fd9d0f9a39933dfd8d0e62_200x200.jpg[Spiritual Nurse - Pen Druid Brewing] | Drinking a *Spiritual Nurse* by *Pen Druid Brewing*. It is a *Red Ale - American Amber / Red* style of beer. | I rated it a *4.3*
 | image:https://assets.untappd.com/photos/2023_08_27/7d5d7909247ff36b523d047e69948717_200x200.jpg[Folly To the World - Lost Generation Brewing Company] | Drinking a *Folly To the World* by *Lost Generation Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.6*
 | image:https://assets.untappd.com/photos/2023_08_27/001519c79b2ce6fdd8c9b54320356a53_200x200.jpg[Forever Ever - Other Half Brewing Co.] | Drinking a *Forever Ever* by *Other Half Brewing Co.*. It is a *IPA - Session* style of beer. | I rated it a *4.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Frozen In Place - Other Half Brewing Co.] | Drinking a *Frozen In Place* by *Other Half Brewing Co.*. It is a *Bitter - Extra Special / Strong (ESB)* style of beer. | I rated it a *3*
 // untappd end

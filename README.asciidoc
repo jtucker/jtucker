@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_09_04/b2a3803d7bdfbca05b6284b1ffcac97a_200x200.jpg[Hi-Pitch Mosaic IPA - Hi-Wire Brewing] | Drinking a *Hi-Pitch Mosaic IPA* by *Hi-Wire Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.2*
+| image:https://assets.untappd.com/photos/2023_09_04/a77e2f965357f6b627777398246cfacd_200x200.jpg[Zenit 11° Czech Lager - Dutchess Ales] | Drinking a *Zenit 11° Czech Lager* by *Dutchess Ales*. It is a *Lager - Pale* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_09_01/cb51b7b314fd9d0f9a39933dfd8d0e62_200x200.jpg[Spiritual Nurse - Pen Druid Brewing] | Drinking a *Spiritual Nurse* by *Pen Druid Brewing*. It is a *Red Ale - American Amber / Red* style of beer. | I rated it a *4.3*
-| image:https://assets.untappd.com/photos/2023_08_27/7d5d7909247ff36b523d047e69948717_200x200.jpg[Folly To the World - Lost Generation Brewing Company] | Drinking a *Folly To the World* by *Lost Generation Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.6*
-| image:https://assets.untappd.com/photos/2023_08_27/001519c79b2ce6fdd8c9b54320356a53_200x200.jpg[Forever Ever - Other Half Brewing Co.] | Drinking a *Forever Ever* by *Other Half Brewing Co.*. It is a *IPA - Session* style of beer. | I rated it a *4.5*
 // untappd end

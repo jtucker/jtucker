@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_09_05/0a81d45cca0e8c18fdc83e6548aa39bb_200x200.jpg[Roxie - Beer Farm] | Drinking a *Roxie* by *Beer Farm*. It is a *IPA - Session* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_09_04/b2a3803d7bdfbca05b6284b1ffcac97a_200x200.jpg[Hi-Pitch Mosaic IPA - Hi-Wire Brewing] | Drinking a *Hi-Pitch Mosaic IPA* by *Hi-Wire Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.2*
 | image:https://assets.untappd.com/photos/2023_09_04/a77e2f965357f6b627777398246cfacd_200x200.jpg[Zenit 11° Czech Lager - Dutchess Ales] | Drinking a *Zenit 11° Czech Lager* by *Dutchess Ales*. It is a *Lager - Pale* style of beer. | I rated it a *3.5*
-| image:https://assets.untappd.com/photos/2023_09_01/cb51b7b314fd9d0f9a39933dfd8d0e62_200x200.jpg[Spiritual Nurse - Pen Druid Brewing] | Drinking a *Spiritual Nurse* by *Pen Druid Brewing*. It is a *Red Ale - American Amber / Red* style of beer. | I rated it a *4.3*
 // untappd end

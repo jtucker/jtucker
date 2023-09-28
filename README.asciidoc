@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_09_27/4cb9ec8fe19e2ac24581d3c7faa6739b_200x200.jpg[Royal Crush Juicy IPA - Flying Dog Brewery] | Drinking a *Royal Crush Juicy IPA* by *Flying Dog Brewery*. It is a *IPA - Other* style of beer. | I rated it a *3.3*
 | image:https://assets.untappd.com/photos/2023_09_24/de8d2831bcd9bffeb2d2662fc1ef961e_200x200.jpg[Bugsy - Landmade Brewing] | Drinking a *Bugsy* by *Landmade Brewing*. It is a *Festbier* style of beer. | I rated it a *4*
 | image:https://assets.untappd.com/photos/2023_09_24/da64c82424720470ab99fecb7dd07bf7_200x200.jpg[The Devil's Staircase - Widowmaker Brewing] | Drinking a *The Devil's Staircase* by *Widowmaker Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.6*
-| image:https://assets.untappd.com/photos/2023_09_23/2b88b6272455a38eec032a4f8248b770_200x200.jpg[Summer ‘23 - Landmade Brewing] | Drinking a *Summer ‘23* by *Landmade Brewing*. It is a *Farmhouse Ale - Other* style of beer. | I rated it a *3.7*
 // untappd end

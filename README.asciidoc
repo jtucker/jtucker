@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_09_30/e44b14bae40ac240787ecbacd3e483d3_200x200.jpg[Harvest Ale 2023: Citra - Burnish Beer Co.] | Drinking a *Harvest Ale 2023: Citra* by *Burnish Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_09_27/4cb9ec8fe19e2ac24581d3c7faa6739b_200x200.jpg[Royal Crush Juicy IPA - Flying Dog Brewery] | Drinking a *Royal Crush Juicy IPA* by *Flying Dog Brewery*. It is a *IPA - Other* style of beer. | I rated it a *3.3*
 | image:https://assets.untappd.com/photos/2023_09_24/de8d2831bcd9bffeb2d2662fc1ef961e_200x200.jpg[Bugsy - Landmade Brewing] | Drinking a *Bugsy* by *Landmade Brewing*. It is a *Festbier* style of beer. | I rated it a *4*
-| image:https://assets.untappd.com/photos/2023_09_24/da64c82424720470ab99fecb7dd07bf7_200x200.jpg[The Devil's Staircase - Widowmaker Brewing] | Drinking a *The Devil's Staircase* by *Widowmaker Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.6*
 // untappd end

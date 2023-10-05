@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_09_30/e44b14bae40ac240787ecbacd3e483d3_200x200.jpg[Harvest Ale 2023: Citra - Burnish Beer Co.] | Drinking a *Harvest Ale 2023: Citra* by *Burnish Beer Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_09_27/4cb9ec8fe19e2ac24581d3c7faa6739b_200x200.jpg[Royal Crush Juicy IPA - Flying Dog Brewery] | Drinking a *Royal Crush Juicy IPA* by *Flying Dog Brewery*. It is a *IPA - Other* style of beer. | I rated it a *3.3*
-| image:https://assets.untappd.com/photos/2023_09_24/de8d2831bcd9bffeb2d2662fc1ef961e_200x200.jpg[Bugsy - Landmade Brewing] | Drinking a *Bugsy* by *Landmade Brewing*. It is a *Festbier* style of beer. | I rated it a *4*
+| image:https://assets.untappd.com/photos/2023_10_05/7e1ae4c04cf33513dc2f9457c3d9d882_200x200.jpg[Cuvée des Trolls - Brasserie Dubuisson] | Drinking a *Cuvée des Trolls* by *Brasserie Dubuisson*. It is a *Belgian Blonde* style of beer. | I rated it a *3.5*
+| image:https://assets.untappd.com/photos/2023_10_05/d603df11529a0adec8cf43d9cce99f5e_200x200.jpg[Bush Prestige - Brasserie Dubuisson] | Drinking a *Bush Prestige* by *Brasserie Dubuisson*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.5*
+| image:https://assets.untappd.com/photos/2023_10_05/9647739fc2f1063be035a77282f0395d_200x200.jpg[Pêche Mel Bush - Brasserie Dubuisson] | Drinking a *Pêche Mel Bush* by *Brasserie Dubuisson*. It is a *Fruit Beer* style of beer. | I rated it a *3*
 // untappd end

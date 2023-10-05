@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Jack's Precious IPA - Brouwerij The Musketeers] | Drinking a *Jack's Precious IPA* by *Brouwerij The Musketeers*. It is a *IPA - Belgian* style of beer. | I rated it a *2.8*
+| image:https://assets.untappd.com/photos/2023_10_05/95525a803e8105b75fabebe5a653e0bf_200x200.jpg[Gueuze Lambic - Brouwerij Mort Subite] | Drinking a *Gueuze Lambic* by *Brouwerij Mort Subite*. It is a *Lambic - Gueuze* style of beer. | I rated it a *2*
 | image:https://assets.untappd.com/photos/2023_10_05/7e1ae4c04cf33513dc2f9457c3d9d882_200x200.jpg[Cuvée des Trolls - Brasserie Dubuisson] | Drinking a *Cuvée des Trolls* by *Brasserie Dubuisson*. It is a *Belgian Blonde* style of beer. | I rated it a *3.5*
-| image:https://assets.untappd.com/photos/2023_10_05/d603df11529a0adec8cf43d9cce99f5e_200x200.jpg[Bush Prestige - Brasserie Dubuisson] | Drinking a *Bush Prestige* by *Brasserie Dubuisson*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.5*
-| image:https://assets.untappd.com/photos/2023_10_05/9647739fc2f1063be035a77282f0395d_200x200.jpg[Pêche Mel Bush - Brasserie Dubuisson] | Drinking a *Pêche Mel Bush* by *Brasserie Dubuisson*. It is a *Fruit Beer* style of beer. | I rated it a *3*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Jack's Precious IPA - Brouwerij The Musketeers] | Drinking a *Jack's Precious IPA* by *Brouwerij The Musketeers*. It is a *IPA - Belgian* style of beer. | I rated it a *2.8*
+| image:https://assets.untappd.com/photos/2023_10_05/4c30859ee09ab216d1eccdbfd0a72413_200x200.jpg[Jack's Precious IPA - Brouwerij The Musketeers] | Drinking a *Jack's Precious IPA* by *Brouwerij The Musketeers*. It is a *IPA - Belgian* style of beer. | I rated it a *2.8*
 | image:https://assets.untappd.com/photos/2023_10_05/95525a803e8105b75fabebe5a653e0bf_200x200.jpg[Gueuze Lambic - Brouwerij Mort Subite] | Drinking a *Gueuze Lambic* by *Brouwerij Mort Subite*. It is a *Lambic - Gueuze* style of beer. | I rated it a *2*
 | image:https://assets.untappd.com/photos/2023_10_05/7e1ae4c04cf33513dc2f9457c3d9d882_200x200.jpg[Cuvée des Trolls - Brasserie Dubuisson] | Drinking a *Cuvée des Trolls* by *Brasserie Dubuisson*. It is a *Belgian Blonde* style of beer. | I rated it a *3.5*
 // untappd end

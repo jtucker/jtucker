@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_10_05/4c30859ee09ab216d1eccdbfd0a72413_200x200.jpg[Jack's Precious IPA - Brouwerij The Musketeers] | Drinking a *Jack's Precious IPA* by *Brouwerij The Musketeers*. It is a *IPA - Belgian* style of beer. | I rated it a *2.8*
-| image:https://assets.untappd.com/photos/2023_10_05/95525a803e8105b75fabebe5a653e0bf_200x200.jpg[Gueuze Lambic - Brouwerij Mort Subite] | Drinking a *Gueuze Lambic* by *Brouwerij Mort Subite*. It is a *Lambic - Gueuze* style of beer. | I rated it a *2*
-| image:https://assets.untappd.com/photos/2023_10_05/7e1ae4c04cf33513dc2f9457c3d9d882_200x200.jpg[Cuvée des Trolls - Brasserie Dubuisson] | Drinking a *Cuvée des Trolls* by *Brasserie Dubuisson*. It is a *Belgian Blonde* style of beer. | I rated it a *3.5*
+| image:https://assets.untappd.com/photos/2023_10_06/2270702508c08cda4eff101624522c1f_200x200.jpg[Oud Bruin - Brouwerij Liefmans] | Drinking a *Oud Bruin* by *Brouwerij Liefmans*. It is a *Sour - Flanders Oud Bruin* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_10_06/b84cd7413312e1a0cbc2ea08dd7d40e5_200x200.jpg[Kriek Brut - Brouwerij Liefmans] | Drinking a *Kriek Brut* by *Brouwerij Liefmans*. It is a *Fruit Beer* style of beer. | I rated it a *3.2*
+| image:https://assets.untappd.com/photos/2023_10_06/1cdc1be269e0add20e2dc278ef62534b_200x200.jpg[Goudenband - Brouwerij Liefmans] | Drinking a *Goudenband* by *Brouwerij Liefmans*. It is a *Sour - Flanders Oud Bruin* style of beer. | I rated it a *3*
 // untappd end

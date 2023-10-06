@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_10_06/2270702508c08cda4eff101624522c1f_200x200.jpg[Oud Bruin - Brouwerij Liefmans] | Drinking a *Oud Bruin* by *Brouwerij Liefmans*. It is a *Sour - Flanders Oud Bruin* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_06/b84cd7413312e1a0cbc2ea08dd7d40e5_200x200.jpg[Kriek Brut - Brouwerij Liefmans] | Drinking a *Kriek Brut* by *Brouwerij Liefmans*. It is a *Fruit Beer* style of beer. | I rated it a *3.2*
-| image:https://assets.untappd.com/photos/2023_10_06/1cdc1be269e0add20e2dc278ef62534b_200x200.jpg[Goudenband - Brouwerij Liefmans] | Drinking a *Goudenband* by *Brouwerij Liefmans*. It is a *Sour - Flanders Oud Bruin* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_10_06/5b739b7f8847452d4e2f5eeb70032cb8_200x200.jpg[FIVE - Brasserie St-Feuillien] | Drinking a *FIVE* by *Brasserie St-Feuillien*. It is a *Belgian Blonde* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_10_06/997e251812f5d3a8da3869e62a7b8626_200x200.jpg[Saison - Brasserie St-Feuillien] | Drinking a *Saison* by *Brasserie St-Feuillien*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_10_06/58f6d0b20e9e9550147e19a488fcd649_200x200.jpg[Grand Cru - Brasserie St-Feuillien] | Drinking a *Grand Cru* by *Brasserie St-Feuillien*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.6*
 // untappd end

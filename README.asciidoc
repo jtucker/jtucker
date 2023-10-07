@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_10_07/0692dca11a4f71bf8881fdb8f9dfce6c_200x200.jpg[St-Feuillien Blonde - Brasserie St-Feuillien] | Drinking a *St-Feuillien Blonde* by *Brasserie St-Feuillien*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.6*
+| image:https://assets.untappd.com/photos/2023_10_07/ae0ae7edfbe9e3b00597fe33f540f2d8_200x200.jpg[Cuvée de Noël - Brasserie St-Feuillien] | Drinking a *Cuvée de Noël* by *Brasserie St-Feuillien*. It is a *Winter Ale* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_10_06/5b739b7f8847452d4e2f5eeb70032cb8_200x200.jpg[FIVE - Brasserie St-Feuillien] | Drinking a *FIVE* by *Brasserie St-Feuillien*. It is a *Belgian Blonde* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_06/997e251812f5d3a8da3869e62a7b8626_200x200.jpg[Saison - Brasserie St-Feuillien] | Drinking a *Saison* by *Brasserie St-Feuillien*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_06/58f6d0b20e9e9550147e19a488fcd649_200x200.jpg[Grand Cru - Brasserie St-Feuillien] | Drinking a *Grand Cru* by *Brasserie St-Feuillien*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.6*
 // untappd end

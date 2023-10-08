@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_10_08/cae4c3dc3aa8c2faac7a2602e02581d0_200x200.jpg[Kriek Boon - Brouwerij Boon] | Drinking a *Kriek Boon* by *Brouwerij Boon*. It is a *Lambic - Kriek* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_10_08/8bc7770dbc4113162b78d52f83fa982b_200x200.jpg[Rhubarbe Tilquin – Draft Version - Gueuzerie Tilquin] | Drinking a *Rhubarbe Tilquin – Draft Version* by *Gueuzerie Tilquin*. It is a *Lambic - Fruit* style of beer. | I rated it a *2.4*
 | image:https://assets.untappd.com/photos/2023_10_08/adea5265ccd8e2afdd24f190a2580da9_200x200.jpg[Brugs Tarwebier / Blanche de Bruges - Brouwerij De Halve Maan] | Drinking a *Brugs Tarwebier / Blanche de Bruges* by *Brouwerij De Halve Maan*. It is a *Wheat Beer - Witbier / Blanche* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_08/4e86217c20e164b5b6bf0b90404ad433_200x200.jpg[Brugse Zot - Brouwerij De Halve Maan] | Drinking a *Brugse Zot* by *Brouwerij De Halve Maan*. It is a *Belgian Blonde* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_08/6b09be4eb84e2ee843a9b291a790b556_200x200.jpg[Bourgogne des Flandres Brune / Bruin - Brewery John Martin & Brewery Timmermans] | Drinking a *Bourgogne des Flandres Brune / Bruin* by *Brewery John Martin & Brewery Timmermans*. It is a *Sour - Flanders Red Ale* style of beer. | I rated it a *3*
 // untappd end

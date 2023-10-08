@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_10_07/cfbfd0ad3865cd4aa6a73458a2b41d77_200x200.jpg[Paranoia - Delirium - Huyghe Brewery] | Drinking a *Paranoia* by *Delirium - Huyghe Brewery*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4.1*
-| image:https://assets.untappd.com/photos/2023_10_07/7ebac5e3aa04271a008c9c8517355b6d_200x200.jpg[Vedett Extra Ordinary IPA - Duvel Moortgat] | Drinking a *Vedett Extra Ordinary IPA* by *Duvel Moortgat*. It is a *IPA - Belgian* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_07/0692dca11a4f71bf8881fdb8f9dfce6c_200x200.jpg[St-Feuillien Blonde - Brasserie St-Feuillien] | Drinking a *St-Feuillien Blonde* by *Brasserie St-Feuillien*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.6*
+| image:https://assets.untappd.com/photos/2023_10_08/adea5265ccd8e2afdd24f190a2580da9_200x200.jpg[Brugs Tarwebier / Blanche de Bruges - Brouwerij De Halve Maan] | Drinking a *Brugs Tarwebier / Blanche de Bruges* by *Brouwerij De Halve Maan*. It is a *Wheat Beer - Witbier / Blanche* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_10_08/4e86217c20e164b5b6bf0b90404ad433_200x200.jpg[Brugse Zot - Brouwerij De Halve Maan] | Drinking a *Brugse Zot* by *Brouwerij De Halve Maan*. It is a *Belgian Blonde* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_10_08/6b09be4eb84e2ee843a9b291a790b556_200x200.jpg[Bourgogne des Flandres Brune / Bruin - Brewery John Martin & Brewery Timmermans] | Drinking a *Bourgogne des Flandres Brune / Bruin* by *Brewery John Martin & Brewery Timmermans*. It is a *Sour - Flanders Red Ale* style of beer. | I rated it a *3*
 // untappd end

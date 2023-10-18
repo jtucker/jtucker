@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_10_18/cf20c2c7007288708b05a512ddab95cd_200x200.jpg[Citra Single Hop IPA - Seapine Brewing Company] | Drinking a *Citra Single Hop IPA* by *Seapine Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_10_09/7b387f1399e9af34aa8a2c66d5230419_200x200.jpg[Fourchette - Brouwerij Van Steenberge] | Drinking a *Fourchette* by *Brouwerij Van Steenberge*. It is a *Belgian Tripel* style of beer. | I rated it a *4*
 | image:https://assets.untappd.com/photos/2023_10_09/c8d1a225ea05e5ef2885deb3bd72f9c9_200x200.jpg[Rodenbach Evolved Grand Cru Aged 10 Years - Brouwerij Rodenbach] | Drinking a *Rodenbach Evolved Grand Cru Aged 10 Years* by *Brouwerij Rodenbach*. It is a *Sour - Flanders Red Ale* style of beer. | I rated it a *4*
-| image:https://assets.untappd.com/photos/2023_10_09/d1eea53cb4d58982e1bab40041477e14_200x200.jpg[Alexander - Brouwerij Rodenbach] | Drinking a *Alexander* by *Brouwerij Rodenbach*. It is a *Sour - Flanders Red Ale* style of beer. | I rated it a *4*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_10_22/09d12a693abef61c6d532dd953cf0a43_200x200.jpg[Citra Slicker Wet Hop IPA (2023) - Bale Breaker Brewing Company] | Drinking a *Citra Slicker Wet Hop IPA (2023)* by *Bale Breaker Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3.5*
-| image:https://assets.untappd.com/photos/2023_10_18/cf20c2c7007288708b05a512ddab95cd_200x200.jpg[Citra Single Hop IPA - Seapine Brewing Company] | Drinking a *Citra Single Hop IPA* by *Seapine Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_09/7b387f1399e9af34aa8a2c66d5230419_200x200.jpg[Fourchette - Brouwerij Van Steenberge] | Drinking a *Fourchette* by *Brouwerij Van Steenberge*. It is a *Belgian Tripel* style of beer. | I rated it a *4*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Marzen Skies Festbier - Bale Breaker Brewing Company] | Drinking a *Marzen Skies Festbier* by *Bale Breaker Brewing Company*. It is a *Festbier* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_10_23/2942b7119b255a1f955ed749ff5f2500_200x200.jpg[Topcutter IPA - Bale Breaker Brewing Company] | Drinking a *Topcutter IPA* by *Bale Breaker Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *2.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Czech Pils - Stoup Brewing] | Drinking a *Czech Pils* by *Stoup Brewing*. It is a *Pilsner - Czech / Bohemian* style of beer. | I rated it a *3.5*
 // untappd end

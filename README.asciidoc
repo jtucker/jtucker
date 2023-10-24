@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_10_24/20f42969a174440199c78f883fd9373a_200x200.jpg[Mosaic Pale Ale - Stoup Brewing] | Drinking a *Mosaic Pale Ale* by *Stoup Brewing*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Yakima Caviar - Cloudburst Brewing] | Drinking a *Yakima Caviar* by *Cloudburst Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.5*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Marzen Skies Festbier - Bale Breaker Brewing Company] | Drinking a *Marzen Skies Festbier* by *Bale Breaker Brewing Company*. It is a *Festbier* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_23/2942b7119b255a1f955ed749ff5f2500_200x200.jpg[Topcutter IPA - Bale Breaker Brewing Company] | Drinking a *Topcutter IPA* by *Bale Breaker Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *2.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Czech Pils - Stoup Brewing] | Drinking a *Czech Pils* by *Stoup Brewing*. It is a *Pilsner - Czech / Bohemian* style of beer. | I rated it a *3.5*
 // untappd end

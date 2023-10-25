@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_10_25/b204ca93f6f1170c1ce14ad9a934c882_200x200.jpg[Manny's Pale Ale - Georgetown Brewing Company] | Drinking a *Manny's Pale Ale* by *Georgetown Brewing Company*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_10_24/4d5d5e0f38309ee215ac037d34e998e1_200x200.jpg[Scribble - Great Notion Brewing] | Drinking a *Scribble* by *Great Notion Brewing*. It is a *Pilsner - Other* style of beer. | I rated it a *3.8*
 | image:https://assets.untappd.com/photos/2023_10_24/20f42969a174440199c78f883fd9373a_200x200.jpg[Mosaic Pale Ale - Stoup Brewing] | Drinking a *Mosaic Pale Ale* by *Stoup Brewing*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Yakima Caviar - Cloudburst Brewing] | Drinking a *Yakima Caviar* by *Cloudburst Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.5*
 // untappd end

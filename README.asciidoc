@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Air Gourd'n Pumpkin Porter (2023) - Solace Brewing Company] | Drinking a *Air Gourd'n Pumpkin Porter (2023)* by *Solace Brewing Company*. It is a *Pumpkin / Yam Beer* style of beer. | I rated it a *3.5*
 | image:https://assets.untappd.com/photos/2023_10_28/47553a35e190c670a07550658494f9ab_200x200.jpg[Orchard Blend Carbonated (Bubbles) - Doc Waters Cidery] | Drinking a *Orchard Blend Carbonated (Bubbles)* by *Doc Waters Cidery*. It is a *Cider - Dry* style of beer. | I rated it a *2.8*
 | image:https://assets.untappd.com/photos/2023_10_28/494904de5929390dbcfa79ce0d7988bb_200x200.jpg[Hopped Carbonated - Doc Waters Cidery] | Drinking a *Hopped Carbonated* by *Doc Waters Cidery*. It is a *Cider - Herbed / Spiced / Hopped* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_10_25/b204ca93f6f1170c1ce14ad9a934c882_200x200.jpg[Manny's Pale Ale - Georgetown Brewing Company] | Drinking a *Manny's Pale Ale* by *Georgetown Brewing Company*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
 // untappd end

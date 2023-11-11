@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_11_11/f0d86412c4275ae92fe8b6b4fb0b4562_200x200.jpg[Ask the Dead: Pecan - Lost Generation Brewing Company] | Drinking a *Ask the Dead: Pecan* by *Lost Generation Brewing Company*. It is a *Stout - Imperial / Double* style of beer. | I rated it a *3.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Birth of Liquid Desires - Lost Generation Brewing Company] | Drinking a *Birth of Liquid Desires* by *Lost Generation Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_11_05/4a3c7cfd5458a4a195d04ea79d96ea54_200x200.jpg[Polychrome- Blueberry & Pineapple - Proclamation Ale Company] | Drinking a *Polychrome- Blueberry & Pineapple* by *Proclamation Ale Company*. It is a *Sour - Fruited Berliner Weisse* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_11_05/b0c92a4a032551674a464d2cc84f6356_200x200.jpg[Inexplicably Used Umlaut - SingleCut Beersmiths] | Drinking a *Inexplicably Used Umlaut* by *SingleCut Beersmiths*. It is a *Festbier* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_11_04/a230213d51f2356db11cf4a9e9f8e7f5_200x200.jpg[Woke Up Sexy Again - One Family Brewing] | Drinking a *Woke Up Sexy Again* by *One Family Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *2.8*
 // untappd end

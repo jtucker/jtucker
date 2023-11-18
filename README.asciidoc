@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_11_18/18aaf798e50ec29c5ee417ccbc21a801_200x200.jpg[On Cassette - New Anthem Beer Project] | Drinking a *On Cassette* by *New Anthem Beer Project*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_11_17/50a121ba2725a8d0eab709f065994860_200x200.jpg[Call the Owl - Lost Generation Brewing Company] | Drinking a *Call the Owl* by *Lost Generation Brewing Company*. It is a *Lager - American* style of beer. | I rated it a *3.7*
 | image:https://assets.untappd.com/photos/2023_11_11/f0d86412c4275ae92fe8b6b4fb0b4562_200x200.jpg[Ask the Dead: Pecan - Lost Generation Brewing Company] | Drinking a *Ask the Dead: Pecan* by *Lost Generation Brewing Company*. It is a *Stout - Imperial / Double* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Birth of Liquid Desires - Lost Generation Brewing Company] | Drinking a *Birth of Liquid Desires* by *Lost Generation Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *3*
 // untappd end

@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_11_19/980fa13e7c36ee1e083756cd3e9e00e4_200x200.jpg[Insomniac's Daydream V4 (NZ Cascade And Citra) - Timber Ales] | Drinking a *Insomniac's Daydream V4 (NZ Cascade And Citra)* by *Timber Ales*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.7*
 | image:https://assets.untappd.com/photos/2023_11_19/c98f8d8917718e3a55a0a0446fc9a722_200x200.jpg[Weathered Together - Black Narrows Brewing Co.] | Drinking a *Weathered Together* by *Black Narrows Brewing Co.*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
 | image:https://assets.untappd.com/photos/2023_11_18/18aaf798e50ec29c5ee417ccbc21a801_200x200.jpg[On Cassette - New Anthem Beer Project] | Drinking a *On Cassette* by *New Anthem Beer Project*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_11_17/50a121ba2725a8d0eab709f065994860_200x200.jpg[Call the Owl - Lost Generation Brewing Company] | Drinking a *Call the Owl* by *Lost Generation Brewing Company*. It is a *Lager - American* style of beer. | I rated it a *3.7*
 // untappd end

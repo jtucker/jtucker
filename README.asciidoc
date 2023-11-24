@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://assets.untappd.com/photos/2023_11_24/d18f6c04c7127e985e8e21684916b282_200x200.jpg[Kellerbier - Charles Towne Fermentory] | Drinking a *Kellerbier* by *Charles Towne Fermentory*. It is a *Kellerbier / Zwickelbier* style of beer. | I rated it a *2.7*
+| image:https://assets.untappd.com/photos/2023_11_24/5021719ff4f1ccf7a5d7beb86ea2051b_200x200.jpg[Palaces of Montezuma - Ocelot Brewing Company] | Drinking a *Palaces of Montezuma* by *Ocelot Brewing Company*. It is a *Lager - Pale* style of beer. | I rated it a *4*
 | image:https://assets.untappd.com/photos/2023_11_23/1c597c40c16184db4f6131e667fa5494_200x200.jpg[Pêche - Une Année Brewery] | Drinking a *Pêche* by *Une Année Brewery*. It is a *Wild Ale - American* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_11_19/980fa13e7c36ee1e083756cd3e9e00e4_200x200.jpg[Insomniac's Daydream V4 (NZ Cascade And Citra) - Timber Ales] | Drinking a *Insomniac's Daydream V4 (NZ Cascade And Citra)* by *Timber Ales*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.7*
-| image:https://assets.untappd.com/photos/2023_11_19/c98f8d8917718e3a55a0a0446fc9a722_200x200.jpg[Weathered Together - Black Narrows Brewing Co.] | Drinking a *Weathered Together* by *Black Narrows Brewing Co.*. It is a *Pale Ale - American* style of beer. | I rated it a *3*
 // untappd end

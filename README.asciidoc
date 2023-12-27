@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2023_12_24/416ff38911957864dccfe576d80c00ed_200x200.jpg[Tmavé Pivo - Charles Towne Fermentory] | Drinking a *Tmavé Pivo* by *Charles Towne Fermentory*. It is a *Lager - Dark* style of beer. | I rated it a *3*
-| image:https://assets.untappd.com/photos/2023_12_24/262f8443dae68d8bebac23fda9488bcc_200x200.jpg[Celebration (2023) - Sierra Nevada Brewing Co.] | Drinking a *Celebration (2023)* by *Sierra Nevada Brewing Co.*. It is a *IPA - American* style of beer. | I rated it a *3*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Dismantle the Sun - Lost Generation Brewing Company] | Drinking a *Dismantle the Sun* by *Lost Generation Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.7*
+| image:https://assets.untappd.com/photos/2023_12_27/b66aadf0a4a8f10f483ed605806ba75b_200x200.jpg[Starchild - Frost Beer Works] | Drinking a *Starchild* by *Frost Beer Works*. It is a *IPA - New Zealand* style of beer. | I rated it a *4*
+| image:https://assets.untappd.com/photos/2023_12_27/8e7e605341e5d38e9aefc54a1564861c_200x200.jpg[Var - Halfway Crooks Beer] | Drinking a *Var* by *Halfway Crooks Beer*. It is a *Pilsner - Czech / Bohemian* style of beer. | I rated it a *3*
+| image:https://assets.untappd.com/photos/2023_12_27/b56707a2f2e4485d44e342cb4839bb73_200x200.jpg[Gong Water - Benchtop Brewing Company] | Drinking a *Gong Water* by *Benchtop Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.8*
 // untappd end

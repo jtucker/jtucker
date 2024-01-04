@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://assets.untappd.com/photos/2024_01_01/11be514d65dbbd9f90d59319c6b4f547_200x200.jpg[Augustin 13° - Schilling Beer Co.] | Drinking a *Augustin 13°* by *Schilling Beer Co.*. It is a *Lager - Amber / Red* style of beer. | I rated it a *3.7*
+| image:https://assets.untappd.com/photos/2024_01_01/11be514d65dbbd9f90d59319c6b4f547_200x200.jpg[Augustin 13° - Schilling Beer Co.] | Drinking a *Augustin 13°* by *Schilling Beer Co.*. It is a *Lager - Polotmavé (Czech Amber)* style of beer. | I rated it a *3.7*
 | image:https://assets.untappd.com/photos/2023_12_31/333da056a04d1034b65f1c70c71e578d_200x200.jpg[Alpino - Oxbow Brewing Company] | Drinking a *Alpino* by *Oxbow Brewing Company*. It is a *Lager - Strong* style of beer. | I rated it a *3.9*
 | image:https://assets.untappd.com/photos/2023_12_27/b66aadf0a4a8f10f483ed605806ba75b_200x200.jpg[Starchild - Frost Beer Works] | Drinking a *Starchild* by *Frost Beer Works*. It is a *IPA - New Zealand* style of beer. | I rated it a *4*
 // untappd end

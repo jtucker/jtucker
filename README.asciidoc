@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_01_28/8406162c0d10114d897dfe65e126d215_c_1352049357_raw.jpg[Lost Generator - Lost Generation Brewing Company] | Drinking a *Lost Generator* by *Lost Generation Brewing Company*. It is a *Bock - Doppelbock* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_01_23/df5ae389f278fb503b2b5a98aa039ad2_c_1350732921_raw.jpg[El Supremo Pilsner - Dynasty Brewing Company] | Drinking a *El Supremo Pilsner* by *Dynasty Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3.8*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_01_22/9049caee1d761d2ef26090e93e723b95_c_1350543775_raw.jpg[Willettized - Lagunitas Brewing Company] | Drinking a *Willettized* by *Lagunitas Brewing Company*. It is a *Stout - Imperial / Double Coffee* style of beer. | I rated it a *3.2*
-| image:https://assets.untappd.com/photos/2024_01_16/c3bd507a743c4c2eb65714cc53734201_200x200.jpg[Phrased #20 - Idiom Brewing Co.] | Drinking a *Phrased #20* by *Idiom Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
 // untappd end

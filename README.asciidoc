@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_02_04/1f45828c6412112ec448bda3cbebbc85_c_1353592081_raw.jpg[Monopolio Negra - Cervecería de San Luis ] | Drinking a *Monopolio Negra* by *Cervecería de San Luis *. It is a *Lager - Amber / Red* style of beer. | I rated it a *2.5*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_01_28/8406162c0d10114d897dfe65e126d215_c_1352049357_raw.jpg[Lost Generator - Lost Generation Brewing Company] | Drinking a *Lost Generator* by *Lost Generation Brewing Company*. It is a *Bock - Doppelbock* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_01_23/df5ae389f278fb503b2b5a98aa039ad2_c_1350732921_raw.jpg[El Supremo Pilsner - Dynasty Brewing Company] | Drinking a *El Supremo Pilsner* by *Dynasty Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3.8*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_01_22/9049caee1d761d2ef26090e93e723b95_c_1350543775_raw.jpg[Willettized - Lagunitas Brewing Company] | Drinking a *Willettized* by *Lagunitas Brewing Company*. It is a *Stout - Imperial / Double Coffee* style of beer. | I rated it a *3.2*
 // untappd end

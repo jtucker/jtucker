@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_01/1367dba84a943f11741cb5cf2cf5187b_c_1360089764_raw.jpg[Thousands Citrus - Pen Druid Brewing] | Drinking a *Thousands Citrus* by *Pen Druid Brewing*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3.5*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_02_25/4d155da1f0cdead377f526a77402755c_c_1358976929_raw.jpg[River Swell - The Drowned Lands Brewery] | Drinking a *River Swell* by *The Drowned Lands Brewery*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_02_24/9587b0bb67c89f9459788d7d6d36588f_c_1358359415_raw.jpg[Big Sheep Kolsch - Baa Baa Brewhouse] | Drinking a *Big Sheep Kolsch* by *Baa Baa Brewhouse*. It is a *Kölsch* style of beer. | I rated it a *2.9*
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_02/dc869b6e02d6b8c37150ce6cdf24ccab_c_1360150078_raw.jpg[Doom Mirage - The Veil Brewing Co.] | Drinking a *Doom Mirage* by *The Veil Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.8*
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_02/fe2431c58a4317e2bb6501488fd485ac_c_1360108556_raw.jpg[Spontaneous With Plums - Pen Druid Brewing] | Drinking a *Spontaneous With Plums* by *Pen Druid Brewing*. It is a *Wild Ale - American* style of beer. | I rated it a *3.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Aged Jupiter - Pen Druid Brewing] | Drinking a *Aged Jupiter* by *Pen Druid Brewing*. It is a *Wild Ale - American* style of beer. | I rated it a *4*
 // untappd end

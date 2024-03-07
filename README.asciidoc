@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_06/c439e7ec46db6c777b91dcf550acbf79_c_1361339540_raw.jpg[Evangelion XVI: Armisael (Ghost ARMISAEL) - Adroit Theory] | Drinking a *Evangelion XVI: Armisael (Ghost ARMISAEL)* by *Adroit Theory*. It is a *IPA - Triple New England / Hazy* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_02/dc869b6e02d6b8c37150ce6cdf24ccab_c_1360150078_raw.jpg[Doom Mirage - The Veil Brewing Co.] | Drinking a *Doom Mirage* by *The Veil Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.8*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_02/fe2431c58a4317e2bb6501488fd485ac_c_1360108556_raw.jpg[Spontaneous With Plums - Pen Druid Brewing] | Drinking a *Spontaneous With Plums* by *Pen Druid Brewing*. It is a *Wild Ale - American* style of beer. | I rated it a *3.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Aged Jupiter - Pen Druid Brewing] | Drinking a *Aged Jupiter* by *Pen Druid Brewing*. It is a *Wild Ale - American* style of beer. | I rated it a *4*
 // untappd end

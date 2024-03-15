@@ -1,6 +1,6 @@
 ﻿# Hey there, I'm Jason 👋
 
-Currently, I work at https://microsoft.com[Microsoft] as a Sr. Software Engineer. I spend my days between helping build tools to aid in protecting customers and promoting trust in Microsoft's software through compliance/security and fighting cybercrime. Though mostly it's about sharing dank memes with co-workers. 
+Currently, I work at https://microsoft.com[Microsoft] as a Principal Architect. I spend my days between helping build tools to aid in protecting customers and promoting trust in Microsoft's software through compliance/security and fighting cybercrime. Though mostly it's about sharing dank memes with co-workers. 
 
 I've been working in this industry since 1998 and have had various roles including: 
 - System Administration

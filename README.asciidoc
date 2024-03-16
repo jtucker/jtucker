@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_16/b47d0e4af173be7ac79da17516c4f724_c_1363812608_raw.jpg[Smash'in Cashmere - Carlsbad Brewing Co.] | Drinking a *Smash'in Cashmere* by *Carlsbad Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *2.9*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_15/ceca4d55470722497d39af7ab9810ce8_c_1363500029_raw.jpg[Colorblind - Twin Elephant Brewing Company] | Drinking a *Colorblind* by *Twin Elephant Brewing Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_10/3e2f78316300f78c7876d0f0644c6900_c_1362447774_raw.jpg[An Inevitable Reckoning - DSSOLVR] | Drinking a *An Inevitable Reckoning* by *DSSOLVR*. It is a *Lager - Munich Dunkel* style of beer. | I rated it a *3*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_10/ed48e99e429193de67b49600bb4d2175_c_1362431282_raw.jpg[Cool Side of the Pillow - One Family Brewing] | Drinking a *Cool Side of the Pillow* by *One Family Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
 // untappd end

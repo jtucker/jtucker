@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_18/24c2d10b35e627250f82087ddf017a29_c_1364659971_raw.jpg[IPA - pFriem Family Brewers] | Drinking a *IPA* by *pFriem Family Brewers*. It is a *IPA - American* style of beer. | I rated it a *3.2*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_17/73912ab71f9b58af4af59e0e329f33ed_c_1364351174_raw.jpg[Mopeds In Milan - The Lost Abbey] | Drinking a *Mopeds In Milan* by *The Lost Abbey*. It is a *Pilsner - Italian* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_17/ac1064ef982a5c4f3bf1ab153324674b_c_1364344463_raw.jpg[Butterfly Scratch - Mumford Brewing] | Drinking a *Butterfly Scratch* by *Mumford Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_16/6047cf343e50b81bb0427b2c455f7fdc_c_1364251856_raw.jpg[Pliny the Elder - Russian River Brewing Company] | Drinking a *Pliny the Elder* by *Russian River Brewing Company*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
 // untappd end

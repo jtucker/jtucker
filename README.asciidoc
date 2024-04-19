@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_19/d8bf5cf1a43c2568f4616167ede6685b_c_1373274447_raw.jpg[After The Rain - Magnanimous Brewing] | Drinking a *After The Rain* by *Magnanimous Brewing*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_19/0a9a638bcc6cce0167a67c1bbd258c96_c_1373274175_raw.jpg[Before The Rain - Magnanimous Brewing] | Drinking a *Before The Rain* by *Magnanimous Brewing*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Kolsch - Waterline Brewing Co.] | Drinking a *Kolsch* by *Waterline Brewing Co.*. It is a *Kölsch* style of beer. | I rated it a *3*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Semi-Dry Apple - Flat Rock Cider Company] | Drinking a *Semi-Dry Apple* by *Flat Rock Cider Company*. It is a *Cider - Dry* style of beer. | I rated it a *2*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_16/2c015f4d08dd68127803435144ca8241_c_1372825643_raw.jpg[Give Me Money, Not Flowers - Resident Culture Brewing Co.] | Drinking a *Give Me Money, Not Flowers* by *Resident Culture Brewing Co.*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *4*
 // untappd end

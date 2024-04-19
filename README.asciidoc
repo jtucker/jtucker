@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Kolsch - Waterline Brewing Co.] | Drinking a *Kolsch* by *Waterline Brewing Co.*. It is a *Kölsch* style of beer. | I rated it a *3*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Semi-Dry Apple - Flat Rock Cider Company] | Drinking a *Semi-Dry Apple* by *Flat Rock Cider Company*. It is a *Cider - Dry* style of beer. | I rated it a *2*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_16/2c015f4d08dd68127803435144ca8241_c_1372825643_raw.jpg[Give Me Money, Not Flowers - Resident Culture Brewing Co.] | Drinking a *Give Me Money, Not Flowers* by *Resident Culture Brewing Co.*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *4*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_16/7dd64c4a99870a3e919c8617337f1236_c_1372688874_raw.jpg[Tricycle Dust - Bill's Brewing Co.] | Drinking a *Tricycle Dust* by *Bill's Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *4*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_15/32268d14177edf319524c0e3601506a5_c_1372662301_raw.jpg[Cara Cara Orange Hefeweizen - Ponysaurus Brewing Co.] | Drinking a *Cara Cara Orange Hefeweizen* by *Ponysaurus Brewing Co.*. It is a *Wheat Beer - Hefeweizen* style of beer. | I rated it a *3*
 // untappd end

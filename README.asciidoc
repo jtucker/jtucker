@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_20/4f43efc45d7238e973cdcce8fa917098_c_1373599166_raw.jpg[Surfcasting - Oxbow Brewing Company] | Drinking a *Surfcasting* by *Oxbow Brewing Company*. It is a *Farmhouse Ale - Grisette* style of beer. | I rated it a *3.5*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_19/d8bf5cf1a43c2568f4616167ede6685b_c_1373274447_raw.jpg[After The Rain - Magnanimous Brewing] | Drinking a *After The Rain* by *Magnanimous Brewing*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_04_19/0a9a638bcc6cce0167a67c1bbd258c96_c_1373274175_raw.jpg[Before The Rain - Magnanimous Brewing] | Drinking a *Before The Rain* by *Magnanimous Brewing*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Kolsch - Waterline Brewing Co.] | Drinking a *Kolsch* by *Waterline Brewing Co.*. It is a *Kölsch* style of beer. | I rated it a *3*
 // untappd end

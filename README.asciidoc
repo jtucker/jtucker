@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_07/a6cc29ca72b0ee0fc4d599ecb410d80a_c_1397004210_raw.jpg[Emergency Pils - ONCO Fermentations] | Drinking a *Emergency Pils* by *ONCO Fermentations*. It is a *Pilsner - Other* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_06/cf533cfe18ed87ef933bb1009e30c59a_c_1396432409_raw.jpg[Foeder Coupage (Blend 2) - Perennial Artisan Ales] | Drinking a *Foeder Coupage (Blend 2)* by *Perennial Artisan Ales*. It is a *Farmhouse Ale - Bière de Coupage* style of beer. | I rated it a *3.8*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_05/ad4b32bac885931281f103026c51e573_c_1396192104_raw.jpg[Maximum Effort - Meier's Creek Brewing Company] | Drinking a *Maximum Effort* by *Meier's Creek Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_06_22/6c1a7d92785f93abdda7a5d4baa49ba6_c_1392051219_raw.jpg[Imaginary Rulebook - Divine Barrel Brewing] | Drinking a *Imaginary Rulebook* by *Divine Barrel Brewing*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.4*
 // untappd end

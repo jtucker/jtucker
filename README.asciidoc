@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_11/98cd77f28d1200e88ca5cacc376da197_c_1397973599_raw.jpg[This Must Be the Place - Bluejacket] | Drinking a *This Must Be the Place* by *Bluejacket*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_07/5640ae164455a70cd106a54114bd8bfa_c_1397014545_raw.jpg[Richard, Or Is It Dick? - ONCO Fermentations] | Drinking a *Richard, Or Is It Dick?* by *ONCO Fermentations*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_07/a6cc29ca72b0ee0fc4d599ecb410d80a_c_1397004210_raw.jpg[Emergency Pils - ONCO Fermentations] | Drinking a *Emergency Pils* by *ONCO Fermentations*. It is a *Pilsner - Other* style of beer. | I rated it a *3*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_06/cf533cfe18ed87ef933bb1009e30c59a_c_1396432409_raw.jpg[Foeder Coupage (Blend 2) - Perennial Artisan Ales] | Drinking a *Foeder Coupage (Blend 2)* by *Perennial Artisan Ales*. It is a *Farmhouse Ale - Bière de Coupage* style of beer. | I rated it a *3.8*
 // untappd end

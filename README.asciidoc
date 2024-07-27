@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_27/a94908f81c59cbfd48d53c076a77c624_c_1403047911_raw.jpg[Cold Pizza Pilsner - Black Hog Brewing Co.] | Drinking a *Cold Pizza Pilsner* by *Black Hog Brewing Co.*. It is a *Pilsner - Italian* style of beer. | I rated it a *2.7*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_21/ba7440b50f9a476d9d39eb13e6d0736d_c_1401058794_raw.jpg[Beer Mag - Ocelot Brewing Company] | Drinking a *Beer Mag* by *Ocelot Brewing Company*. It is a *Lager - American* style of beer. | I rated it a *3.5*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_11/98cd77f28d1200e88ca5cacc376da197_c_1397973599_raw.jpg[This Must Be the Place - Bluejacket] | Drinking a *This Must Be the Place* by *Bluejacket*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.2*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_07_07/5640ae164455a70cd106a54114bd8bfa_c_1397014545_raw.jpg[Richard, Or Is It Dick? - ONCO Fermentations] | Drinking a *Richard, Or Is It Dick?* by *ONCO Fermentations*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 // untappd end

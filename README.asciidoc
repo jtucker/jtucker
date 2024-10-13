@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_10_13/f49b42e1df7ebc8679d8ccf2d96303b6_c_1425177745_raw.jpg[Talisman - Strange Fellows Brewing] | Drinking a *Talisman* by *Strange Fellows Brewing*. It is a *Pale Ale - American* style of beer. | I rated it a *2.5*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_10_04/cfc58b93d154f5a333eef68d9ac2a59e_c_1422747634_raw.jpg[Total Eclipse - Nighthawk Brewery & Pizza] | Drinking a *Total Eclipse* by *Nighthawk Brewery & Pizza*. It is a *Lager - Mexican* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_09_28/3480e6814fc12bcbb07e994c5cd0b6a2_c_1421352058_raw.jpg[Hazy Like a Fox - New Realm Brewing Co.] | Drinking a *Hazy Like a Fox* by *New Realm Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_09_25/876740da192afa7ccd4a6992be28b4be_c_1420328680_raw.jpg[Work Sucks, I Know - Evil Genius Beer Company] | Drinking a *Work Sucks, I Know* by *Evil Genius Beer Company*. It is a *IPA - Session* style of beer. | I rated it a *3*
 // untappd end

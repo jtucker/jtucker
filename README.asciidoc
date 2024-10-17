@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_10_17/79cccb63bcb0c835fb504f5eba1d24be_c_1425998625_raw.jpg[River Beer - Great Notion Brewing] | Drinking a *River Beer* by *Great Notion Brewing*. It is a *Other* style of beer. | I rated it a *3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Easy Being Green - Matchless Brewing] | Drinking a *Easy Being Green* by *Matchless Brewing*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[African Amber - Mac & Jack's Brewing Company] | Drinking a *African Amber* by *Mac & Jack's Brewing Company*. It is a *Red Ale - American Amber / Red* style of beer. | I rated it a *2.8*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_10_13/f49b42e1df7ebc8679d8ccf2d96303b6_c_1425177745_raw.jpg[Talisman - Strange Fellows Brewing] | Drinking a *Talisman* by *Strange Fellows Brewing*. It is a *Pale Ale - American* style of beer. | I rated it a *2.5*
 // untappd end

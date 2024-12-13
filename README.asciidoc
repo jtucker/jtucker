@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_12_13/98f760d95d556ffc5210c63879e2b97c_c_1440651334_raw.jpg[Christmas Ale - Brouwerij St.Bernardus] | Drinking a *Christmas Ale* by *Brouwerij St.Bernardus*. It is a *Winter Ale* style of beer. | I rated it a *3.2*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_12_10/96cbbd79f1cb07ac4691963e719fdd5b_c_1440104747_raw.jpg[Venom - Crooked Run Fermentation] | Drinking a *Venom* by *Crooked Run Fermentation*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_12_08/05408010c8c2dfa44fa0782cf6714fee_c_1439919445_raw.jpg[Wave Czech - Humble Sea Brewing Co.] | Drinking a *Wave Czech* by *Humble Sea Brewing Co.*. It is a *Pilsner - Czech / Bohemian* style of beer. | I rated it a *3.5*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_12_08/32a822be1fc988504a7b9cc7963fc00a_c_1439918765_raw.jpg[What's In the Middle? - Grainworks Brewing Company] | Drinking a *What's In the Middle?* by *Grainworks Brewing Company*. It is a *Stout - Milk / Sweet* style of beer. | I rated it a *2.8*
 // untappd end

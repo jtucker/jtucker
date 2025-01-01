@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_01_01/ac86f95a037f63f018528bc1f5894d8d_c_1447136727_raw.jpg[Capisce - Proclamation Ale Company] | Drinking a *Capisce* by *Proclamation Ale Company*. It is a *Pilsner - Italian* style of beer. | I rated it a *4*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_12_31/b25971577eb4864e6c57c4c5ac37813f_c_1446589583_raw.jpg[Snow Pants - Union Craft Brewing] | Drinking a *Snow Pants* by *Union Craft Brewing*. It is a *Stout - Oatmeal* style of beer. | I rated it a *2.5*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Southern Hemi - Alvarado Street Brewery] | Drinking a *Southern Hemi* by *Alvarado Street Brewery*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.5*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_12_28/d98bc5634c2c14e75a77d768f8325f81_c_1445507957_raw.jpg[West Coast IPA Is Dead - Green Cheek Beer Company] | Drinking a *West Coast IPA Is Dead* by *Green Cheek Beer Company*. It is a *IPA - American* style of beer. | I rated it a *4*
 // untappd end

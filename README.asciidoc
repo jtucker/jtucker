@@ -34,7 +34,7 @@ image:https://spotify-github-profile.vercel.app/api/view?uid=soulposition&cover_
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_01_12/4a7e33b885b9e0f01f5d044449249148_c_1449531835_raw.jpg[Rings - Sojourn Fermentory] | Drinking a *Rings* by *Sojourn Fermentory*. It is a *Pale Ale - American* style of beer. | I rated it a *2.7*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_01_05/841e21a726cdf9d3d1eff1b77175cb8f_c_1448168169_raw.jpg[Never Gonnagetit - The Veil Brewing Co.] | Drinking a *Never Gonnagetit* by *The Veil Brewing Co.*. It is a *Sour - Fruited Gose* style of beer. | I rated it a *4*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_01_05/6f813c70d4f91303303f48e903d22fc2_c_1448167369_raw.jpg[Wandering Into the Fog (Krush) - Abomination Brewing Company] | Drinking a *Wandering Into the Fog (Krush)* by *Abomination Brewing Company*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_01_04/96735e3453b4ffdce76db1347344daf5_c_1448013598_raw.jpg[Weather Prophet - Lost Generation Brewing Company] | Drinking a *Weather Prophet* by *Lost Generation Brewing Company*. It is a *Pilsner - Other* style of beer. | I rated it a *3*
 // untappd end

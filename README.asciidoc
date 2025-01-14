@@ -2,11 +2,12 @@
 
 Currently, I work at https://microsoft.com[Microsoft] as a Principal Architect. I spend my days between helping build tools to aid in protecting customers and promoting trust in Microsoft's software through compliance/security and fighting cybercrime. Though mostly it's about sharing dank memes with co-workers. 
 
-I've been working in this industry since 1998 and have had various roles including: 
+I've been working in this industry since 1998 and have had various roles including:
+
 - System Administration
 - Developer (thick client & web)
 - Consultant
-- Scrum Master
+- Architect
 
 I've been lucky enough to work on projects of all types:
 
@@ -20,14 +21,11 @@ My current interests include:
 - Agile software methodologies
 - Behaviour Driven Development
 
-Feel free to reach out via any of the places below:
+Feel free to reach out via https://bsky.app/profile/jtucker.bsky.social[BlueSky], https://www.linkedin.com/in/jatucke/[LinkedIn] and still on https://twitter.com/jtucker[Twitter]. 
 
-image:https://img.shields.io/twitter/follow/jtucker?style=flat-square&color=blue["Twitter",link="https://twitter.com/jtucker"]
+### Spotify
 
-image:https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue["LinkedIn",link="https://linkedin.com/in/jatucke"]
-
-### What is currently blasting through my speakers
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false["Spotify",link="https://open.spotify.com/user/soulposition"]
 
 ### My Latest Untappd checkins
 

@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_02_02/2af774afd249c12df1dba54cea046185_c_1454186803_raw.jpg[Spruce Almighty - Red Bear Brewing Company] | Drinking a *Spruce Almighty* by *Red Bear Brewing Company*. It is a *Lager - American* style of beer. | I rated it a *2.6*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_01_19/2836987ca3e12919eb94e906367a8d60_c_1451050687_raw.jpg[Loose Lips Sink Ships - Burnish Beer Co.] | Drinking a *Loose Lips Sink Ships* by *Burnish Beer Co.*. It is a *Stout - American* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_01_12/4a7e33b885b9e0f01f5d044449249148_c_1449531835_raw.jpg[Rings - Sojourn Fermentory] | Drinking a *Rings* by *Sojourn Fermentory*. It is a *Pale Ale - American* style of beer. | I rated it a *2.7*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_01_05/841e21a726cdf9d3d1eff1b77175cb8f_c_1448168169_raw.jpg[Never Gonnagetit - The Veil Brewing Co.] | Drinking a *Never Gonnagetit* by *The Veil Brewing Co.*. It is a *Sour - Fruited Gose* style of beer. | I rated it a *4*
 // untappd end

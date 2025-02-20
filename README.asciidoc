@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_02_20/7cb9f744e5ab6dabab11436267948db5_c_1457834808_raw.jpg[Pilsner - Black Raven Brewing] | Drinking a *Pilsner* by *Black Raven Brewing*. It is a *Pilsner - Other* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_02_16/1498539ddba722800656ba7d19c9945d_c_1457307024_raw.jpg[Thrash Metal (Ghost THRASH METAL) - Adroit Theory] | Drinking a *Thrash Metal (Ghost THRASH METAL)* by *Adroit Theory*. It is a *Lager - Helles* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_02_16/d46069732881100f391abec3f5197513_c_1457306687_raw.jpg[Transmutation (Ghost TRANSMUTATION) - Adroit Theory] | Drinking a *Transmutation (Ghost TRANSMUTATION)* by *Adroit Theory*. It is a *Farmhouse Ale - Saison* style of beer. | I rated it a *3*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_02_16/7b9d9a2faec5b9d3105cf48e58b626ec_c_1457306234_raw.jpg[DOOM (Ghost 1277) - Adroit Theory] | Drinking a *DOOM (Ghost 1277)* by *Adroit Theory*. It is a *Bitter - Extra Special / Strong (ESB)* style of beer. | I rated it a *3*
 // untappd end

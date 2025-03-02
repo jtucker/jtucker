@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Depart Batch 2 Estate Triticale Lager - Wheatland Spring Farm + Brewery] | Drinking a *Depart Batch 2 Estate Triticale Lager* by *Wheatland Spring Farm + Brewery*. It is a *Lager - Other* style of beer. | I rated it a *0*
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_01/59b79a1d725d0ea351d705acf820010e_c_1460257644_raw.jpg[Nightfall - Wheatland Spring Farm + Brewery] | Drinking a *Nightfall* by *Wheatland Spring Farm + Brewery*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.8*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Consequent - Wheatland Spring Farm + Brewery] | Drinking a *Consequent* by *Wheatland Spring Farm + Brewery*. It is a *Lager - Světlé (Czech Pale)* style of beer. | I rated it a *3.5*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_01/c61088ae4e1533feab1336c0d6e52be0_c_1460196962_raw.jpg[Vales - Wheatland Spring Farm + Brewery] | Drinking a *Vales* by *Wheatland Spring Farm + Brewery*. It is a *Lager - Pale* style of beer. | I rated it a *3.6*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_02_22/b39b52bd7941d1a65245f73bc5153cd3_c_1458707052_raw.jpg[Delirium Tremens - Delirium - Huyghe Brewery] | Drinking a *Delirium Tremens* by *Delirium - Huyghe Brewery*. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *5*
 // untappd end

@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_15/f2ed4b060035aa9ab5ff460b46eec9f5_c_1463330731_raw.jpg[(No) Green Beer - Sloop Brewing Co.] | Drinking a *(No) Green Beer* by *Sloop Brewing Co.*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.5*
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_15/d3986c45c56fb42866affb234447e4da_c_1463330589_raw.jpg[Nectaron-Com - Bingo Beer Co.] | Drinking a *Nectaron-Com* by *Bingo Beer Co.*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3.5*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_11/37f0ee0dd9b2779e2cf5f35076ca9db1_c_1462558758_raw.jpg[NA PALE - DC Brau Brewing Company] | Drinking a *NA PALE* by *DC Brau Brewing Company*. It is a *Non-Alcoholic - Pale Ale* style of beer. | I rated it a *2*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_08/174e71b01dcf09243446d6e49003a1bd_c_1461583976_raw.jpg[Sunnyside Dweller - Ocelot Brewing Company] | Drinking a *Sunnyside Dweller* by *Ocelot Brewing Company*. It is a *Pilsner - German* style of beer. | I rated it a *3.3*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Depart Batch 2 Estate Triticale Lager - Wheatland Spring Farm + Brewery] | Drinking a *Depart Batch 2 Estate Triticale Lager* by *Wheatland Spring Farm + Brewery*. It is a *Lager - Other* style of beer. | I rated it a *0*
 // untappd end

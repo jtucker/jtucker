@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_27/80c16ff1d6eba99026ae1d1b2599fa2c_c_1466177502_raw.jpg[Where's Denali? - Lost Generation Brewing Company] | Drinking a *Where's Denali?* by *Lost Generation Brewing Company*. It is a *Pale Ale - American* style of beer. | I rated it a *3.9*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_25/1e3f7d14eb849534479a809023ca098f_c_1465998139_raw.jpg[Signal to Noise - Grimm Artisanal Ales] | Drinking a *Signal to Noise* by *Grimm Artisanal Ales*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_24/58cb201b4c798c68b8acff3f30ef63d5_c_1465770130_raw.jpg[Thiccolas Cage - Nepenthe Brewing Co.] | Drinking a *Thiccolas Cage* by *Nepenthe Brewing Co.*. It is a *Stout - Imperial / Double* style of beer. | I rated it a *3.7*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_22/bd85384ceeff354d14740b00dbe530f6_c_1464998173_raw.jpg[Early Appearance of Stars - Belleflower Brewing] | Drinking a *Early Appearance of Stars* by *Belleflower Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.5*
 // untappd end

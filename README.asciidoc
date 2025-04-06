@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_04_06/cf6bd3ef6d3d317ea4da27e530d54c14_c_1469000026_raw.jpg[Pivovarsky Bál (The Brewer's Ball) - Alternate Ending Beer Co.] | Drinking a *Pivovarsky Bál (The Brewer's Ball)* by *Alternate Ending Beer Co.*. It is a *Lager - Světlé (Czech Pale)* style of beer. | I rated it a *3*
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_04_06/b81258c1fa782e62037df832359d66a4_c_1468999009_raw.jpg[Cold Caprese Pizza - DSSOLVR] | Drinking a *Cold Caprese Pizza* by *DSSOLVR*. It is a *Pilsner - Italian* style of beer. | I rated it a *3.6*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_04_02/a21fab14619b76ae5a2189730dd8f4c2_c_1467725864_raw.jpg[Walking On Water - Lost Generation Brewing Company] | Drinking a *Walking On Water* by *Lost Generation Brewing Company*. It is a *IPA - Cold* style of beer. | I rated it a *4*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_27/80c16ff1d6eba99026ae1d1b2599fa2c_c_1466177502_raw.jpg[Where's Denali? - Lost Generation Brewing Company] | Drinking a *Where's Denali?* by *Lost Generation Brewing Company*. It is a *Pale Ale - American* style of beer. | I rated it a *3.9*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_03_25/1e3f7d14eb849534479a809023ca098f_c_1465998139_raw.jpg[Signal to Noise - Grimm Artisanal Ales] | Drinking a *Signal to Noise* by *Grimm Artisanal Ales*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *4*
 // untappd end

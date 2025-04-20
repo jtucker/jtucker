@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_04_20/c472cc3dabb1389293d30a86b9171a41_c_1472843555_raw.jpg[Pilz - Live Oak Brewing Company] | Drinking a *Pilz* by *Live Oak Brewing Company*. It is a *Pilsner - Czech / Bohemian* style of beer. | I rated it a *2.5*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_04_19/4c7744fe71dbff50925172ea1dc97e35_c_1472137885_raw.jpg[First Light - Hold Out Brewing] | Drinking a *First Light* by *Hold Out Brewing*. It is a *Pale Ale - New England / Hazy* style of beer. | I rated it a *4*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_04_19/9458a579e566ca8001670204c5523b57_c_1472137711_raw.jpg[Ripcord - Hold Out Brewing] | Drinking a *Ripcord* by *Hold Out Brewing*. It is a *IPA - American* style of beer. | I rated it a *3.7*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[SMaSH - (512) Brewing Company] | Drinking a *SMaSH* by *(512) Brewing Company*. It is a *IPA - American* style of beer. | I rated it a *2.5*
 // untappd end

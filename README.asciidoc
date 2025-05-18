@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_05_17/f31b49b8242d1e1b24ebccd701b0a339_c_1479930948_raw.jpg[Tidal Juice - Juicy Brewing Co] | Drinking a *Tidal Juice* by *Juicy Brewing Co*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *3*
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_05_17/d75a59310185d62c069cee80250fd0d7_c_1479928661_raw.jpg[Oberon Ale - Bell’s Brewery] | Drinking a *Oberon Ale* by *Bell’s Brewery*. It is a *Wheat Beer - American Pale Wheat* style of beer. | I rated it a *4*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_05_11/3653e7a442cbe38f6c5e12e5d5977e15_c_1478499993_raw.jpg[Hanami - Japas Cervejaria] | Drinking a *Hanami* by *Japas Cervejaria*. It is a *Sour - Fruited* style of beer. | I rated it a *3.2*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_05_11/6e7de22427fa8b18209ebf2df9cd7a3e_c_1478499828_raw.jpg[Hop Fusion 2.0 - Humble Sea Brewing Co.] | Drinking a *Hop Fusion 2.0* by *Humble Sea Brewing Co.*. It is a *IPA - Imperial / Double New England / Hazy* style of beer. | I rated it a *4*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_05_11/85db3e27e43a2a7f484828b8b00b1c50_c_1478499619_raw.jpg[Adorn - Wheatland Spring Farm + Brewery] | Drinking a *Adorn* by *Wheatland Spring Farm + Brewery*. It is a *Pilsner - Italian* style of beer. | I rated it a *3*
 // untappd end

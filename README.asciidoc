@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Worth the Wait IPA - Revelation Craft Brewing Company] | Drinking a *Worth the Wait IPA* by *Revelation Craft Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.7*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_06_07/d547138bde5b0031a1702338468c14ed_c_1485745766_raw.jpg[Rooted & Restless - Wheatland Spring Farm + Brewery] | Drinking a *Rooted & Restless* by *Wheatland Spring Farm + Brewery*. It is a *IPA - American* style of beer. | I rated it a *3.8*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_05_24/f051aa968d06d3168e031954c34124a8_c_1481784422_raw.jpg[Grape Fizz Ale - New Belgium Brewing Company] | Drinking a *Grape Fizz Ale* by *New Belgium Brewing Company*. It is a *Grape Ale - Other* style of beer. | I rated it a *2.9*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_05_20/8c33a7c4f1d09ff0b77dcb350ccba84f_c_1480570152_raw.jpg[Dreadful Beauty - Lost Generation Brewing Company] | Drinking a *Dreadful Beauty* by *Lost Generation Brewing Company*. It is a *IPA - New England / Hazy* style of beer. | I rated it a *3.1*
 // untappd end

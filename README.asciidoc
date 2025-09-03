@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_03/99b8bc75bc45ddfc6037a897345440d1_c_1510607350_raw.jpg[St. Idesbald Dubbel / Donker - Delirium - Huyghe Brewery] | Drinking a *St. Idesbald Dubbel / Donker* by *Delirium - Huyghe Brewery*. It is a *Belgian Dubbel* style of beer. | I rated it a *3.6*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_03/eb0ba9708ed9c6d9421263b0bb7c8d31_c_1510604418_raw.jpg[Delirium Red - Delirium - Huyghe Brewery] | Drinking a *Delirium Red* by *Delirium - Huyghe Brewery*. It is a *Fruit Beer* style of beer. | I rated it a *4.3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_02/49938aa985add0370b5a9e2cd179ce43_c_1510553489_raw.jpg[Rodenbach Vintage 2015 (Foeder N° 195) - Brouwerij Rodenbach] | Drinking a *Rodenbach Vintage 2015 (Foeder N° 195)* by *Brouwerij Rodenbach*. It is a *Sour - Flanders Red Ale* style of beer. | I rated it a *4*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_02/d096ef3c8c608100e1198e6717af3944_c_1510531786_raw.jpg[Poperings Hommelbier - Leroy Breweries ] | Drinking a *Poperings Hommelbier* by *Leroy Breweries *. It is a *Belgian Strong Golden Ale* style of beer. | I rated it a *3.2*
 // untappd end

@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_04/b893c5e0569b0d7eda04ce2cd71dcb82_c_1510867919_raw.jpg[SUPER 8 IPA - Brouwerij Haacht Brasserie] | Drinking a *SUPER 8 IPA* by *Brouwerij Haacht Brasserie*. It is a *IPA - Belgian* style of beer. | I rated it a *2.8*
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_04/e95d72f879b1fec4dbc8d5146c9ac09d_c_1510853401_raw.jpg[Duvel Tripel Hop Cashmere - Duvel Moortgat] | Drinking a *Duvel Tripel Hop Cashmere* by *Duvel Moortgat*. It is a *IPA - Belgian* style of beer. | I rated it a *3.5*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_04/c8d0f9efd7040754b615a6e713f639d5_c_1510834854_raw.jpg[Fourchette - Brouwerij Van Steenberge] | Drinking a *Fourchette* by *Brouwerij Van Steenberge*. It is a *Belgian Tripel* style of beer. | I rated it a *4*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_04/813046cf5d35a364be5cb16afcda554e_c_1510824189_raw.jpg[Kiss My Neighbour('s Wife) - Brouwerij The Musketeers] | Drinking a *Kiss My Neighbour('s Wife)* by *Brouwerij The Musketeers*. It is a *IPA - Sour* style of beer. | I rated it a *3*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_04/a35f854200c1226db4d03396a74344bf_c_1510805728_raw.jpg[Fourchette - Brouwerij Van Steenberge] | Drinking a *Fourchette* by *Brouwerij Van Steenberge*. It is a *Belgian Tripel* style of beer. | I rated it a *4*
 // untappd end

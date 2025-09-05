@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Chimay 175 - Bières de Chimay] | Drinking a *Chimay 175* by *Bières de Chimay*. It is a *Belgian Blonde* style of beer. | I rated it a *2.5*
+| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Legends Harmony - Brasserie des Légendes] | Drinking a *Legends Harmony* by *Brasserie des Légendes*. It is a *Belgian Blonde* style of beer. | I rated it a *3*
 | image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_05/9ecd03cf35aee268fc881f2ae54c5687_c_1511010605_raw.jpg[Fourchette - Brouwerij Van Steenberge] | Drinking a *Fourchette* by *Brouwerij Van Steenberge*. It is a *Belgian Tripel* style of beer. | I rated it a *4*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_05/b39360e55d8d8678648a218529fbba0d_c_1511004602_raw.jpg[Poperings Hommelbier Dry Hopped - Leroy Breweries ] | Drinking a *Poperings Hommelbier Dry Hopped* by *Leroy Breweries *. It is a *IPA - Belgian* style of beer. | I rated it a *2.5*
-| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_09_05/e8c9c29031cb58dbadeb06bafd3312a0_c_1510996980_raw.jpg[Cherry Vice - Brasserie du Borinage] | Drinking a *Cherry Vice* by *Brasserie du Borinage*. It is a *Lambic - Kriek* style of beer. | I rated it a *2.5*
 // untappd end

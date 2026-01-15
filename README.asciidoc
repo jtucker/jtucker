@@ -31,7 +31,7 @@ image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cov
 
 |====
 // untappd beer
+| image:https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2025_12_21/4a7f7dc1f0f2daae2edae5b247f7c855_c_1537078272_raw.jpg[Oblivion Seraph (Ghost 1711) - Adroit Theory] | Drinking a *Oblivion Seraph (Ghost 1711)* by *Adroit Theory*. It is a *IPA - Imperial / Double* style of beer. | I rated it a *3.1*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Bolleke De Koninck (APA) - Brouwerij De Koninck] | Drinking a *Bolleke De Koninck (APA)* by *Brouwerij De Koninck*. It is a *Pale Ale - Belgian* style of beer. | I rated it a *3*
 | image:https://via.placeholder.com/200?text=Missing+Beer+Image[Chimay 175 - Bières de Chimay] | Drinking a *Chimay 175* by *Bières de Chimay*. It is a *Belgian Blonde* style of beer. | I rated it a *2.5*
-| image:https://via.placeholder.com/200?text=Missing+Beer+Image[Legends Harmony - Brasserie des Légendes] | Drinking a *Legends Harmony* by *Brasserie des Légendes*. It is a *Belgian Blonde* style of beer. | I rated it a *3*
 // untappd end

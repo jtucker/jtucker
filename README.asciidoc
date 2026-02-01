@@ -23,6 +23,18 @@ My current interests include:
 
 Feel free to reach out via https://bsky.app/profile/jtucker.bsky.social[BlueSky], https://www.linkedin.com/in/jatucke/[LinkedIn] and still on https://twitter.com/jtucker[Twitter]. 
 
+### Local-first meal planning automation (idea)
+
+If you're leaning toward something like Tandoor but want local control, a hybrid approach works well:
+
+- **Recipe ingestion**: Use Tandoor or Mealie for core recipe storage and meal planning. For PDFs, run OCRmyPDF and ingest into Paperless-ngx or a simple Postgres table; for newsletters/websites, use n8n to fetch, clean with Readability, and store the normalized recipe text.
+- **Knowledge store**: Keep structured recipe metadata in Postgres (Tandoor already uses it). Add `pgvector` or a local vector store (Chroma/SQLite) for semantic search and personalized matching with ratings and family preferences.
+- **Context enrichment**: n8n can call free local-friendly APIs like Open-Meteo for weather and a seasonal produce dataset (USDA/LocalHarvest) keyed by ZIP code and month.
+- **Planning logic**: Use a local LLM (20B on RTX 4090 is plenty) with retrieval-augmented prompts plus simple rules (family size, dietary prefs, ratings, schedule) to build a weekly dinner plan.
+- **Output**: n8n formats the plan into an email and generates a grocery list grouped by category (produce/dairy/meat/pantry), optionally pushing to a calendar.
+
+**Alternatives**: Grocy (inventory + shopping), Mealie (lightweight recipes), or a custom stack (FastAPI + Postgres + pgvector + n8n) for full local control.
+
 ### Spotify
 
 image:https://spotify-github-profile.kittinanx.com/api/view?uid=soulposition&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false["Spotify",link="https://open.spotify.com/user/soulposition"]

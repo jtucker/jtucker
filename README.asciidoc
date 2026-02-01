@@ -23,7 +23,7 @@ My current interests include:
 
 Feel free to reach out via https://bsky.app/profile/jtucker.bsky.social[BlueSky], https://www.linkedin.com/in/jatucke/[LinkedIn] and still on https://twitter.com/jtucker[Twitter]. 
 
-### Local-first meal planning automation (idea)
+== Local-first meal planning automation (idea)
 
 If you're leaning toward something like Tandoor but want local control, a hybrid approach works well:
 
